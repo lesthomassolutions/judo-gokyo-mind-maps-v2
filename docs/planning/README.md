@@ -25,7 +25,7 @@ The first two decisions are the scope/design review that precedes the full build
 
 - [classification-proposal.json](classification-proposal.json): all 40 reference-checked proposed classes, preserving source values.
 - [direction-review.json](direction-review.json): all 40 source diagrams and non-publishable reflection candidates.
-- [relationship-review.json](relationship-review.json): 1,151 pairs / 1,211 variants, independent right/left review fields on every variant. All are unreviewed.
+- [relationship-review.json](relationship-review.json): index to [40 per-technique records](relationships/README.md) covering 1,151 pairs / 1,211 variants, with independent right/left review fields on every variant. All are unreviewed.
 - [media-review.json](media-review.json): illustration provenance/caption flags and video side/playback review state for every technique.
 
 These are review-preparation records, not functional test forms and not completed expert reviews. Do not mark issues #1–#5 complete because the records exist.

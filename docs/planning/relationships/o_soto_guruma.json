@@ -1,0 +1,698 @@
+{
+  "status": "unreviewed",
+  "designatedReviewer": "user",
+  "sourceCommit": "f57e44c45a753d0a7680c45021010e72425533a1",
+  "source": "o_soto_guruma",
+  "pairCount": 16,
+  "placementCount": 16,
+  "pairs": [
+    {
+      "id": "o_soto_guruma--tani_otoshi",
+      "source": "o_soto_guruma",
+      "target": "tani_otoshi",
+      "placements": [
+        {
+          "elementId": "WE91c9b1179f",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:410px;top:37px;width:auto;height:auto;background-color:#00b0f0",
+          "variantId": "o_soto_guruma--tani_otoshi--WE91c9b1179f",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--sumi_otoshi",
+      "source": "o_soto_guruma",
+      "target": "sumi_otoshi",
+      "placements": [
+        {
+          "elementId": "WEcbc0ef82bb",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:170px;top:145px;width:auto;height:auto;background-color:#974806",
+          "variantId": "o_soto_guruma--sumi_otoshi--WEcbc0ef82bb",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--kosoto_gake",
+      "source": "o_soto_guruma",
+      "target": "kosoto_gake",
+      "placements": [
+        {
+          "elementId": "WE44646457b3",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:500px;top:146px;width:auto;height:auto;background-color:#00b050",
+          "variantId": "o_soto_guruma--kosoto_gake--WE44646457b3",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--o_uchi_gari",
+      "source": "o_soto_guruma",
+      "target": "o_uchi_gari",
+      "placements": [
+        {
+          "elementId": "WE91329314d4",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:633px;top:161px;width:auto;height:auto;background-color:#ff0",
+          "variantId": "o_soto_guruma--o_uchi_gari--WE91329314d4",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--o_soto_gari",
+      "source": "o_soto_guruma",
+      "target": "o_soto_gari",
+      "placements": [
+        {
+          "elementId": "WE1bb1c3661c",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:200px;top:169px;width:auto;height:auto;background-color:#ff0",
+          "variantId": "o_soto_guruma--o_soto_gari--WE1bb1c3661c",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--kosoto_gari",
+      "source": "o_soto_guruma",
+      "target": "kosoto_gari",
+      "placements": [
+        {
+          "elementId": "WE5f6da69aa0",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:490px;top:172px;width:auto;height:auto;background-color:#f79646",
+          "variantId": "o_soto_guruma--kosoto_gari--WE5f6da69aa0",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--harai_goshi",
+      "source": "o_soto_guruma",
+      "target": "harai_goshi",
+      "placements": [
+        {
+          "elementId": "WEe8104f0096",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:330px;top:551px;width:auto;height:auto;background-color:#f79646",
+          "variantId": "o_soto_guruma--harai_goshi--WEe8104f0096",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--yoko_wakare",
+      "source": "o_soto_guruma",
+      "target": "yoko_wakare",
+      "placements": [
+        {
+          "elementId": "WE824317ae8a",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:167px;top:555px;width:auto;height:auto;background-color:#974806",
+          "variantId": "o_soto_guruma--yoko_wakare--WE824317ae8a",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--sasae_tsurikomi_ashi",
+      "source": "o_soto_guruma",
+      "target": "sasae_tsurikomi_ashi",
+      "placements": [
+        {
+          "elementId": "WE56ca386ebe",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:470px;top:564px;width:auto;height:auto;background-color:#ff0",
+          "variantId": "o_soto_guruma--sasae_tsurikomi_ashi--WE56ca386ebe",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--tai_otoshi",
+      "source": "o_soto_guruma",
+      "target": "tai_otoshi",
+      "placements": [
+        {
+          "elementId": "WE00a79ef60a",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:299px;top:576px;width:auto;height:auto;background-color:#f79646",
+          "variantId": "o_soto_guruma--tai_otoshi--WE00a79ef60a",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--uchi_mata",
+      "source": "o_soto_guruma",
+      "target": "uchi_mata",
+      "placements": [
+        {
+          "elementId": "WEf6c4fd3e65",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:270px;top:600px;width:auto;height:auto;background-color:#f79646",
+          "variantId": "o_soto_guruma--uchi_mata--WEf6c4fd3e65",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--koshi_guruma",
+      "source": "o_soto_guruma",
+      "target": "koshi_guruma",
+      "placements": [
+        {
+          "elementId": "WE4c39e02c2d",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:395px;top:655px;width:auto;height:20px;background-color:#f79646",
+          "variantId": "o_soto_guruma--koshi_guruma--WE4c39e02c2d",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--seoi_nage",
+      "source": "o_soto_guruma",
+      "target": "seoi_nage",
+      "placements": [
+        {
+          "elementId": "WE342ab79337",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:412px;top:680px;width:auto;height:20px;background-color:#ff0",
+          "variantId": "o_soto_guruma--seoi_nage--WE342ab79337",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--tomoe_nage",
+      "source": "o_soto_guruma",
+      "target": "tomoe_nage",
+      "placements": [
+        {
+          "elementId": "WE1be40c34eb",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:400px;top:705px;width:auto;height:20px;background-color:#00b050",
+          "variantId": "o_soto_guruma--tomoe_nage--WE1be40c34eb",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--tsurikomi_goshi",
+      "source": "o_soto_guruma",
+      "target": "tsurikomi_goshi",
+      "placements": [
+        {
+          "elementId": "WE3b87223e80",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:387px;top:730px;width:auto;height:20px;background-color:#f79646",
+          "variantId": "o_soto_guruma--tsurikomi_goshi--WE3b87223e80",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "o_soto_guruma--hiza_guruma",
+      "source": "o_soto_guruma",
+      "target": "hiza_guruma",
+      "placements": [
+        {
+          "elementId": "WE6ee190db31",
+          "container": "footer",
+          "sourceCSS": "position:absolute;left:399px;top:2px;width:auto;height:20px;background-color:#ff0",
+          "variantId": "o_soto_guruma--hiza_guruma--WE6ee190db31",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    }
+  ]
+}

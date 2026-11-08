@@ -1,0 +1,225 @@
+{
+  "status": "unreviewed",
+  "designatedReviewer": "user",
+  "sourceCommit": "f57e44c45a753d0a7680c45021010e72425533a1",
+  "source": "kosoto_gake",
+  "pairCount": 5,
+  "placementCount": 5,
+  "pairs": [
+    {
+      "id": "kosoto_gake--o_soto_gari",
+      "source": "kosoto_gake",
+      "target": "o_soto_gari",
+      "placements": [
+        {
+          "elementId": "WEb62ea34677",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:200px;top:169px;width:auto;height:auto;background-color:#ff0",
+          "variantId": "kosoto_gake--o_soto_gari--WEb62ea34677",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "kosoto_gake--o_uchi_gari",
+      "source": "kosoto_gake",
+      "target": "o_uchi_gari",
+      "placements": [
+        {
+          "elementId": "WE8fc6f89b73",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:633px;top:169px;width:auto;height:auto;background-color:#ff0",
+          "variantId": "kosoto_gake--o_uchi_gari--WE8fc6f89b73",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "kosoto_gake--tai_otoshi",
+      "source": "kosoto_gake",
+      "target": "tai_otoshi",
+      "placements": [
+        {
+          "elementId": "WEa8551d1a49",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:330px;top:560px;width:auto;height:auto;background-color:#f79646",
+          "variantId": "kosoto_gake--tai_otoshi--WEa8551d1a49",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "kosoto_gake--sumi_gaeshi",
+      "source": "kosoto_gake",
+      "target": "sumi_gaeshi",
+      "placements": [
+        {
+          "elementId": "WE1edd3c06bc",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:180px;top:570px;width:auto;height:auto;background-color:#00b0f0",
+          "variantId": "kosoto_gake--sumi_gaeshi--WE1edd3c06bc",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "kosoto_gake--seoi_nage",
+      "source": "kosoto_gake",
+      "target": "seoi_nage",
+      "placements": [
+        {
+          "elementId": "WE60ab1e70e3",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:414px;top:650px;width:auto;height:20px;background-color:#ff0",
+          "variantId": "kosoto_gake--seoi_nage--WE60ab1e70e3",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    }
+  ]
+}

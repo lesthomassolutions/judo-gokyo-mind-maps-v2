@@ -1,0 +1,268 @@
+{
+  "status": "unreviewed",
+  "designatedReviewer": "user",
+  "sourceCommit": "f57e44c45a753d0a7680c45021010e72425533a1",
+  "source": "seoi_nage",
+  "pairCount": 6,
+  "placementCount": 6,
+  "pairs": [
+    {
+      "id": "seoi_nage--sukui_nage",
+      "source": "seoi_nage",
+      "target": "sukui_nage",
+      "placements": [
+        {
+          "elementId": "WEe75b30edf1",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:409px;top:66px;width:auto;height:auto;background-color:#00b0f0",
+          "variantId": "seoi_nage--sukui_nage--WEe75b30edf1",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "seoi_nage--kouchi_gari",
+      "source": "seoi_nage",
+      "target": "kouchi_gari",
+      "placements": [
+        {
+          "elementId": "WE0c5b2d5c6d",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:405px;top:91px;width:auto;height:auto;background-color:#f79646",
+          "variantId": "seoi_nage--kouchi_gari--WE0c5b2d5c6d",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "seoi_nage--kosoto_gake",
+      "source": "seoi_nage",
+      "target": "kosoto_gake",
+      "placements": [
+        {
+          "elementId": "WEe4c6d372c1",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:500px;top:154px;width:auto;height:auto;background-color:#00b050",
+          "variantId": "seoi_nage--kosoto_gake--WEe4c6d372c1",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "seoi_nage--o_uchi_gari",
+      "source": "seoi_nage",
+      "target": "o_uchi_gari",
+      "placements": [
+        {
+          "elementId": "WE0f24d0cf2c",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:633px;top:166px;width:auto;height:auto;background-color:#ff0",
+          "variantId": "seoi_nage--o_uchi_gari--WE0f24d0cf2c",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "seoi_nage--o_soto_gari",
+      "source": "seoi_nage",
+      "target": "o_soto_gari",
+      "placements": [
+        {
+          "elementId": "WE87443cbe6b",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:200px;top:167px;width:auto;height:auto;background-color:#ff0",
+          "variantId": "seoi_nage--o_soto_gari--WE87443cbe6b",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "seoi_nage--kata_guruma",
+      "source": "seoi_nage",
+      "target": "kata_guruma",
+      "placements": [
+        {
+          "elementId": "WE835e312365",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:400px;top:680px;width:auto;height:20px;background-color:#00b050",
+          "variantId": "seoi_nage--kata_guruma--WE835e312365",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    }
+  ]
+}

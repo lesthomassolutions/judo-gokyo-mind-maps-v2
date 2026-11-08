@@ -1,0 +1,182 @@
+{
+  "status": "unreviewed",
+  "designatedReviewer": "user",
+  "sourceCommit": "f57e44c45a753d0a7680c45021010e72425533a1",
+  "source": "tomoe_nage",
+  "pairCount": 4,
+  "placementCount": 4,
+  "pairs": [
+    {
+      "id": "tomoe_nage--yoko_gake",
+      "source": "tomoe_nage",
+      "target": "yoko_gake",
+      "placements": [
+        {
+          "elementId": "WE63e6b6809c",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:100px;top:363px;width:auto;height:auto;background-color:#974806",
+          "variantId": "tomoe_nage--yoko_gake--WE63e6b6809c",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "tomoe_nage--uchi_mata",
+      "source": "tomoe_nage",
+      "target": "uchi_mata",
+      "placements": [
+        {
+          "elementId": "WE18374a3a6d",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:320px;top:544px;width:auto;height:auto;background-color:#f79646",
+          "variantId": "tomoe_nage--uchi_mata--WE18374a3a6d",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "tomoe_nage--sumi_gaeshi",
+      "source": "tomoe_nage",
+      "target": "sumi_gaeshi",
+      "placements": [
+        {
+          "elementId": "WE2262f8c3a8",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:180px;top:560px;width:auto;height:auto;background-color:#00b0f0",
+          "variantId": "tomoe_nage--sumi_gaeshi--WE2262f8c3a8",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "tomoe_nage--yoko_wakare",
+      "source": "tomoe_nage",
+      "target": "yoko_wakare",
+      "placements": [
+        {
+          "elementId": "WE00d4a7ed3b",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:130px;top:590px;width:auto;height:auto;background-color:#974806",
+          "variantId": "tomoe_nage--yoko_wakare--WE00d4a7ed3b",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    }
+  ]
+}

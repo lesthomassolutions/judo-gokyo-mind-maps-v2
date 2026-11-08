@@ -1,0 +1,182 @@
+{
+  "status": "unreviewed",
+  "designatedReviewer": "user",
+  "sourceCommit": "f57e44c45a753d0a7680c45021010e72425533a1",
+  "source": "ura_nage",
+  "pairCount": 4,
+  "placementCount": 4,
+  "pairs": [
+    {
+      "id": "ura_nage--tani_otoshi",
+      "source": "ura_nage",
+      "target": "tani_otoshi",
+      "placements": [
+        {
+          "elementId": "WE7e653b44ee",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:400px;top:40px;width:auto;height:auto;background-color:#00b0f0",
+          "variantId": "ura_nage--tani_otoshi--WE7e653b44ee",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "ura_nage--o_soto_gari",
+      "source": "ura_nage",
+      "target": "o_soto_gari",
+      "placements": [
+        {
+          "elementId": "WE64654eb265",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:200px;top:164px;width:auto;height:auto;background-color:#ff0",
+          "variantId": "ura_nage--o_soto_gari--WE64654eb265",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "ura_nage--o_uchi_gari",
+      "source": "ura_nage",
+      "target": "o_uchi_gari",
+      "placements": [
+        {
+          "elementId": "WEe275effa46",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:633px;top:164px;width:auto;height:auto;background-color:#ff0",
+          "variantId": "ura_nage--o_uchi_gari--WEe275effa46",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    },
+    {
+      "id": "ura_nage--yoko_guruma",
+      "source": "ura_nage",
+      "target": "yoko_guruma",
+      "placements": [
+        {
+          "elementId": "WE5ae50610bb",
+          "container": "content",
+          "sourceCSS": "position:absolute;left:400px;top:650px;width:auto;height:20px;background-color:#974806",
+          "variantId": "ura_nage--yoko_guruma--WE5ae50610bb",
+          "right": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null
+          },
+          "left": {
+            "status": "unreviewed",
+            "reviewer": null,
+            "reviewDate": null,
+            "evidence": [],
+            "context": null,
+            "mirrorDecision": "undecided"
+          }
+        }
+      ],
+      "right": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "left": {
+        "status": "unreviewed",
+        "evidence": [],
+        "reviewer": null,
+        "summaryOnly": true
+      },
+      "prerequisites": null,
+      "exceptions": null,
+      "kind": "unclassified"
+    }
+  ]
+}
