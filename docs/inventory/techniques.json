@@ -1,0 +1,1547 @@
+{
+  "date": "2026-11-08",
+  "sourceRepository": "lesthomassolutions/judo-gokyo-mind-maps",
+  "sourceCommit": "f57e44c45a753d0a7680c45021010e72425533a1",
+  "scope": "Evidence inventory, not replacement application data model",
+  "techniques": [
+    {
+      "id": "o_soto_guruma",
+      "name": "O Soto Guruma (Large Outer Wheel) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Gokyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "koshi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/o_soto_guruma.gif",
+        "Files/Image/o_soto_guruma_i.gif"
+      ],
+      "videos": [
+        "2zAr2dcRKhY"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "N"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WE7e9d01b878"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/o_soto_guruma.htm",
+      "relationshipAnchorCount": 16,
+      "distinctRelationshipTargets": 16,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "sumi_otoshi",
+      "name": "Sumi Otoshi (Corner Drop) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Gokyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "te_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/sumi_otoshi.gif",
+        "Files/Image/sumi_otoshi_i.gif"
+      ],
+      "videos": [
+        "5Zc_GGBmK98"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "NW"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "te_waza",
+      "illustrationCategory": "te_waza",
+      "videoTriggerIds": [
+        "WE1b4d93a988"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/sumi_otoshi.htm",
+      "relationshipAnchorCount": 38,
+      "distinctRelationshipTargets": 36,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "uki_waza",
+      "name": "Uki Waza (Floating Technique) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Gokyo"
+      ],
+      "categories": [
+        "sutemi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "images": [
+        "Files/Image/uki_waza.gif",
+        "Files/Image/uki_waza_i.gif"
+      ],
+      "videos": [
+        "R7rXDB6S-LI"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "yoko_sutemi_waza",
+      "illustrationCategory": "yoko_sutemi_waza",
+      "videoTriggerIds": [
+        "WEf1d4d17709"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/uki_waza.htm",
+      "relationshipAnchorCount": 33,
+      "distinctRelationshipTargets": 31,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "ura_nage",
+      "name": "Ura Nage (Rear Throw) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Gokyo"
+      ],
+      "categories": [
+        "sutemi_waza",
+        "ma_sutemi_waza"
+      ],
+      "images": [
+        "Files/Image/ura_nage.gif",
+        "Files/Image/ura_nage_i.gif"
+      ],
+      "videos": [
+        "YI1obnWrTdI"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "N"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ma_sutemi_waza",
+      "illustrationCategory": "ma_sutemi_waza",
+      "videoTriggerIds": [
+        "WE29e8a8459b"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/ura_nage.htm",
+      "relationshipAnchorCount": 4,
+      "distinctRelationshipTargets": 4,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "ushiro_goshi",
+      "name": "Ushiro Goshi (Rear Hip Throw) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Gokyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "images": [
+        "Files/Image/ushiro_goshi.gif",
+        "Files/Image/ushiro_goshi_i.gif"
+      ],
+      "videos": [
+        "b_2mR7mGG10"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "N"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "koshi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WE15a90f3cdd"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/ushiro_goshi.htm",
+      "relationshipAnchorCount": 11,
+      "distinctRelationshipTargets": 9,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "yoko_gake",
+      "name": "Yoko Gake (Side Drop) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Gokyo"
+      ],
+      "categories": [
+        "sutemi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "images": [
+        "Files/Image/yoko_gake.gif",
+        "Files/Image/yoko_gake_i.gif"
+      ],
+      "videos": [
+        "snzm2LZsj0g"
+      ],
+      "neWaza": 2,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "W",
+        "E"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "yoko_sutemi_waza",
+      "illustrationCategory": "yoko_sutemi_waza",
+      "videoTriggerIds": [
+        "WE3bedee3414"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/yoko_gake.htm",
+      "relationshipAnchorCount": 39,
+      "distinctRelationshipTargets": 38,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "yoko_guruma",
+      "name": "Yoko Guruma (Side Wheel) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Gokyo"
+      ],
+      "categories": [
+        "sutemi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "images": [
+        "Files/Image/yoko_guruma.gif",
+        "Files/Image/yoko_guruma_i.gif"
+      ],
+      "videos": [
+        "3cTnl6rB82k"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "yoko_sutemi_waza",
+      "illustrationCategory": "yoko_sutemi_waza",
+      "videoTriggerIds": [
+        "WE594d0f0edf"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/yoko_guruma.htm",
+      "relationshipAnchorCount": 39,
+      "distinctRelationshipTargets": 37,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "yoko_wakare",
+      "name": "Yoko Wakare (Side Separation) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Gokyo"
+      ],
+      "categories": [
+        "sutemi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "images": [
+        "Files/Image/yoko_wakare.gif",
+        "Files/Image/yoko_wakare_i.gif"
+      ],
+      "videos": [
+        "uDIDika0f1k"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "SW"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "yoko_sutemi_waza",
+      "illustrationCategory": "yoko_sutemi_waza",
+      "videoTriggerIds": [
+        "WE0f4c122ab0"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/yoko_wakare.htm",
+      "relationshipAnchorCount": 41,
+      "distinctRelationshipTargets": 39,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "deashi_harai",
+      "name": "Deashi Harai (Forward Foot Sweep) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Ikkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/deashi_harai.gif",
+        "Files/Image/deashi_harai_i.gif"
+      ],
+      "videos": [
+        "fcSMGRq0HMY"
+      ],
+      "neWaza": 1,
+      "title": "Deashi Harai (Forward Foot Sweep)",
+      "viewport": false,
+      "attackMapArrows": [
+        "S",
+        "SW"
+      ],
+      "highlightedSector": "S–SW",
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WEc3465bbfa5"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/deashi_harai.htm",
+      "relationshipAnchorCount": 39,
+      "distinctRelationshipTargets": 37,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "hiza_guruma",
+      "name": "Hiza Guruma (Knee Wheel) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Ikkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/hiza_guruma.gif",
+        "Files/Image/hiza_guruma_i.gif"
+      ],
+      "videos": [
+        "MbrtbT4ivoY"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": "SW–S and S–SE (arrow only S)",
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WE3d034245c4"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/hiza_guruma.htm",
+      "relationshipAnchorCount": 36,
+      "distinctRelationshipTargets": 34,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "o_goshi",
+      "name": "O Goshi (Major Hip Throw) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Ikkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "images": [
+        "Files/Image/o_goshi.gif",
+        "Files/Image/o_goshi_i.gif"
+      ],
+      "videos": [
+        "PFbILGwd5L4"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "koshi_waza",
+      "illustrationCategory": "koshi_waza",
+      "videoTriggerIds": [
+        "WE0b15ac2a46"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/o_goshi.htm",
+      "relationshipAnchorCount": 36,
+      "distinctRelationshipTargets": 34,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "o_soto_gari",
+      "name": "O Soto Gari (Major Outer Reap) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Ikkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/o_soto_gari.gif",
+        "Files/Image/o_soto_gari_i.gif"
+      ],
+      "videos": [
+        "Cik-jXhmsoE"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "NW"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "koshi_waza",
+      "videoTriggerIds": [
+        "WEe1572731af"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/o_soto_gari.htm",
+      "relationshipAnchorCount": 15,
+      "distinctRelationshipTargets": 15,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "o_uchi_gari",
+      "name": "O Uchi Gari (Major Inner Reap) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Ikkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/o_uchi_gari.gif",
+        "Files/Image/o_uchi_gari_i.gif"
+      ],
+      "videos": [
+        "MuLDvLFQTHs"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "NE"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WEd636e96d7f"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/o_uchi_gari.htm",
+      "relationshipAnchorCount": 38,
+      "distinctRelationshipTargets": 36,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "sasae_tsurikomi_ashi",
+      "name": "Sasae Tsurikomi Ashi (Lifting Pulling Ankle Block) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Ikkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/sasae_tsurikomi_ashi.gif",
+        "Files/Image/sasae_tsurikomi_ashi_i.gif"
+      ],
+      "videos": [
+        "QaSuu4Q7Xms"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S",
+        "SE"
+      ],
+      "highlightedSector": "S–SE",
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WEb2d8c533ef"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/sasae_tsurikomi_ashi.htm",
+      "relationshipAnchorCount": 6,
+      "distinctRelationshipTargets": 6,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "seoi_nage",
+      "name": "Seoi Nage (Shoulder Throw) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Ikkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "te_waza"
+      ],
+      "images": [
+        "Files/Image/seoi_nage.gif",
+        "Files/Image/seoi_nage_i.gif"
+      ],
+      "videos": [
+        "gbcRlZgDSwo"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "te_waza",
+      "illustrationCategory": "te_waza",
+      "videoTriggerIds": [
+        "WE41b5c71b7f"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/seoi_nage.htm",
+      "relationshipAnchorCount": 6,
+      "distinctRelationshipTargets": 6,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "uki_goshi",
+      "name": "Uki Goshi (Floating Hip) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Ikkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "images": [
+        "Files/Image/uki_goshi.gif",
+        "Files/Image/uki_goshi_i.gif"
+      ],
+      "videos": [
+        "SNTuDRgoOtg"
+      ],
+      "neWaza": 0,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "SW"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "koshi_waza",
+      "illustrationCategory": "koshi_waza",
+      "videoTriggerIds": [
+        "WE696ef755f7"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/uki_goshi.htm",
+      "relationshipAnchorCount": 38,
+      "distinctRelationshipTargets": 36,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "harai_goshi",
+      "name": "Harai Goshi (Sweeping Hip Throw) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Nikyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "images": [
+        "Files/Image/harai_goshi.gif",
+        "Files/Image/harai_goshi_i.gif"
+      ],
+      "videos": [
+        "hKkDMj8Vgxc"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S",
+        "SW"
+      ],
+      "highlightedSector": "S–SW",
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "koshi_waza",
+      "illustrationCategory": "koshi_waza",
+      "videoTriggerIds": [
+        "WE2147f0d304"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/harai_goshi.htm",
+      "relationshipAnchorCount": 36,
+      "distinctRelationshipTargets": 34,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "koshi_guruma",
+      "name": "Koshi Guruma (Hip Wheel) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Nikyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "images": [
+        "Files/Image/koshi_guruma.gif",
+        "Files/Image/Koshi_Guruma_technique.gif"
+      ],
+      "videos": [
+        "pJsQrgMhgk4"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "koshi_waza",
+      "illustrationCategory": "koshi_waza",
+      "videoTriggerIds": [
+        "WEa84736a3ea"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/koshi_guruma.htm",
+      "relationshipAnchorCount": 36,
+      "distinctRelationshipTargets": 34,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "kosoto_gari",
+      "name": "Kosoto Gari (Small Outside Reap) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Nikyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/kosoto_gari.gif",
+        "Files/Image/kosoto_gari_i.gif"
+      ],
+      "videos": [
+        "AdffYA9D3co"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "N",
+        "NE"
+      ],
+      "highlightedSector": "N–NE",
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WEc6a4c3e1d2"
+      ],
+      "startTarget": "index.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/kosoto_gari.htm",
+      "relationshipAnchorCount": 34,
+      "distinctRelationshipTargets": 32,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "kouchi_gari",
+      "name": "Kouchi Gari (Small Inner Reap) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Nikyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/kouchi_gari.gif",
+        "Files/Image/kouchi_gari_i.gif"
+      ],
+      "videos": [
+        "cwlmv52ccVQ"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "N"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WEa1672d4655"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/kouchi_gari.htm",
+      "relationshipAnchorCount": 41,
+      "distinctRelationshipTargets": 39,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "okuriashi_harai",
+      "name": "Okuriashi Harai (Following Foot Sweep) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Nikyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/okuriashi_harai.gif",
+        "Files/Image/okuriashi_harai_i.gif"
+      ],
+      "videos": [
+        "m3LNa46XPgI"
+      ],
+      "neWaza": 2,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "W",
+        "E"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WE6139eef356"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/okuriashi_harai.htm",
+      "relationshipAnchorCount": 38,
+      "distinctRelationshipTargets": 37,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "tai_otoshi",
+      "name": "Tai Otoshi (Body Drop) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Nikyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "te_waza"
+      ],
+      "images": [
+        "Files/Image/tai_otoshi.gif",
+        "Files/Image/tai_otoshi_i.gif"
+      ],
+      "videos": [
+        "fcEYbCP5jpA"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S",
+        "SW"
+      ],
+      "highlightedSector": "S–SW",
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "te_waza",
+      "illustrationCategory": "te_waza",
+      "videoTriggerIds": [
+        "WE1fbbf0b61b"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/tai_otoshi.htm",
+      "relationshipAnchorCount": 15,
+      "distinctRelationshipTargets": 15,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "tsurikomi_goshi",
+      "name": "Tsurikomi Goshi (Lifting Pulling Hip) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Nikyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "images": [
+        "Files/Image/tsurikomi_goshi.gif",
+        "Files/Image/tsurikomi_goshi_i.gif"
+      ],
+      "videos": [
+        "1eir0M1N40Q"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "koshi_waza",
+      "illustrationCategory": "koshi_waza",
+      "videoTriggerIds": [
+        "WE9adededf6b"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/tsurikomi_goshi.htm",
+      "relationshipAnchorCount": 36,
+      "distinctRelationshipTargets": 34,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "uchi_mata",
+      "name": "Uchi Mata (Inner Thigh Throw) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Nikyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/uchi_mata.gif",
+        "Files/Image/uchi_mata_i.gif"
+      ],
+      "videos": [
+        "7qeKv_dpLlw"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S",
+        "SW"
+      ],
+      "highlightedSector": "S–SW",
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WEebe7193292"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/uchi_mata.htm",
+      "relationshipAnchorCount": 40,
+      "distinctRelationshipTargets": 38,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "ashi_guruma",
+      "name": "Ashi Guruma (Leg Wheel) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Sankyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/ashi_guruma.gif",
+        "Files/Image/ashi_guruma_i.gif"
+      ],
+      "videos": [
+        "pnTq5wFPEFM"
+      ],
+      "neWaza": 1,
+      "title": " Ashi Guruma (Leg Wheel)",
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WEbab69f9a65"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/ashi_guruma.htm",
+      "relationshipAnchorCount": 36,
+      "distinctRelationshipTargets": 34,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "hane_goshi",
+      "name": "Hane Goshi (Spring Hip Throw) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Sankyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "images": [
+        "Files/Image/hane_goshi.gif",
+        "Files/Image/hane_goshi_i.gif"
+      ],
+      "videos": [
+        "sUvXz4BGD0k"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "koshi_waza",
+      "illustrationCategory": "koshi_waza",
+      "videoTriggerIds": [
+        "WE2646802517"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/hane_goshi.htm",
+      "relationshipAnchorCount": 36,
+      "distinctRelationshipTargets": 34,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "harai_tsurikomi_ashi",
+      "name": "Harai Tsurikomi Ashi (Lifting Pulling Foot Sweep) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Sankyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/Harai_Tsurikomi_Ashi.gif",
+        "Files/Image/harai_tsurikomi_ashi_i.gif"
+      ],
+      "videos": [
+        "y0NlrTWemQY"
+      ],
+      "neWaza": 2,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "W",
+        "SW",
+        "E",
+        "SE"
+      ],
+      "highlightedSector": "W–SW and E–SE",
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WE5db4386327"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/harai_tsurikomi_ashi.htm",
+      "relationshipAnchorCount": 9,
+      "distinctRelationshipTargets": 9,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "kata_guruma",
+      "name": "Kata Guruma (Shoulder Wheel) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Sankyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "te_waza"
+      ],
+      "images": [
+        "Files/Image/kata_guruma.gif",
+        "Files/Image/kata_guruma_i.gif"
+      ],
+      "videos": [
+        "hBSJoGYmEko"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "te_waza",
+      "illustrationCategory": "te_waza",
+      "videoTriggerIds": [
+        "WEa457cf3160"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/kata_guruma.htm",
+      "relationshipAnchorCount": 36,
+      "distinctRelationshipTargets": 34,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "kosoto_gake",
+      "name": "Kosoto Gake (Small Outside Hook) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Sankyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/kosoto_gake.gif",
+        "Files/Image/kosoto_gake_i.gif"
+      ],
+      "videos": [
+        "2PPomHBUv-M"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "N",
+        "NE"
+      ],
+      "highlightedSector": "N–NE",
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WEd7be368a59"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/kosoto_gake.htm",
+      "relationshipAnchorCount": 5,
+      "distinctRelationshipTargets": 5,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "tomoe_nage",
+      "name": "Tomoe Nage (Circle Throw) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Sankyo"
+      ],
+      "categories": [
+        "sutemi_waza",
+        "ma_sutemi_waza"
+      ],
+      "images": [
+        "Files/Image/tomoe_nage.gif",
+        "Files/Image/tomoe_nage_i.gif"
+      ],
+      "videos": [
+        "3jMnXGcoqjU"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ma_sutemi_waza",
+      "illustrationCategory": "ma_sutemi_waza",
+      "videoTriggerIds": [
+        "WE554d11c598"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/tomoe_nage.htm",
+      "relationshipAnchorCount": 4,
+      "distinctRelationshipTargets": 4,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "tsuri_goshi",
+      "name": "Tsuri Goshi (Lifting Hip) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Sankyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "images": [
+        "Files/Image/tsuri_goshi.gif",
+        "Files/Image/tsuri_goshi_i.gif"
+      ],
+      "videos": [
+        "2meKovMhZb8"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "koshi_waza",
+      "illustrationCategory": "koshi_waza",
+      "videoTriggerIds": [
+        "WE4bd1ddc064"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/tsuri_goshi.htm",
+      "relationshipAnchorCount": 36,
+      "distinctRelationshipTargets": 34,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "yoko_otoshi",
+      "name": "Yoko Otoshi (Side Drop) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Sankyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/yoko_otoshi.gif",
+        "Files/Image/yoko_otoshi_i.gif"
+      ],
+      "videos": [
+        "H4VADt6VfeI"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "W",
+        "SW"
+      ],
+      "highlightedSector": "W–SW",
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "yoko_sutemi_waza",
+      "illustrationCategory": "yoko_sutemi_waza",
+      "videoTriggerIds": [
+        "WE8f2eae4c23"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/yoko_otoshi.htm",
+      "relationshipAnchorCount": 38,
+      "distinctRelationshipTargets": 36,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "hane_makikomi",
+      "name": "Hane Makikomi (Spring Wrap-around Throw) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Yonkyo"
+      ],
+      "categories": [
+        "sutemi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "images": [
+        "Files/Image/hane_makikomi.gif",
+        "Files/Image/hane_makikomi_i.gif"
+      ],
+      "videos": [
+        "C1K30vTqbwI"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S",
+        "SW"
+      ],
+      "highlightedSector": "S–SW",
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "yoko_sutemi_waza",
+      "illustrationCategory": "yoko_sutemi_waza",
+      "videoTriggerIds": [
+        "WEd4f30636c3"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/hane_makikomi.htm",
+      "relationshipAnchorCount": 39,
+      "distinctRelationshipTargets": 37,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "o_guruma",
+      "name": "O Guruma (Large Wheel) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Yonkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "images": [
+        "Files/Image/o_guruma.gif",
+        "Files/Image/o_guruma_i.gif"
+      ],
+      "videos": [
+        "eWQRl13yWU8"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ashi_waza",
+      "illustrationCategory": "ashi_waza",
+      "videoTriggerIds": [
+        "WE2f7e8722ee"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/o_guruma.htm",
+      "relationshipAnchorCount": 36,
+      "distinctRelationshipTargets": 34,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "soto_makikomi",
+      "name": "Soto Makikomi (Outer Wrap Around) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Yonkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "sutemi_waza",
+        "ashi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "images": [
+        "Files/Image/soto_makikomi.gif",
+        "Files/Image/soto_makikomi_i.gif"
+      ],
+      "videos": [
+        "qXTdAEpwubw"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S",
+        "SW"
+      ],
+      "highlightedSector": "S–SW",
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "yoko_sutemi_waza",
+      "illustrationCategory": "yoko_sutemi_waza",
+      "videoTriggerIds": [
+        "WE66e0efeed9"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/soto_makikomi.htm",
+      "relationshipAnchorCount": 38,
+      "distinctRelationshipTargets": 36,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "sukui_nage",
+      "name": "Sukui Nage (Scoop Throw) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Yonkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "te_waza"
+      ],
+      "images": [
+        "Files/Image/sukui_nage.gif",
+        "Files/Image/sukui_nage_i.gif"
+      ],
+      "videos": [
+        "QWdv1E9vg3o"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "N"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "te_waza",
+      "illustrationCategory": "te_waza",
+      "videoTriggerIds": [
+        "WEc5051048e0"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/sukui_nage.htm",
+      "relationshipAnchorCount": 38,
+      "distinctRelationshipTargets": 36,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "sumi_gaeshi",
+      "name": "Sumi Gaeshi (Corner Reversal) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Yonkyo"
+      ],
+      "categories": [
+        "sutemi_waza",
+        "ma_sutemi_waza"
+      ],
+      "images": [
+        "Files/Image/sumi_gaeshi.gif",
+        "Files/Image/sumi_gaeshi_i.gif"
+      ],
+      "videos": [
+        "kod5QHdmE7E"
+      ],
+      "neWaza": 0,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "SW"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "ma_sutemi_waza",
+      "illustrationCategory": "ma_sutemi_waza",
+      "videoTriggerIds": [
+        "WEb8b492285a"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/sumi_gaeshi.htm",
+      "relationshipAnchorCount": 38,
+      "distinctRelationshipTargets": 36,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "tani_otoshi",
+      "name": "Tani Otoshi (Valley Drop) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Yonkyo"
+      ],
+      "categories": [
+        "sutemi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "images": [
+        "Files/Image/tani_otoshi.gif",
+        "Files/Image/tani_otoshi_i.gif"
+      ],
+      "videos": [
+        "2nC1O0pKQEQ"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "N"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "yoko_sutemi_waza",
+      "illustrationCategory": "yoko_sutemi_waza",
+      "videoTriggerIds": [
+        "WEaa34286260"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/tani_otoshi.htm",
+      "relationshipAnchorCount": 39,
+      "distinctRelationshipTargets": 37,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "uki_otoshi",
+      "name": "Uki Otoshi (Floating Drop) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Yonkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "te_waza"
+      ],
+      "images": [
+        "Files/Image/uki_otoshi.gif",
+        "Files/Image/uki_otoshi_i.gif"
+      ],
+      "videos": [
+        "kiLCfJk2mEA"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "te_waza",
+      "illustrationCategory": "te_waza",
+      "videoTriggerIds": [
+        "WE5deaeabbc1"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/uki_otoshi.htm",
+      "relationshipAnchorCount": 33,
+      "distinctRelationshipTargets": 31,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    },
+    {
+      "id": "utsuri_goshi",
+      "name": "Utsuri Goshi (Changing Hip Throw) Happo No Kuzushi Nagewaza Mind Map Classic Right Sided Perspective",
+      "groups": [
+        "Dai_Yonkyo"
+      ],
+      "categories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "images": [
+        "Files/Image/utsuri_goshi.gif",
+        "Files/Image/utsuri_goshi_i.gif"
+      ],
+      "videos": [
+        "EBTuQZmaaOc"
+      ],
+      "neWaza": 1,
+      "title": null,
+      "viewport": false,
+      "attackMapArrows": [
+        "S"
+      ],
+      "highlightedSector": null,
+      "directionFrame": "Screen coordinates of source GIF; N=up, S=down, E=right, W=left. Not a verified anatomical kuzushi model.",
+      "expectedCategory": "koshi_waza",
+      "illustrationCategory": "koshi_waza",
+      "videoTriggerIds": [
+        "WE25a6b35e3e"
+      ],
+      "startTarget": "gokyo_no_waza.htm",
+      "print": true,
+      "sourcePage": "https://github.com/lesthomassolutions/judo-gokyo-mind-maps/blob/f57e44c45a753d0a7680c45021010e72425533a1/utsuri_goshi.htm",
+      "relationshipAnchorCount": 39,
+      "distinctRelationshipTargets": 37,
+      "relationReviewStatus": "unreviewed",
+      "leftHandReviewStatus": "unreviewed"
+    }
+  ]
+}

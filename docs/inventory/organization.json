@@ -1,0 +1,1108 @@
+{
+  "actualSource": {
+    "Dai_Ikkyo": [
+      {
+        "href": "o_soto_gari.htm",
+        "label": "O Soto Gari",
+        "element": "WE2760542092",
+        "css": "position:absolute;left:200px;top:169px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "o_uchi_gari.htm",
+        "label": "O Uchi Gari",
+        "element": "WEccd29d6d6c",
+        "css": "position:absolute;left:633px;top:169px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "deashi_harai.htm",
+        "label": "Deashi Harai",
+        "element": "WE3237b5ede3",
+        "css": "position:absolute;left:320px;top:562px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "uki_goshi.htm",
+        "label": "Uki Goshi",
+        "element": "WE907f3364df",
+        "css": "position:absolute;left:201px;top:563px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "sasae_tsurikomi_ashi.htm",
+        "label": "Sasae Tsurikomi Ashi",
+        "element": "WE79e99cb399",
+        "css": "position:absolute;left:470px;top:572px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "hiza_guruma.htm",
+        "label": "Hiza Guruma",
+        "element": "WE4ce4340edb",
+        "css": "position:absolute;left:400px;top:640px;width:auto;height:20px;background-color:#ff0"
+      },
+      {
+        "href": "o_goshi.htm",
+        "label": "O Goshi",
+        "element": "WEb6d0e40066",
+        "css": "position:absolute;left:423px;top:670px;width:auto;height:20px;background-color:#ff0"
+      },
+      {
+        "href": "seoi_nage.htm",
+        "label": "Seoi Nage",
+        "element": "WE50d7459e72",
+        "css": "position:absolute;left:412px;top:700px;width:auto;height:20px;background-color:#ff0"
+      }
+    ],
+    "Dai_Nikyo": [
+      {
+        "href": "kouchi_gari.htm",
+        "label": "Ko Uchi Gari",
+        "element": "WE85bddda0fa",
+        "css": "position:absolute;left:406px;top:92px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "kosoto_gari.htm",
+        "label": "Ko Soto Gari",
+        "element": "WE25228cb170",
+        "css": "position:absolute;left:490px;top:180px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "okuriashi_harai.htm",
+        "label": "Okuriashi Harai",
+        "element": "WEc973cf22a2",
+        "css": "position:absolute;left:55px;top:364px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "okuriashi_harai.htm",
+        "label": "Okuriashi Harai",
+        "element": "WE32a656a1cb",
+        "css": "position:absolute;left:720px;top:364px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "harai_goshi.htm",
+        "label": "Harai Goshi",
+        "element": "WE3c21fe8649",
+        "css": "position:absolute;left:310px;top:550px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "tai_otoshi.htm",
+        "label": "Tai Otoshi",
+        "element": "WE5021326c47",
+        "css": "position:absolute;left:280px;top:580px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "uchi_mata.htm",
+        "label": "Uchi Mata",
+        "element": "WE19cbaeec04",
+        "css": "position:absolute;left:250px;top:610px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "koshi_guruma.htm",
+        "label": "Koshi Guruma",
+        "element": "WE86935bce2e",
+        "css": "position:absolute;left:398px;top:640px;width:auto;height:20px;background-color:#f79646"
+      },
+      {
+        "href": "tsurikomi_goshi.htm",
+        "label": "Tsurikomi Goshi",
+        "element": "WE74806d5093",
+        "css": "position:absolute;left:390px;top:670px;width:auto;height:20px;background-color:#f79646"
+      }
+    ],
+    "Dai_Sankyo": [
+      {
+        "href": "kosoto_gake.htm",
+        "label": "Ko Soto Gake",
+        "element": "WEde1408dfb8",
+        "css": "position:absolute;left:480px;top:170px;width:auto;height:auto;background-color:#00b050"
+      },
+      {
+        "href": "harai_tsurikomi_ashi.htm",
+        "label": "Harai Tsurikomi Ashi",
+        "element": "WEce7fe24a59",
+        "css": "position:absolute;left:102px;top:432px;width:auto;height:auto;background-color:#00b050"
+      },
+      {
+        "href": "yoko_otoshi.htm",
+        "label": "Yoko Otoshi",
+        "element": "WE8aec4ae3ec",
+        "css": "position:absolute;left:190px;top:456px;width:auto;height:auto;background-color:#00b050"
+      },
+      {
+        "href": "ashi_guruma.htm",
+        "label": "Ashi Guruma",
+        "element": "WE78f5cf11c6",
+        "css": "position:absolute;left:402px;top:642px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "hane_goshi.htm",
+        "label": "Hane Goshi",
+        "element": "WEee6868b8ec",
+        "css": "position:absolute;left:408px;top:667px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "kata_guruma.htm",
+        "label": "Kata Guruma",
+        "element": "WEcbb896aead",
+        "css": "position:absolute;left:400px;top:692px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "tomoe_nage.htm",
+        "label": "Tomoe Nage",
+        "element": "WE0695c9b639",
+        "css": "position:absolute;left:402px;top:717px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "tsuri_goshi.htm",
+        "label": "Tsuri Goshi",
+        "element": "WE2d2bd931b5",
+        "css": "position:absolute;left:409px;top:742px;width:auto;height:20px;background-color:#00b050"
+      }
+    ],
+    "Dai_Yonkyo": [
+      {
+        "href": "tani_otoshi.htm",
+        "label": "Tani Otoshi",
+        "element": "WE640a83cb7b",
+        "css": "position:absolute;left:404px;top:60px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "sukui_nage.htm",
+        "label": "Sukui Nage",
+        "element": "WEfd36809990",
+        "css": "position:absolute;left:404px;top:90px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "hane_makikomi.htm",
+        "label": "Hane Makikomi",
+        "element": "WE59bfa37c92",
+        "css": "position:absolute;left:300px;top:560px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "sumi_gaeshi.htm",
+        "label": "Sumi Gaeshi",
+        "element": "WE516f2466fc",
+        "css": "position:absolute;left:175px;top:565px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "soto_makikomi.htm",
+        "label": "Soto Makikomi",
+        "element": "WEfbfff4a28d",
+        "css": "position:absolute;left:290px;top:590px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "o_guruma.htm",
+        "label": "O Guruma",
+        "element": "WEf35c5d649c",
+        "css": "position:absolute;left:409px;top:640px;width:auto;height:20px;background-color:#00b0f0"
+      },
+      {
+        "href": "uki_otoshi.htm",
+        "label": "Uki Otoshi",
+        "element": "WEfc13deb7a6",
+        "css": "position:absolute;left:409px;top:670px;width:auto;height:20px;background-color:#00b0f0"
+      },
+      {
+        "href": "utsuri_goshi.htm",
+        "label": "Utsuri Goshi",
+        "element": "WEf5582a3e7d",
+        "css": "position:absolute;left:401px;top:700px;width:auto;height:20px;background-color:#00b0f0"
+      }
+    ],
+    "Dai_Gokyo": [
+      {
+        "href": "ushiro_goshi.htm",
+        "label": "Ushiro Goshi",
+        "element": "WE3e536f9fea",
+        "css": "position:absolute;left:399px;top:30px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "ura_nage.htm",
+        "label": "Ura Nage",
+        "element": "WEa39b7005e8",
+        "css": "position:absolute;left:412px;top:60px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "o_soto_guruma.htm",
+        "label": "O Soto Guruma",
+        "element": "WEd6007dc2ac",
+        "css": "position:absolute;left:386px;top:90px;width:auto;height:auto;color:#fff;background-color:#974806"
+      },
+      {
+        "href": "sumi_otoshi.htm",
+        "label": "Sumi Otoshi",
+        "element": "WEb2a7c6fbe0",
+        "css": "position:absolute;left:200px;top:166px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "yoko_gake.htm",
+        "label": "Yoko Gake",
+        "element": "WEebaafe46a7",
+        "css": "position:absolute;left:94px;top:364px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "yoko_gake.htm",
+        "label": "Yoko Gake",
+        "element": "WEb881f60b78",
+        "css": "position:absolute;left:720px;top:364px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "yoko_wakare.htm",
+        "label": "Yoko Wakare",
+        "element": "WE47a611650f",
+        "css": "position:absolute;left:200px;top:564px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "uki_waza.htm",
+        "label": "Uki Waza",
+        "element": "WE050d7fa012",
+        "css": "position:absolute;left:412px;top:640px;width:auto;height:20px;background-color:#974806"
+      },
+      {
+        "href": "yoko_guruma.htm",
+        "label": "Yoko Guruma",
+        "element": "WE3b89450883",
+        "css": "position:absolute;left:394px;top:670px;width:auto;height:20px;background-color:#974806"
+      }
+    ],
+    "tachi_waza": [
+      {
+        "href": "ushiro_goshi.htm",
+        "label": "Ushiro Goshi",
+        "element": "WE6eea98f873",
+        "css": "position:absolute;left:395px;top:17px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "sukui_nage.htm",
+        "label": "Sukui Nage",
+        "element": "WE7179eb8b6c",
+        "css": "position:absolute;left:400px;top:43px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "o_soto_guruma.htm",
+        "label": "O Soto Guruma",
+        "element": "WE4582d07186",
+        "css": "position:absolute;left:382px;top:67px;width:auto;height:auto;color:#fff;background-color:#974806"
+      },
+      {
+        "href": "kouchi_gari.htm",
+        "label": "Ko Uchi Gari",
+        "element": "WE449c77a540",
+        "css": "position:absolute;left:396px;top:92px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "sumi_otoshi.htm",
+        "label": "Sumi Otoshi",
+        "element": "WE038b7730a6",
+        "css": "position:absolute;left:170px;top:145px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "kosoto_gake.htm",
+        "label": "Ko Soto Gake",
+        "element": "WE6552d6d53f",
+        "css": "position:absolute;left:500px;top:154px;width:auto;height:auto;background-color:#00b050"
+      },
+      {
+        "href": "o_soto_gari.htm",
+        "label": "O Soto Gari",
+        "element": "WE737279bc2e",
+        "css": "position:absolute;left:200px;top:169px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "o_uchi_gari.htm",
+        "label": "O Uchi Gari",
+        "element": "WEa30671e6ed",
+        "css": "position:absolute;left:633px;top:169px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "kosoto_gari.htm",
+        "label": "Ko Soto Gari",
+        "element": "WE9b8f1a6dba",
+        "css": "position:absolute;left:490px;top:180px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "okuriashi_harai.htm",
+        "label": "Okuriashi Harai",
+        "element": "WEc3d67b4b2e",
+        "css": "position:absolute;left:55px;top:364px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "okuriashi_harai.htm",
+        "label": "Okuriashi Harai",
+        "element": "WEe30d360ca5",
+        "css": "position:absolute;left:720px;top:364px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "harai_tsurikomi_ashi.htm",
+        "label": "Harai Tsurikomi Ashi",
+        "element": "WE6e6f547696",
+        "css": "position:absolute;left:102px;top:432px;width:auto;height:auto;background-color:#00b050"
+      },
+      {
+        "href": "yoko_otoshi.htm",
+        "label": "Yoko Otoshi",
+        "element": "WE06921ba184",
+        "css": "position:absolute;left:190px;top:456px;width:auto;height:auto;background-color:#00b050"
+      },
+      {
+        "href": "deashi_harai.htm",
+        "label": "Deashi Harai",
+        "element": "WEb28f2a6b2a",
+        "css": "position:absolute;left:320px;top:562px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "uki_goshi.htm",
+        "label": "Uki Goshi",
+        "element": "WEc8f186912e",
+        "css": "position:absolute;left:199px;top:564px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "sasae_tsurikomi_ashi.htm",
+        "label": "Sasae Tsurikomi Ashi",
+        "element": "WE00000642d5",
+        "css": "position:absolute;left:470px;top:572px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "harai_goshi.htm",
+        "label": "Harai Goshi",
+        "element": "WE2615671b34",
+        "css": "position:absolute;left:300px;top:588px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "soto_makikomi.htm",
+        "label": "Soto Makikomi",
+        "element": "WE54c1bb6779",
+        "css": "position:absolute;left:270px;top:614px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "tai_otoshi.htm",
+        "label": "Tai Otoshi",
+        "element": "WEe1914d9842",
+        "css": "position:absolute;left:250px;top:640px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "ashi_guruma.htm",
+        "label": "Ashi Guruma",
+        "element": "WE4860a68553",
+        "css": "position:absolute;left:400px;top:642px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "uchi_mata.htm",
+        "label": "Uchi Mata",
+        "element": "WE23d5464716",
+        "css": "position:absolute;left:230px;top:665px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "hane_goshi.htm",
+        "label": "Hane Goshi",
+        "element": "WE0acec91c57",
+        "css": "position:absolute;left:369px;top:670px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "hiza_guruma.htm",
+        "label": "Hiza Guruma",
+        "element": "WE73453cd9fd",
+        "css": "position:absolute;left:480px;top:670px;width:auto;height:20px;background-color:#ff0"
+      },
+      {
+        "href": "kata_guruma.htm",
+        "label": "Kata Guruma",
+        "element": "WE3aa40df648",
+        "css": "position:absolute;left:347px;top:698px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "koshi_guruma.htm",
+        "label": "Koshi Guruma",
+        "element": "WE7e8b250ac2",
+        "css": "position:absolute;left:476px;top:698px;width:auto;height:20px;background-color:#f79646"
+      },
+      {
+        "href": "o_goshi.htm",
+        "label": "O Goshi",
+        "element": "WE4fdbce55fb",
+        "css": "position:absolute;left:347px;top:726px;width:auto;height:20px;background-color:#ff0"
+      },
+      {
+        "href": "o_guruma.htm",
+        "label": "O Guruma",
+        "element": "WEb8ffc3259d",
+        "css": "position:absolute;left:425px;top:726px;width:auto;height:20px;background-color:#00b0f0"
+      },
+      {
+        "href": "seoi_nage.htm",
+        "label": "Seoi Nage",
+        "element": "WE1010c2c8e3",
+        "css": "position:absolute;left:527px;top:726px;width:auto;height:20px;background-color:#ff0"
+      },
+      {
+        "href": "tsuri_goshi.htm",
+        "label": "Tsuri Goshi",
+        "element": "WE68c05d162a",
+        "css": "position:absolute;left:359px;top:754px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "tsurikomi_goshi.htm",
+        "label": "Tsurikomi Goshi",
+        "element": "WEa4f18b3005",
+        "css": "position:absolute;left:469px;top:754px;width:auto;height:20px;background-color:#f79646"
+      },
+      {
+        "href": "uki_otoshi.htm",
+        "label": "Uki Otoshi",
+        "element": "WEe63667640f",
+        "css": "position:absolute;left:369px;top:780px;width:auto;height:20px;background-color:#00b0f0"
+      },
+      {
+        "href": "utsuri_goshi.htm",
+        "label": "Utsuri Goshi",
+        "element": "WE8673c7d4f9",
+        "css": "position:absolute;left:469px;top:780px;width:auto;height:20px;background-color:#00b0f0"
+      }
+    ],
+    "sutemi_waza": [
+      {
+        "href": "ura_nage.htm",
+        "label": "Ura Nage",
+        "element": "WE4a8e1772cf",
+        "css": "position:absolute;left:413px;top:64px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "tani_otoshi.htm",
+        "label": "Tani Otoshi",
+        "element": "WE089065968f",
+        "css": "position:absolute;left:405px;top:90px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "yoko_gake.htm",
+        "label": "Yoko Gake",
+        "element": "WE8afd13adc3",
+        "css": "position:absolute;left:96px;top:366px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "yoko_gake.htm",
+        "label": "Yoko Gake",
+        "element": "WE9fc847aaed",
+        "css": "position:absolute;left:720px;top:366px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "hane_makikomi.htm",
+        "label": "Hane Makikomi",
+        "element": "WE19fe812f6e",
+        "css": "position:absolute;left:300px;top:560px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "sumi_gaeshi.htm",
+        "label": "Sumi Gaeshi",
+        "element": "WE7304922667",
+        "css": "position:absolute;left:175px;top:565px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "soto_makikomi.htm",
+        "label": "Soto Makikomi",
+        "element": "WEfad13bf75b",
+        "css": "position:absolute;left:300px;top:586px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "yoko_wakare.htm",
+        "label": "Yoko Wakare",
+        "element": "WEe18bfb218d",
+        "css": "position:absolute;left:140px;top:590px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "uki_waza.htm",
+        "label": "Uki Waza",
+        "element": "WE61b828f384",
+        "css": "position:absolute;left:413px;top:640px;width:auto;height:20px;background-color:#974806"
+      },
+      {
+        "href": "tomoe_nage.htm",
+        "label": "Tomoe Nage",
+        "element": "WE5de244ad77",
+        "css": "position:absolute;left:398px;top:670px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "yoko_guruma.htm",
+        "label": "Yoko Guruma",
+        "element": "WEed57b43e44",
+        "css": "position:absolute;left:395px;top:700px;width:auto;height:20px;background-color:#974806"
+      }
+    ],
+    "te_waza": [
+      {
+        "href": "sukui_nage.htm",
+        "label": "Sukui Nage",
+        "element": "WEa3cfeff809",
+        "css": "position:absolute;left:408px;top:90px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "sumi_otoshi.htm",
+        "label": "Sumi Otoshi",
+        "element": "WE5affceefba",
+        "css": "position:absolute;left:200px;top:160px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "tai_otoshi.htm",
+        "label": "Tai Otoshi",
+        "element": "WE9dcbfc9df5",
+        "css": "position:absolute;left:310px;top:550px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "kata_guruma.htm",
+        "label": "Kata Guruma",
+        "element": "WE9a51afc117",
+        "css": "position:absolute;left:399px;top:650px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "seoi_nage.htm",
+        "label": "Seoi Nage",
+        "element": "WE576a2cd200",
+        "css": "position:absolute;left:413px;top:680px;width:auto;height:20px;background-color:#ff0"
+      },
+      {
+        "href": "uki_otoshi.htm",
+        "label": "Uki Otoshi",
+        "element": "WEe56f19fbac",
+        "css": "position:absolute;left:413px;top:710px;width:auto;height:20px;background-color:#00b0f0"
+      }
+    ],
+    "koshi_waza": [
+      {
+        "href": "ushiro_goshi.htm",
+        "label": "Ushiro Goshi",
+        "element": "WE8fba0a2f72",
+        "css": "position:absolute;left:399px;top:61px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "o_soto_guruma.htm",
+        "label": "O Soto Guruma",
+        "element": "WEe84ef5e67e",
+        "css": "position:absolute;left:386px;top:87px;width:auto;height:auto;color:#fff;background-color:#974806"
+      },
+      {
+        "href": "harai_goshi.htm",
+        "label": "Harai Goshi",
+        "element": "WE30b46c569a",
+        "css": "position:absolute;left:320px;top:560px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "uki_goshi.htm",
+        "label": "Uki Goshi",
+        "element": "WE36ddf4242a",
+        "css": "position:absolute;left:210px;top:570px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "hane_goshi.htm",
+        "label": "Hane Goshi",
+        "element": "WE6c79abf839",
+        "css": "position:absolute;left:404px;top:644px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "koshi_guruma.htm",
+        "label": "Koshi Guruma",
+        "element": "WE81d6e0e587",
+        "css": "position:absolute;left:392px;top:670px;width:auto;height:20px;background-color:#f79646"
+      },
+      {
+        "href": "o_goshi.htm",
+        "label": "O Goshi",
+        "element": "WEbd79d376b1",
+        "css": "position:absolute;left:420px;top:696px;width:auto;height:20px;background-color:#ff0"
+      },
+      {
+        "href": "tsuri_goshi.htm",
+        "label": "Tsuri Goshi",
+        "element": "WEeece082f94",
+        "css": "position:absolute;left:405px;top:722px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "tsurikomi_goshi.htm",
+        "label": "Tsurikomi Goshi",
+        "element": "WE54c46a6007",
+        "css": "position:absolute;left:384px;top:748px;width:auto;height:20px;background-color:#f79646"
+      },
+      {
+        "href": "utsuri_goshi.htm",
+        "label": "Utsuri Goshi",
+        "element": "WE00da240e05",
+        "css": "position:absolute;left:401px;top:773px;width:auto;height:20px;background-color:#00b0f0"
+      }
+    ],
+    "ashi_waza": [
+      {
+        "href": "o_soto_guruma.htm",
+        "label": "O Soto Guruma",
+        "element": "WEcbf2ba83b7",
+        "css": "position:absolute;left:387px;top:67px;width:auto;height:auto;color:#fff;background-color:#974806"
+      },
+      {
+        "href": "kouchi_gari.htm",
+        "label": "Ko Uchi Gari",
+        "element": "WEe4caf1bc62",
+        "css": "position:absolute;left:401px;top:92px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "sumi_otoshi.htm",
+        "label": "Sumi Otoshi",
+        "element": "WE57debca5a6",
+        "css": "position:absolute;left:170px;top:145px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "kosoto_gake.htm",
+        "label": "Ko Soto Gake",
+        "element": "WEdaafc24cff",
+        "css": "position:absolute;left:500px;top:154px;width:auto;height:auto;background-color:#00b050"
+      },
+      {
+        "href": "o_soto_gari.htm",
+        "label": "O Soto Gari",
+        "element": "WE90f0132ab6",
+        "css": "position:absolute;left:200px;top:169px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "o_uchi_gari.htm",
+        "label": "O Uchi Gari",
+        "element": "WEbf6148978e",
+        "css": "position:absolute;left:633px;top:169px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "kosoto_gari.htm",
+        "label": "Ko Soto Gari",
+        "element": "WEf1d609c713",
+        "css": "position:absolute;left:490px;top:180px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "okuriashi_harai.htm",
+        "label": "Okuriashi Harai",
+        "element": "WE3401a7dc5c",
+        "css": "position:absolute;left:55px;top:365px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "okuriashi_harai.htm",
+        "label": "Okuriashi Harai",
+        "element": "WE9ede198921",
+        "css": "position:absolute;left:720px;top:365px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "harai_tsurikomi_ashi.htm",
+        "label": "Harai Tsurikomi Ashi",
+        "element": "WE9c29cbc8f6",
+        "css": "position:absolute;left:102px;top:432px;width:auto;height:auto;background-color:#00b050"
+      },
+      {
+        "href": "yoko_otoshi.htm",
+        "label": "Yoko Otoshi",
+        "element": "WE8aa8bf9cd5",
+        "css": "position:absolute;left:180px;top:461px;width:auto;height:auto;background-color:#00b050"
+      },
+      {
+        "href": "deashi_harai.htm",
+        "label": "Deashi Harai",
+        "element": "WE4add5c0735",
+        "css": "position:absolute;left:300px;top:550px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "sasae_tsurikomi_ashi.htm",
+        "label": "Sasae Tsurikomi Ashi",
+        "element": "WE387b7c1bfc",
+        "css": "position:absolute;left:470px;top:572px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "soto_makikomi.htm",
+        "label": "Soto Makikomi",
+        "element": "WEc8c1d6a616",
+        "css": "position:absolute;left:280px;top:580px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "uchi_mata.htm",
+        "label": "Uchi Mata",
+        "element": "WE43445beded",
+        "css": "position:absolute;left:300px;top:610px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "ashi_guruma.htm",
+        "label": "Ashi Guruma",
+        "element": "WE24952a0e5c",
+        "css": "position:absolute;left:399px;top:642px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "hiza_guruma.htm",
+        "label": "Hiza Guruma",
+        "element": "WE44ef900ef4",
+        "css": "position:absolute;left:398px;top:670px;width:auto;height:20px;background-color:#ff0"
+      },
+      {
+        "href": "o_guruma.htm",
+        "label": "O Guruma",
+        "element": "WEb0385b9fd1",
+        "css": "position:absolute;left:410px;top:697px;width:auto;height:20px;background-color:#00b0f0"
+      }
+    ],
+    "ma_sutemi_waza": [
+      {
+        "href": "ura_nage.htm",
+        "label": "Ura Nage",
+        "element": "WE7392f0c9c6",
+        "css": "position:absolute;left:414px;top:90px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "sumi_gaeshi.htm",
+        "label": "Sumi Gaeshi",
+        "element": "WE1a5868dea0",
+        "css": "position:absolute;left:175px;top:565px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "tomoe_nage.htm",
+        "label": "Tomoe Nage",
+        "element": "WEd014be7e39",
+        "css": "position:absolute;left:400px;top:640px;width:auto;height:20px;background-color:#00b050"
+      }
+    ],
+    "yoko_sutemi_waza": [
+      {
+        "href": "tani_otoshi.htm",
+        "label": "Tani Otoshi",
+        "element": "WEe044530e9c",
+        "css": "position:absolute;left:410px;top:90px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "yoko_gake.htm",
+        "label": "Yoko Gake",
+        "element": "WEf086430c44",
+        "css": "position:absolute;left:90px;top:366px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "yoko_gake.htm",
+        "label": "Yoko Gake",
+        "element": "WEe32c4dc120",
+        "css": "position:absolute;left:720px;top:366px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "yoko_wakare.htm",
+        "label": "Yoko Wakare",
+        "element": "WE1b9fd54264",
+        "css": "position:absolute;left:160px;top:570px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "hane_makikomi.htm",
+        "label": "Hane Makikomi",
+        "element": "WE98e254aa19",
+        "css": "position:absolute;left:300px;top:587px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "soto_makikomi.htm",
+        "label": "Soto Makikomi",
+        "element": "WEe478c65bfd",
+        "css": "position:absolute;left:270px;top:610px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "uki_waza.htm",
+        "label": "Uki Waza",
+        "element": "WE710ef4836b",
+        "css": "position:absolute;left:418px;top:640px;width:auto;height:20px;background-color:#974806"
+      },
+      {
+        "href": "yoko_guruma.htm",
+        "label": "Yoko Guruma",
+        "element": "WE8d4a863f2f",
+        "css": "position:absolute;left:400px;top:670px;width:auto;height:20px;background-color:#974806"
+      }
+    ],
+    "gokyo_no_waza": [
+      {
+        "href": "tani_otoshi.htm",
+        "label": "Tani Otoshi",
+        "element": "WEec3a95df85",
+        "css": "position:absolute;left:308px;top:41px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "ura_nage.htm",
+        "label": "Ura Nage",
+        "element": "WE0447537e74",
+        "css": "position:absolute;left:419px;top:41px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "ushiro_goshi.htm",
+        "label": "Ushiro Goshi",
+        "element": "WE1a68b42c4e",
+        "css": "position:absolute;left:514px;top:41px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "o_soto_guruma.htm",
+        "label": "O Soto Guruma",
+        "element": "WEaa4dabc580",
+        "css": "position:absolute;left:330px;top:67px;width:auto;height:auto;color:#fff;background-color:#974806"
+      },
+      {
+        "href": "sukui_nage.htm",
+        "label": "Sukui Nage",
+        "element": "WEf064467346",
+        "css": "position:absolute;left:477px;top:67px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "kouchi_gari.htm",
+        "label": "Ko Uchi Gari",
+        "element": "WE5d4f3112cd",
+        "css": "position:absolute;left:400px;top:92px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "sumi_otoshi.htm",
+        "label": "Sumi Otoshi",
+        "element": "WE23b5e027e5",
+        "css": "position:absolute;left:170px;top:145px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "kosoto_gake.htm",
+        "label": "Ko Soto Gake",
+        "element": "WE914013d605",
+        "css": "position:absolute;left:500px;top:154px;width:auto;height:auto;background-color:#00b050"
+      },
+      {
+        "href": "o_soto_gari.htm",
+        "label": "O Soto Gari",
+        "element": "WEfb70f74317",
+        "css": "position:absolute;left:200px;top:169px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "o_uchi_gari.htm",
+        "label": "O Uchi Gari",
+        "element": "WE043754ba09",
+        "css": "position:absolute;left:633px;top:169px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "kosoto_gari.htm",
+        "label": "Ko Soto Gari",
+        "element": "WEbefa7b7fcf",
+        "css": "position:absolute;left:490px;top:180px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "okuriashi_harai.htm",
+        "label": "Okuriashi Harai",
+        "element": "WE4846dea2c5",
+        "css": "position:absolute;left:55px;top:355px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "okuriashi_harai.htm",
+        "label": "Okuriashi Harai",
+        "element": "WE64ed809af4",
+        "css": "position:absolute;left:720px;top:355px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "yoko_gake.htm",
+        "label": "Yoko Gake",
+        "element": "WE0f7683e8b1",
+        "css": "position:absolute;left:96px;top:379px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "yoko_gake.htm",
+        "label": "Yoko Gake",
+        "element": "WE8ecf4b576f",
+        "css": "position:absolute;left:720px;top:379px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "harai_tsurikomi_ashi.htm",
+        "label": "Harai Tsurikomi Ashi",
+        "element": "WE52761d0717",
+        "css": "position:absolute;left:102px;top:432px;width:auto;height:auto;background-color:#00b050"
+      },
+      {
+        "href": "yoko_otoshi.htm",
+        "label": "Yoko Otoshi",
+        "element": "WE7459cb40e5",
+        "css": "position:absolute;left:190px;top:456px;width:auto;height:auto;background-color:#00b050"
+      },
+      {
+        "href": "deashi_harai.htm",
+        "label": "Deashi Harai",
+        "element": "WE15f06620a7",
+        "css": "position:absolute;left:320px;top:562px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "sumi_gaeshi.htm",
+        "label": "Sumi Gaeshi",
+        "element": "WE4b4c31d718",
+        "css": "position:absolute;left:175px;top:565px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "sasae_tsurikomi_ashi.htm",
+        "label": "Sasae Tsurikomi Ashi",
+        "element": "WE8ff8b0f452",
+        "css": "position:absolute;left:470px;top:572px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "hane_makikomi.htm",
+        "label": "Hane Makikomi",
+        "element": "WEdb03c98bbe",
+        "css": "position:absolute;left:300px;top:587px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "uki_goshi.htm",
+        "label": "Uki Goshi",
+        "element": "WE04e087593e",
+        "css": "position:absolute;left:150px;top:591px;width:auto;height:auto;background-color:#ff0"
+      },
+      {
+        "href": "harai_goshi.htm",
+        "label": "Harai Goshi",
+        "element": "WEb87f0c9d74",
+        "css": "position:absolute;left:270px;top:612px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "yoko_wakare.htm",
+        "label": "Yoko Wakare",
+        "element": "WEa7371de782",
+        "css": "position:absolute;left:86px;top:617px;width:auto;height:auto;background-color:#974806"
+      },
+      {
+        "href": "soto_makikomi.htm",
+        "label": "Soto Makikomi",
+        "element": "WEbc49a0e290",
+        "css": "position:absolute;left:240px;top:637px;width:auto;height:auto;background-color:#00b0f0"
+      },
+      {
+        "href": "ashi_guruma.htm",
+        "label": "Ashi Guruma",
+        "element": "WE5e943058fa",
+        "css": "position:absolute;left:400px;top:642px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "tai_otoshi.htm",
+        "label": "Tai Otoshi",
+        "element": "WEcb4442beaf",
+        "css": "position:absolute;left:220px;top:662px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "hane_goshi.htm",
+        "label": "Hane Goshi",
+        "element": "WE67d76db06b",
+        "css": "position:absolute;left:400px;top:667px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "hiza_guruma.htm",
+        "label": "Hiza Guruma",
+        "element": "WE26da6a9489",
+        "css": "position:absolute;left:511px;top:667px;width:auto;height:20px;background-color:#ff0"
+      },
+      {
+        "href": "uchi_mata.htm",
+        "label": "Uchi Mata",
+        "element": "WEeeef51d267",
+        "css": "position:absolute;left:200px;top:687px;width:auto;height:auto;background-color:#f79646"
+      },
+      {
+        "href": "kata_guruma.htm",
+        "label": "Kata Guruma",
+        "element": "WE2d53b153d8",
+        "css": "position:absolute;left:400px;top:692px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "koshi_guruma.htm",
+        "label": "Koshi Guruma",
+        "element": "WE6b8299a528",
+        "css": "position:absolute;left:529px;top:692px;width:auto;height:20px;background-color:#f79646"
+      },
+      {
+        "href": "o_goshi.htm",
+        "label": "O Goshi",
+        "element": "WE15ffd2e991",
+        "css": "position:absolute;left:663px;top:692px;width:auto;height:20px;background-color:#ff0"
+      },
+      {
+        "href": "o_guruma.htm",
+        "label": "O Guruma",
+        "element": "WE01f93c9d3e",
+        "css": "position:absolute;left:400px;top:717px;width:auto;height:20px;background-color:#00b0f0"
+      },
+      {
+        "href": "seoi_nage.htm",
+        "label": "Seoi Nage",
+        "element": "WEc7063a2bd9",
+        "css": "position:absolute;left:502px;top:717px;width:auto;height:20px;background-color:#ff0"
+      },
+      {
+        "href": "tomoe_nage.htm",
+        "label": "Tomoe Nage",
+        "element": "WE71937a508f",
+        "css": "position:absolute;left:603px;top:717px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "tsuri_goshi.htm",
+        "label": "Tsuri Goshi",
+        "element": "WEfc0e2ec897",
+        "css": "position:absolute;left:400px;top:742px;width:auto;height:20px;background-color:#00b050"
+      },
+      {
+        "href": "tsurikomi_goshi.htm",
+        "label": "Tsurikomi Goshi",
+        "element": "WEfd9e156477",
+        "css": "position:absolute;left:510px;top:742px;width:auto;height:20px;background-color:#f79646"
+      },
+      {
+        "href": "uki_otoshi.htm",
+        "label": "Uki Otoshi",
+        "element": "WE3ff8f29dd9",
+        "css": "position:absolute;left:660px;top:742px;width:auto;height:20px;background-color:#00b0f0"
+      },
+      {
+        "href": "uki_waza.htm",
+        "label": "Uki Waza",
+        "element": "WEaacb9f2a55",
+        "css": "position:absolute;left:400px;top:769px;width:auto;height:20px;background-color:#974806"
+      },
+      {
+        "href": "utsuri_goshi.htm",
+        "label": "Utsuri Goshi",
+        "element": "WEa79091e7c8",
+        "css": "position:absolute;left:497px;top:769px;width:auto;height:20px;background-color:#00b0f0"
+      },
+      {
+        "href": "yoko_guruma.htm",
+        "label": "Yoko Guruma",
+        "element": "WE036b8f111d",
+        "css": "position:absolute;left:617px;top:769px;width:auto;height:20px;background-color:#974806"
+      }
+    ]
+  },
+  "classificationDifferences": [
+    {
+      "category": "te_waza",
+      "actual": 6,
+      "expected": 6,
+      "extra": [],
+      "missing": []
+    },
+    {
+      "category": "koshi_waza",
+      "actual": 10,
+      "expected": 9,
+      "extra": [
+        "o_soto_guruma"
+      ],
+      "missing": []
+    },
+    {
+      "category": "ashi_waza",
+      "actual": 17,
+      "expected": 14,
+      "extra": [
+        "sumi_otoshi",
+        "yoko_otoshi",
+        "soto_makikomi"
+      ],
+      "missing": []
+    },
+    {
+      "category": "ma_sutemi_waza",
+      "actual": 3,
+      "expected": 3,
+      "extra": [],
+      "missing": []
+    },
+    {
+      "category": "yoko_sutemi_waza",
+      "actual": 7,
+      "expected": 8,
+      "extra": [],
+      "missing": [
+        "yoko_otoshi"
+      ]
+    }
+  ],
+  "authoritativeReference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/"
+}

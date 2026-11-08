@@ -1,0 +1,2310 @@
+{
+  "sha": "f57e44c45a753d0a7680c45021010e72425533a1",
+  "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/f57e44c45a753d0a7680c45021010e72425533a1",
+  "tree": [
+    {
+      "path": ".gitattributes",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfe0770424b2a19faf507a501ebfc23be8f54e7b",
+      "size": 66,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/dfe0770424b2a19faf507a501ebfc23be8f54e7b"
+    },
+    {
+      "path": ".nojekyll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "Dai_Gokyo.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b116f1da1c83b1cb4dd6bcc9dd573db406d907c",
+      "size": 3350,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/7b116f1da1c83b1cb4dd6bcc9dd573db406d907c"
+    },
+    {
+      "path": "Dai_Gokyo.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c5522b3dc78d7c0a7cfea202b5a898b1000a157",
+      "size": 14544,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/2c5522b3dc78d7c0a7cfea202b5a898b1000a157"
+    },
+    {
+      "path": "Dai_Ikkyo.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "776d00a648f255980921584d6d4d87e8162e085e",
+      "size": 3151,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/776d00a648f255980921584d6d4d87e8162e085e"
+    },
+    {
+      "path": "Dai_Ikkyo.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d75c0054dae2b1ab1f7c9a11066525347855550",
+      "size": 13939,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9d75c0054dae2b1ab1f7c9a11066525347855550"
+    },
+    {
+      "path": "Dai_Nikyo.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a3e22651ec6dc5996030654f02ab926e3119f63",
+      "size": 3274,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/0a3e22651ec6dc5996030654f02ab926e3119f63"
+    },
+    {
+      "path": "Dai_Nikyo.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa46ece36cde14d5df74d0ff5cf29a9378ce65c3",
+      "size": 14434,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/fa46ece36cde14d5df74d0ff5cf29a9378ce65c3"
+    },
+    {
+      "path": "Dai_Sankyo.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e7c63653b4a0d564d0bd9a034ed67071b657c58",
+      "size": 3175,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/2e7c63653b4a0d564d0bd9a034ed67071b657c58"
+    },
+    {
+      "path": "Dai_Sankyo.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f72bc9266e3a10586f234c752e13f0104202063a",
+      "size": 13966,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f72bc9266e3a10586f234c752e13f0104202063a"
+    },
+    {
+      "path": "Dai_Yonkyo.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "599c87bbc56cc1b8469c013b755d4e7d7ff7dac8",
+      "size": 3173,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/599c87bbc56cc1b8469c013b755d4e7d7ff7dac8"
+    },
+    {
+      "path": "Dai_Yonkyo.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba494c4edeae8cf64ef9a390ca6078c2653a331d",
+      "size": 13940,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ba494c4edeae8cf64ef9a390ca6078c2653a331d"
+    },
+    {
+      "path": "Files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "024352e2db03251251ae1f72a1613cb71fbee014",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/024352e2db03251251ae1f72a1613cb71fbee014"
+    },
+    {
+      "path": "Files/Image",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b17a87be7bdf3b7bdbf44ffac1f3068941def41b",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/b17a87be7bdf3b7bdbf44ffac1f3068941def41b"
+    },
+    {
+      "path": "Files/Image/Harai_Tsurikomi_Ashi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9ea75fe7e66914c76859c932db30212ee4407a3",
+      "size": 26919,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/e9ea75fe7e66914c76859c932db30212ee4407a3"
+    },
+    {
+      "path": "Files/Image/Help01.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff5ffd9e3b26477c7eaac60b099478fdc6c5c394",
+      "size": 17424,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ff5ffd9e3b26477c7eaac60b099478fdc6c5c394"
+    },
+    {
+      "path": "Files/Image/Help02.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96271eadc41784713d28b4c258d27f9c8e5fec4b",
+      "size": 18111,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/96271eadc41784713d28b4c258d27f9c8e5fec4b"
+    },
+    {
+      "path": "Files/Image/Koshi_Guruma_technique.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b84a0288f1cb448c8633cabef89c2a927930b9f6",
+      "size": 36426,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/b84a0288f1cb448c8633cabef89c2a927930b9f6"
+    },
+    {
+      "path": "Files/Image/ashi_guruma.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2603e4293954e9b97282aec65d8e5dfbf899f349",
+      "size": 17444,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/2603e4293954e9b97282aec65d8e5dfbf899f349"
+    },
+    {
+      "path": "Files/Image/ashi_guruma_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b24a9306896f488d7db4a63aebefd611383e1230",
+      "size": 54503,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/b24a9306896f488d7db4a63aebefd611383e1230"
+    },
+    {
+      "path": "Files/Image/deashi_harai.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86c879a49891bf9a10cf9c1a7318a0edf2da8970",
+      "size": 14678,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/86c879a49891bf9a10cf9c1a7318a0edf2da8970"
+    },
+    {
+      "path": "Files/Image/deashi_harai_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e89ee1f07b25cc03c98b05e00fec77b5d5f7344",
+      "size": 30021,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/3e89ee1f07b25cc03c98b05e00fec77b5d5f7344"
+    },
+    {
+      "path": "Files/Image/gnw.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "422b7127c0d8a766f4854789b06005232614f892",
+      "size": 13986,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/422b7127c0d8a766f4854789b06005232614f892"
+    },
+    {
+      "path": "Files/Image/hane_goshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "990e820bdfb153698472b80317748e34b68122ee",
+      "size": 17405,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/990e820bdfb153698472b80317748e34b68122ee"
+    },
+    {
+      "path": "Files/Image/hane_goshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2db06cdc9b24f8fff1f68373e5f533a5989fe8e6",
+      "size": 34469,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/2db06cdc9b24f8fff1f68373e5f533a5989fe8e6"
+    },
+    {
+      "path": "Files/Image/hane_makikomi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ee68ec98d1dc9a5477060f83232764c306de601",
+      "size": 13987,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/3ee68ec98d1dc9a5477060f83232764c306de601"
+    },
+    {
+      "path": "Files/Image/hane_makikomi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5492a087a667a4e2548fca3a98a876da230516fd",
+      "size": 38931,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/5492a087a667a4e2548fca3a98a876da230516fd"
+    },
+    {
+      "path": "Files/Image/harai_goshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec0a3fb676d2a52f9a0f6c16789517ddfcb2ddb0",
+      "size": 13726,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ec0a3fb676d2a52f9a0f6c16789517ddfcb2ddb0"
+    },
+    {
+      "path": "Files/Image/harai_goshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e78019cd476f3a38571167220299b0032b8b2738",
+      "size": 50779,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/e78019cd476f3a38571167220299b0032b8b2738"
+    },
+    {
+      "path": "Files/Image/harai_tsurikomi_ashi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af669b4bcf9d63da29600ef7bea064194bd9698f",
+      "size": 37880,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/af669b4bcf9d63da29600ef7bea064194bd9698f"
+    },
+    {
+      "path": "Files/Image/hiza_guruma.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31c439b670fc5d814f386063f611856bd33f8401",
+      "size": 15567,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/31c439b670fc5d814f386063f611856bd33f8401"
+    },
+    {
+      "path": "Files/Image/hiza_guruma_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8536a221aa4f01babccf9c85eb097ade766efde1",
+      "size": 21785,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/8536a221aa4f01babccf9c85eb097ade766efde1"
+    },
+    {
+      "path": "Files/Image/kata_guruma.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc23da1a946d0b131f18d49cae62cbe57966d67a",
+      "size": 17451,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/fc23da1a946d0b131f18d49cae62cbe57966d67a"
+    },
+    {
+      "path": "Files/Image/kata_guruma_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3a77f36324468632f85db2d605472ad3e4c9343",
+      "size": 37259,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/e3a77f36324468632f85db2d605472ad3e4c9343"
+    },
+    {
+      "path": "Files/Image/koshi_guruma.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58d03daf19faaf9f6f8800ab992af725e86606cd",
+      "size": 17610,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/58d03daf19faaf9f6f8800ab992af725e86606cd"
+    },
+    {
+      "path": "Files/Image/kosoto_gake.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f7ac29c038301e4e212bca7f84c8feb708984d4",
+      "size": 14512,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9f7ac29c038301e4e212bca7f84c8feb708984d4"
+    },
+    {
+      "path": "Files/Image/kosoto_gake_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc8486d2ce50706d1ea15da748af59b0695c9063",
+      "size": 33482,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/cc8486d2ce50706d1ea15da748af59b0695c9063"
+    },
+    {
+      "path": "Files/Image/kosoto_gari.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1825fce50f821b21455c4227c494fce981b7ce1",
+      "size": 14448,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/d1825fce50f821b21455c4227c494fce981b7ce1"
+    },
+    {
+      "path": "Files/Image/kosoto_gari_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc4fa55df373eddeeb0f95c0fbe22091955c3355",
+      "size": 24645,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/fc4fa55df373eddeeb0f95c0fbe22091955c3355"
+    },
+    {
+      "path": "Files/Image/kouchi_gari.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3b38b2a61d7420868e2c1eb42071c883968ea86",
+      "size": 15383,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f3b38b2a61d7420868e2c1eb42071c883968ea86"
+    },
+    {
+      "path": "Files/Image/kouchi_gari_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7b2a0da7996e8044c745633c6133f686fa896a9",
+      "size": 32011,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f7b2a0da7996e8044c745633c6133f686fa896a9"
+    },
+    {
+      "path": "Files/Image/o_goshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67e449604c58ef686502c42d346bca1c9e9f152f",
+      "size": 16131,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/67e449604c58ef686502c42d346bca1c9e9f152f"
+    },
+    {
+      "path": "Files/Image/o_goshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf5f5c3debbda5b43e2dff0cbceb952b2ab4377b",
+      "size": 32498,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/cf5f5c3debbda5b43e2dff0cbceb952b2ab4377b"
+    },
+    {
+      "path": "Files/Image/o_guruma.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83948bcc2bf4624b2c56e2f78fb6d497cdcae283",
+      "size": 17074,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/83948bcc2bf4624b2c56e2f78fb6d497cdcae283"
+    },
+    {
+      "path": "Files/Image/o_guruma_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d6e966c01ce071b609d49bd036d7b7fea14da95",
+      "size": 34698,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/1d6e966c01ce071b609d49bd036d7b7fea14da95"
+    },
+    {
+      "path": "Files/Image/o_soto_gari.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e340b726a45b709d080f55011be7e09ca6f8838",
+      "size": 18179,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/6e340b726a45b709d080f55011be7e09ca6f8838"
+    },
+    {
+      "path": "Files/Image/o_soto_gari_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33fbedb76bf15f895316672b8172fce8f60ebc80",
+      "size": 32278,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/33fbedb76bf15f895316672b8172fce8f60ebc80"
+    },
+    {
+      "path": "Files/Image/o_soto_guruma.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4425861f77b5eb64755a50f7436c0e55a47878ab",
+      "size": 16163,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/4425861f77b5eb64755a50f7436c0e55a47878ab"
+    },
+    {
+      "path": "Files/Image/o_soto_guruma_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b2422e2c0e320a04959e1ddea5f27b9aba81ac1",
+      "size": 40934,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9b2422e2c0e320a04959e1ddea5f27b9aba81ac1"
+    },
+    {
+      "path": "Files/Image/o_uchi_gari.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7e1fa8a6c40cc3dcb7a6121c024e2f7baf0e258",
+      "size": 16698,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/a7e1fa8a6c40cc3dcb7a6121c024e2f7baf0e258"
+    },
+    {
+      "path": "Files/Image/o_uchi_gari_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fe5027033ba737ee3d80c97a016374bfb5c2adf",
+      "size": 22993,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/3fe5027033ba737ee3d80c97a016374bfb5c2adf"
+    },
+    {
+      "path": "Files/Image/okuriashi_harai.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55b0a23cd14928b548ae33e164f1ce573f2b58b3",
+      "size": 16709,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/55b0a23cd14928b548ae33e164f1ce573f2b58b3"
+    },
+    {
+      "path": "Files/Image/okuriashi_harai_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8dca16367b141df1210ab1086e04603c667e090",
+      "size": 31500,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/b8dca16367b141df1210ab1086e04603c667e090"
+    },
+    {
+      "path": "Files/Image/sasae_tsurikomi_ashi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60ac60d6b45eecd6cb78d1c59373943e8b29b31f",
+      "size": 15928,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/60ac60d6b45eecd6cb78d1c59373943e8b29b31f"
+    },
+    {
+      "path": "Files/Image/sasae_tsurikomi_ashi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27be95a1584c80acdd96f74c62bdf8e9a0e113d2",
+      "size": 32323,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/27be95a1584c80acdd96f74c62bdf8e9a0e113d2"
+    },
+    {
+      "path": "Files/Image/seoi_nage.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68b4724f1f0b83bed44ab0ca26a897d41da9fc4c",
+      "size": 17117,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/68b4724f1f0b83bed44ab0ca26a897d41da9fc4c"
+    },
+    {
+      "path": "Files/Image/seoi_nage_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bea73bbe79ef8e7c16d2e1f112576444ff7133ac",
+      "size": 32000,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/bea73bbe79ef8e7c16d2e1f112576444ff7133ac"
+    },
+    {
+      "path": "Files/Image/soto_makikomi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af30416956cb4668ed67e775747710b7fab646f2",
+      "size": 13933,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/af30416956cb4668ed67e775747710b7fab646f2"
+    },
+    {
+      "path": "Files/Image/soto_makikomi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc8bd31e51863b82cc5dfb38acb5987c3287e712",
+      "size": 30133,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/fc8bd31e51863b82cc5dfb38acb5987c3287e712"
+    },
+    {
+      "path": "Files/Image/sukui_nage.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "372575a87fdc7647553e062dbb3f9b7671a27267",
+      "size": 15887,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/372575a87fdc7647553e062dbb3f9b7671a27267"
+    },
+    {
+      "path": "Files/Image/sukui_nage_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6be342ee8a4ee836d5d918f43027018c0b822a06",
+      "size": 36073,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/6be342ee8a4ee836d5d918f43027018c0b822a06"
+    },
+    {
+      "path": "Files/Image/sumi_gaeshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdc812fa53eb9fb0300dc8db323d753e085cbe33",
+      "size": 16489,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/bdc812fa53eb9fb0300dc8db323d753e085cbe33"
+    },
+    {
+      "path": "Files/Image/sumi_gaeshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a999a6756f9b88b9c60c42af18ce3f51e7af399b",
+      "size": 38688,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/a999a6756f9b88b9c60c42af18ce3f51e7af399b"
+    },
+    {
+      "path": "Files/Image/sumi_otoshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "492d8136daf738c28045d7dd3eaf280878b2fef9",
+      "size": 16499,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/492d8136daf738c28045d7dd3eaf280878b2fef9"
+    },
+    {
+      "path": "Files/Image/sumi_otoshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77ab0ccd8a11691f1b735522a42bfcdc1354c6f2",
+      "size": 40743,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/77ab0ccd8a11691f1b735522a42bfcdc1354c6f2"
+    },
+    {
+      "path": "Files/Image/tai_otoshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed175300ca2bf5bfedbf86bc4974d90e9c75c640",
+      "size": 13592,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ed175300ca2bf5bfedbf86bc4974d90e9c75c640"
+    },
+    {
+      "path": "Files/Image/tai_otoshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba26a4e78dc23da193cebd7cff5b296fddde301c",
+      "size": 32820,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ba26a4e78dc23da193cebd7cff5b296fddde301c"
+    },
+    {
+      "path": "Files/Image/tani_otoshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60e97f321779f86ee2b9fefe6867ca653ce002d5",
+      "size": 15004,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/60e97f321779f86ee2b9fefe6867ca653ce002d5"
+    },
+    {
+      "path": "Files/Image/tani_otoshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee10509d333938db3886124251b8e78bb03f7cd4",
+      "size": 35597,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ee10509d333938db3886124251b8e78bb03f7cd4"
+    },
+    {
+      "path": "Files/Image/tomoe_nage.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdf878e3d31d9ed72cd19c3b87da85a8c52615c8",
+      "size": 17398,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/cdf878e3d31d9ed72cd19c3b87da85a8c52615c8"
+    },
+    {
+      "path": "Files/Image/tomoe_nage_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61813a642434c758754a0f36ffac67e76fe6bf63",
+      "size": 36958,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/61813a642434c758754a0f36ffac67e76fe6bf63"
+    },
+    {
+      "path": "Files/Image/tsuri_goshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2795e42cc1e64cab16188698345f32e42fb2c857",
+      "size": 17320,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/2795e42cc1e64cab16188698345f32e42fb2c857"
+    },
+    {
+      "path": "Files/Image/tsuri_goshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df3a6fe269d13f1d7718530ae83573267db86525",
+      "size": 24649,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/df3a6fe269d13f1d7718530ae83573267db86525"
+    },
+    {
+      "path": "Files/Image/tsurikomi_goshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d3dd7169288851f7e1d97bd6002c34f458fc4ff",
+      "size": 17648,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/5d3dd7169288851f7e1d97bd6002c34f458fc4ff"
+    },
+    {
+      "path": "Files/Image/tsurikomi_goshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d312422b7a3ea94290b060c8380295bbbf412e8f",
+      "size": 36677,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/d312422b7a3ea94290b060c8380295bbbf412e8f"
+    },
+    {
+      "path": "Files/Image/uchi_mata.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6eebdd27791aa1ac50951951bd3886591efb8fb",
+      "size": 13664,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/a6eebdd27791aa1ac50951951bd3886591efb8fb"
+    },
+    {
+      "path": "Files/Image/uchi_mata_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03943874fe4daff6ea4a6cebd7c4c5f8ea2922ca",
+      "size": 33915,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/03943874fe4daff6ea4a6cebd7c4c5f8ea2922ca"
+    },
+    {
+      "path": "Files/Image/uki_goshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "757709111f6bf593e54f1c211823584101945d9b",
+      "size": 16564,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/757709111f6bf593e54f1c211823584101945d9b"
+    },
+    {
+      "path": "Files/Image/uki_goshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f79ee559fbf6479ba43bc7381734b33f8b8465c",
+      "size": 26924,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/1f79ee559fbf6479ba43bc7381734b33f8b8465c"
+    },
+    {
+      "path": "Files/Image/uki_otoshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "907f732d9c194a2e25187d08f1476b71f895569b",
+      "size": 17303,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/907f732d9c194a2e25187d08f1476b71f895569b"
+    },
+    {
+      "path": "Files/Image/uki_otoshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7a57eb50f54946d5b00cfe1dc73ee7aa460648b",
+      "size": 34875,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/a7a57eb50f54946d5b00cfe1dc73ee7aa460648b"
+    },
+    {
+      "path": "Files/Image/uki_waza.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a3da935a36933a1dd1310f867c31f1e9d394d3c",
+      "size": 17105,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/7a3da935a36933a1dd1310f867c31f1e9d394d3c"
+    },
+    {
+      "path": "Files/Image/uki_waza_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "019a2639714839b2ab07eb47863a888a20e8e377",
+      "size": 39528,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/019a2639714839b2ab07eb47863a888a20e8e377"
+    },
+    {
+      "path": "Files/Image/ura_nage.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ecabdfbae56c345122cfe3ea17189bb8424606a4",
+      "size": 15700,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ecabdfbae56c345122cfe3ea17189bb8424606a4"
+    },
+    {
+      "path": "Files/Image/ura_nage_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "307f5e745819a509b0a37419d48f35e77896f5fb",
+      "size": 26783,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/307f5e745819a509b0a37419d48f35e77896f5fb"
+    },
+    {
+      "path": "Files/Image/ushiro_goshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac9e35b2cb6291ca395500b40bdcc8de21698134",
+      "size": 15455,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ac9e35b2cb6291ca395500b40bdcc8de21698134"
+    },
+    {
+      "path": "Files/Image/ushiro_goshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78a9235f829bd2c293777caedb3c62af7ec0404d",
+      "size": 34506,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/78a9235f829bd2c293777caedb3c62af7ec0404d"
+    },
+    {
+      "path": "Files/Image/utsuri_goshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6be24735cb2e4990d1a17c287d2b3c2bceeed3a6",
+      "size": 17457,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/6be24735cb2e4990d1a17c287d2b3c2bceeed3a6"
+    },
+    {
+      "path": "Files/Image/utsuri_goshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5bd277bc5ea34dbfe46c103f1d417860c3fbc881",
+      "size": 38046,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/5bd277bc5ea34dbfe46c103f1d417860c3fbc881"
+    },
+    {
+      "path": "Files/Image/yoko_gake.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e61585e8af697bfc0452a00c6cb91239f8bd9e37",
+      "size": 16939,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/e61585e8af697bfc0452a00c6cb91239f8bd9e37"
+    },
+    {
+      "path": "Files/Image/yoko_gake_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3973a7a1ecc4fab08f4890876eb4ce1997a63c96",
+      "size": 39203,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/3973a7a1ecc4fab08f4890876eb4ce1997a63c96"
+    },
+    {
+      "path": "Files/Image/yoko_guruma.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d625d6ade1a7d777417aa950493b71164634b3a9",
+      "size": 17512,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/d625d6ade1a7d777417aa950493b71164634b3a9"
+    },
+    {
+      "path": "Files/Image/yoko_guruma_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1930f67c58337663c6d3fa89aa7e374269d97d7",
+      "size": 35963,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/a1930f67c58337663c6d3fa89aa7e374269d97d7"
+    },
+    {
+      "path": "Files/Image/yoko_otoshi.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da26a943e71ee117473f3be9f7dc6763cdb8071e",
+      "size": 14566,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/da26a943e71ee117473f3be9f7dc6763cdb8071e"
+    },
+    {
+      "path": "Files/Image/yoko_otoshi_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33451bb8b2d099b0995f8d0783ce7e9817eb8279",
+      "size": 39235,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/33451bb8b2d099b0995f8d0783ce7e9817eb8279"
+    },
+    {
+      "path": "Files/Image/yoko_wakare.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8768b39312cf6793d04953ae409ff6be179d92b5",
+      "size": 15690,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/8768b39312cf6793d04953ae409ff6be179d92b5"
+    },
+    {
+      "path": "Files/Image/yoko_wakare_i.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36627f771bd7fde24d498b6d717fbb871820b64e",
+      "size": 35804,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/36627f771bd7fde24d498b6d717fbb871820b64e"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4930306a79d15b9e9c894675efe5a3f7415f2df9",
+      "size": 657,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/4930306a79d15b9e9c894675efe5a3f7415f2df9"
+    },
+    {
+      "path": "WEFiles",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bc1028aaec6cf8455f36a388314e5f66792fb7db",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/bc1028aaec6cf8455f36a388314e5f66792fb7db"
+    },
+    {
+      "path": "WEFiles/Client",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b9633c281a99c206f4ca2821f06670272983ad57",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/b9633c281a99c206f4ca2821f06670272983ad57"
+    },
+    {
+      "path": "WEFiles/Client/Common",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "94cd0dc25ab76a412c18e1ca5186ee4f2b0eacc9",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/94cd0dc25ab76a412c18e1ca5186ee4f2b0eacc9"
+    },
+    {
+      "path": "WEFiles/Client/Common/oe.min.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63ca392edce00f879a983ceb03aa912ee0a04618",
+      "size": 16317,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/63ca392edce00f879a983ceb03aa912ee0a04618"
+    },
+    {
+      "path": "WEFiles/Client/OEDB.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50a742341285faf884316a9938b3bdc6f3039e11",
+      "size": 1856,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/50a742341285faf884316a9938b3bdc6f3039e11"
+    },
+    {
+      "path": "WEFiles/Client/OEDBClasses.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98d6fe31c26f8696cd4c0d7deb9cec85e049ea8b",
+      "size": 2280,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/98d6fe31c26f8696cd4c0d7deb9cec85e049ea8b"
+    },
+    {
+      "path": "WEFiles/Client/WECounter-v22.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06fa750829cdcc2d3e94b737d2e0af59dff416e4",
+      "size": 1515,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/06fa750829cdcc2d3e94b737d2e0af59dff416e4"
+    },
+    {
+      "path": "WEFiles/Client/WESendForm-v210.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38ae0c0ba0c7baffd5ed733a68d6024b2ebd4f2d",
+      "size": 3846,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/38ae0c0ba0c7baffd5ed733a68d6024b2ebd4f2d"
+    },
+    {
+      "path": "WEFiles/Client/jQuery",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "db4772facf19283710c33d30f571ab73f9f2a5b2",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/db4772facf19283710c33d30f571ab73f9f2a5b2"
+    },
+    {
+      "path": "WEFiles/Client/jQuery/1.10.2.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da4170647dd102aa92a57cb4936ff6dfa58d78c2",
+      "size": 93107,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/da4170647dd102aa92a57cb4936ff6dfa58d78c2"
+    },
+    {
+      "path": "WEFiles/Client/jQuery/Plugins",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b17607a3f237bb941a71bf11107da8762f4667cd",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/b17607a3f237bb941a71bf11107da8762f4667cd"
+    },
+    {
+      "path": "WEFiles/Client/jQuery/Plugins/jquery.form.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f3c3849559bc59590cfe6ac51a5a3bcaf59c665",
+      "size": 11659,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/4f3c3849559bc59590cfe6ac51a5a3bcaf59c665"
+    },
+    {
+      "path": "WEFiles/Client/jQuery/Plugins/jquery.ui.core.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "badc1e62073be2acaee7c94268c744bdb223b065",
+      "size": 19590,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/badc1e62073be2acaee7c94268c744bdb223b065"
+    },
+    {
+      "path": "WEFiles/Client/jQuery/Plugins/jquery.ui.effects.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16c7d9418502d7db8918ffdfe8415667fe7e4297",
+      "size": 25199,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/16c7d9418502d7db8918ffdfe8415667fe7e4297"
+    },
+    {
+      "path": "WEFiles/Client/jQuery/migrate.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f65f541b414aa0b4874ec0f41f301470a67bd35",
+      "size": 7201,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/2f65f541b414aa0b4874ec0f41f301470a67bd35"
+    },
+    {
+      "path": "WEFiles/Client/opentip-jquery.min.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e680859ee0608440c686a68097f45b7d1c7decce",
+      "size": 44974,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/e680859ee0608440c686a68097f45b7d1c7decce"
+    },
+    {
+      "path": "WEFiles/Css",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "42961b05057e41bfcda1b810426052eb61bc21ca",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/42961b05057e41bfcda1b810426052eb61bc21ca"
+    },
+    {
+      "path": "WEFiles/Css/ie7.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ff1f644b7735460aeb6ed094a9146b1f7dee834",
+      "size": 828,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/5ff1f644b7735460aeb6ed094a9146b1f7dee834"
+    },
+    {
+      "path": "WEFiles/Css/opentip.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b41a6a7ff9e665fdf16adb48b71d437731e8794",
+      "size": 8934,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9b41a6a7ff9e665fdf16adb48b71d437731e8794"
+    },
+    {
+      "path": "WEFiles/Css/v01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e343d4b27b9097546dc76e11ecb8bc5a2654167f",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/e343d4b27b9097546dc76e11ecb8bc5a2654167f"
+    },
+    {
+      "path": "WEFiles/Css/v01/openElement.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28c4c8c396ac2ab4af9afbd7669bdd37bc8ab696",
+      "size": 5851,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/28c4c8c396ac2ab4af9afbd7669bdd37bc8ab696"
+    },
+    {
+      "path": "WEFiles/Css/v02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2050d7b1d2c95c961c048a82ac605e2ab2dd7ad7",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/2050d7b1d2c95c961c048a82ac605e2ab2dd7ad7"
+    },
+    {
+      "path": "WEFiles/Css/v02/openElement.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c30b55584d7e51f53b59fdd9c16adc579825f787",
+      "size": 6102,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/c30b55584d7e51f53b59fdd9c16adc579825f787"
+    },
+    {
+      "path": "WEFiles/Css/v02/openElement.int.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbf6ddf42c710b1cbe78e8e40e7ec993649a4bff",
+      "size": 6177,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/cbf6ddf42c710b1cbe78e8e40e7ec993649a4bff"
+    },
+    {
+      "path": "WEFiles/EG",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "afe9f46728e3fb4efdf5e3e7b81748a97c581f0b",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/afe9f46728e3fb4efdf5e3e7b81748a97c581f0b"
+    },
+    {
+      "path": "WEFiles/EG/EGc54239be",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5efd8c9d1b77ad5c4535eb7eb0db30b686c54570",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/5efd8c9d1b77ad5c4535eb7eb0db30b686c54570"
+    },
+    {
+      "path": "WEFiles/EG/EGc54239be/Css",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "470791e914a3aa5029a171cf1a84dfe883112173",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/470791e914a3aa5029a171cf1a84dfe883112173"
+    },
+    {
+      "path": "WEFiles/EG/EGc54239be/Css/simple_popupmodal-v2.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c357ee823fac6e1be3c931eb847bd1e02ad1977b",
+      "size": 77,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/c357ee823fac6e1be3c931eb847bd1e02ad1977b"
+    },
+    {
+      "path": "WEFiles/EG/EGc54239be/Js",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2714e6ea3362c54461bc0a9e2a7faa4b23ca0277",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/2714e6ea3362c54461bc0a9e2a7faa4b23ca0277"
+    },
+    {
+      "path": "WEFiles/EG/EGc54239be/Js/oeModalPop-v13.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9dfa6f6569ebc22e38a84f92c88de22082b9533a",
+      "size": 5458,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9dfa6f6569ebc22e38a84f92c88de22082b9533a"
+    },
+    {
+      "path": "WEFiles/EG/EGc54239be/Js/oeRunModalPop-v29.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0b1a179d912d8d91cfa8fd94feeb879f991cb40",
+      "size": 2173,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/b0b1a179d912d8d91cfa8fd94feeb879f991cb40"
+    },
+    {
+      "path": "WEFiles/Image",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "554dce9537ee002c3efa3cfed444a8983d509705",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/554dce9537ee002c3efa3cfed444a8983d509705"
+    },
+    {
+      "path": "WEFiles/Image/Code.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4378000e3e628f9637a239520d238ffb43cfbfdf",
+      "size": 831,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/4378000e3e628f9637a239520d238ffb43cfbfdf"
+    },
+    {
+      "path": "WEFiles/Image/Loading2.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60663e02357d9a690b29300d6aa68ab3eec0cd1b",
+      "size": 4941,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/60663e02357d9a690b29300d6aa68ab3eec0cd1b"
+    },
+    {
+      "path": "WEFiles/Image/ModalBackgound.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7873f9eb594c40f0e5ee09a995a45b9440502a58",
+      "size": 27145,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/7873f9eb594c40f0e5ee09a995a45b9440502a58"
+    },
+    {
+      "path": "WEFiles/Image/ModalPopupBlock.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f171a9dfcf815e61095ef65e9669e588d57baf4",
+      "size": 268,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/0f171a9dfcf815e61095ef65e9669e588d57baf4"
+    },
+    {
+      "path": "WEFiles/Image/ServerError.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1707daf5659095455615abcfa9f310382575194a",
+      "size": 2602,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/1707daf5659095455615abcfa9f310382575194a"
+    },
+    {
+      "path": "WEFiles/Image/Skin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "02384bc0872ceca875887cd9b55c7a08a1277f0e",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/02384bc0872ceca875887cd9b55c7a08a1277f0e"
+    },
+    {
+      "path": "WEFiles/Image/Skin/0ed465a6.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9566201c4fada54272cbe14416bcb8d8f614d9d1",
+      "size": 1913,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9566201c4fada54272cbe14416bcb8d8f614d9d1"
+    },
+    {
+      "path": "WEFiles/Image/WEImage",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1e4382895b30d332c090321a02303a9822cc5356",
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/trees/1e4382895b30d332c090321a02303a9822cc5356"
+    },
+    {
+      "path": "WEFiles/Image/WEImage/Web250-WE6f6c40b4f0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "497b4e65b1c94f91e31eea729042912f55a550bf",
+      "size": 6224,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/497b4e65b1c94f91e31eea729042912f55a550bf"
+    },
+    {
+      "path": "WEFiles/Image/WEImage/Web250-WEe9e612b240.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "604c83f9f1dd559cee76a8342c3359cf88f80b0d",
+      "size": 21953,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/604c83f9f1dd559cee76a8342c3359cf88f80b0d"
+    },
+    {
+      "path": "WEFiles/Image/WEW3C.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b81de9160bbaa1aaff62924d217b523edbb6f53d",
+      "size": 1882,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/b81de9160bbaa1aaff62924d217b523edbb6f53d"
+    },
+    {
+      "path": "WEFiles/Image/delete.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73676dda47b944518781a1c7fc70979e874f0574",
+      "size": 1465,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/73676dda47b944518781a1c7fc70979e874f0574"
+    },
+    {
+      "path": "WEFiles/Image/empty.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6e2b8f83d8648e95de2790fd4285b5a80c39270",
+      "size": 184,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/d6e2b8f83d8648e95de2790fd4285b5a80c39270"
+    },
+    {
+      "path": "WEFiles/Image/information2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9dc79ce6d70cc7585030f8f16626d7b521c0cbe8",
+      "size": 3246,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9dc79ce6d70cc7585030f8f16626d7b521c0cbe8"
+    },
+    {
+      "path": "WEFiles/Image/loading.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65235b6354d5b2f775ff7422fbf2f51f7e9ed25b",
+      "size": 1924,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/65235b6354d5b2f775ff7422fbf2f51f7e9ed25b"
+    },
+    {
+      "path": "WEFiles/Image/mask.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67649ebcfc2ea0cd69b6861e721125b5355c1820",
+      "size": 213,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/67649ebcfc2ea0cd69b6861e721125b5355c1820"
+    },
+    {
+      "path": "WEFiles/Image/warning.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6cdac6e457a82ee0cc660b10b50724256c24f87",
+      "size": 816,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/a6cdac6e457a82ee0cc660b10b50724256c24f87"
+    },
+    {
+      "path": "ashi_guruma(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2dd0403f64e82cb48075ceedc39aad81ae5fac28",
+      "size": 278,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/2dd0403f64e82cb48075ceedc39aad81ae5fac28"
+    },
+    {
+      "path": "ashi_guruma.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e41b0bcc7beb1ad8d27c3c2f2464655e5b5e2288",
+      "size": 6382,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/e41b0bcc7beb1ad8d27c3c2f2464655e5b5e2288"
+    },
+    {
+      "path": "ashi_guruma.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bdd431db3e0c312b8cbe189676004197989685b",
+      "size": 29045,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9bdd431db3e0c312b8cbe189676004197989685b"
+    },
+    {
+      "path": "ashi_waza.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7deef653db2202a1631cb46f89bd6548bc6edb20",
+      "size": 6322,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/7deef653db2202a1631cb46f89bd6548bc6edb20"
+    },
+    {
+      "path": "ashi_waza.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "daba1d8fb46d9a20bd686afbb4f597619a3b5a7b",
+      "size": 22021,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/daba1d8fb46d9a20bd686afbb4f597619a3b5a7b"
+    },
+    {
+      "path": "deashi_harai(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6929745a67946f62783f854b94feea1740b9bfb7",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/6929745a67946f62783f854b94feea1740b9bfb7"
+    },
+    {
+      "path": "deashi_harai.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fc6401ea6cb04b29bc50fabddb1db6dc9da19e1",
+      "size": 6745,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/8fc6401ea6cb04b29bc50fabddb1db6dc9da19e1"
+    },
+    {
+      "path": "deashi_harai.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9a9d784218f64217760a6e242fa692d1486de22",
+      "size": 30151,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f9a9d784218f64217760a6e242fa692d1486de22"
+    },
+    {
+      "path": "favicon.oe.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f008912eeaf35f8205a15c592b4a094fad021cde",
+      "size": 15406,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f008912eeaf35f8205a15c592b4a094fad021cde"
+    },
+    {
+      "path": "gokyo_no_waza(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8dd00c1dbc7d945d15c75ca5efc572ec35331e1",
+      "size": 282,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/c8dd00c1dbc7d945d15c75ca5efc572ec35331e1"
+    },
+    {
+      "path": "gokyo_no_waza.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b8fd8aeaa0226c8a9a4e4f97ffa423abbb1fa41",
+      "size": 8812,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/1b8fd8aeaa0226c8a9a4e4f97ffa423abbb1fa41"
+    },
+    {
+      "path": "gokyo_no_waza.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d448664375a9dd738c6bd60eb3662da0054c544",
+      "size": 36703,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/7d448664375a9dd738c6bd60eb3662da0054c544"
+    },
+    {
+      "path": "hane_goshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67afca8b5665ae739fc90d64a153f82c594d5aa2",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/67afca8b5665ae739fc90d64a153f82c594d5aa2"
+    },
+    {
+      "path": "hane_goshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1eb11b930fa66e54845e08304aa613e0c193a01a",
+      "size": 6363,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/1eb11b930fa66e54845e08304aa613e0c193a01a"
+    },
+    {
+      "path": "hane_goshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b25502e50aca735bf4aa1cee102cde977e52b84",
+      "size": 28438,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/6b25502e50aca735bf4aa1cee102cde977e52b84"
+    },
+    {
+      "path": "hane_makikomi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25f8d8218d31b8d700baf5afb26d1fc9fa3e7985",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/25f8d8218d31b8d700baf5afb26d1fc9fa3e7985"
+    },
+    {
+      "path": "hane_makikomi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee2954e35ddcab9661183cf1d93f25eb45ec952f",
+      "size": 6741,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ee2954e35ddcab9661183cf1d93f25eb45ec952f"
+    },
+    {
+      "path": "hane_makikomi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a02008a7140ae1b3360d65819ecf3cd3fdaea6e",
+      "size": 29907,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/5a02008a7140ae1b3360d65819ecf3cd3fdaea6e"
+    },
+    {
+      "path": "harai_goshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de9d063980d0934c852feb0b5559b26e746a48ee",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/de9d063980d0934c852feb0b5559b26e746a48ee"
+    },
+    {
+      "path": "harai_goshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0320f3ad5ed6fb338c69bc0391f20fce7ccb2b8e",
+      "size": 6355,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/0320f3ad5ed6fb338c69bc0391f20fce7ccb2b8e"
+    },
+    {
+      "path": "harai_goshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "939208392ad007bbd91bc0002b5d7526129efb95",
+      "size": 28446,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/939208392ad007bbd91bc0002b5d7526129efb95"
+    },
+    {
+      "path": "harai_tsurikomi_ashi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e261063871a7f1a481b204cbd1f36729445af023",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/e261063871a7f1a481b204cbd1f36729445af023"
+    },
+    {
+      "path": "harai_tsurikomi_ashi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09af8c4fbff6512381baeca402b073f71b58fa52",
+      "size": 3736,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/09af8c4fbff6512381baeca402b073f71b58fa52"
+    },
+    {
+      "path": "harai_tsurikomi_ashi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c16143628115d34e23f930a319ceccf1dec11e3",
+      "size": 16055,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/8c16143628115d34e23f930a319ceccf1dec11e3"
+    },
+    {
+      "path": "hiza_guruma(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce27b1c8af85ada8f21a7a3c3a9446ee58c247fc",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ce27b1c8af85ada8f21a7a3c3a9446ee58c247fc"
+    },
+    {
+      "path": "hiza_guruma.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3203de9a9d3d11337e19dccd2a3de12d44eb1945",
+      "size": 6369,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/3203de9a9d3d11337e19dccd2a3de12d44eb1945"
+    },
+    {
+      "path": "hiza_guruma.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "633a4e4595ebd22315745cf85269333a46e2b06e",
+      "size": 28436,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/633a4e4595ebd22315745cf85269333a46e2b06e"
+    },
+    {
+      "path": "index.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "422966d8b54ea179f5c94e8dbf15a5d2fa0b7449",
+      "size": 1440,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/422966d8b54ea179f5c94e8dbf15a5d2fa0b7449"
+    },
+    {
+      "path": "index.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b35bd05a54f108498a23bf068fcb5d531ce07bdf",
+      "size": 6042,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/b35bd05a54f108498a23bf068fcb5d531ce07bdf"
+    },
+    {
+      "path": "index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b35bd05a54f108498a23bf068fcb5d531ce07bdf",
+      "size": 6042,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/b35bd05a54f108498a23bf068fcb5d531ce07bdf"
+    },
+    {
+      "path": "kata_guruma(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2d7dfa332079f629a8044e3e275c8711ca21326",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/e2d7dfa332079f629a8044e3e275c8711ca21326"
+    },
+    {
+      "path": "kata_guruma.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f922bad9be8332cbe840566c65773a327757bcdc",
+      "size": 6363,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f922bad9be8332cbe840566c65773a327757bcdc"
+    },
+    {
+      "path": "kata_guruma.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e1fe019a823e687d4fc7ea67a44856fd146d18e",
+      "size": 28440,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/5e1fe019a823e687d4fc7ea67a44856fd146d18e"
+    },
+    {
+      "path": "koshi_guruma(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1f69f041e0a8bca039467cc3502e6a996cda2e6",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/c1f69f041e0a8bca039467cc3502e6a996cda2e6"
+    },
+    {
+      "path": "koshi_guruma.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ad9d4688f491d423b21306c461f6b7eba0aab86",
+      "size": 6355,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/6ad9d4688f491d423b21306c461f6b7eba0aab86"
+    },
+    {
+      "path": "koshi_guruma.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a13b308e56ca132255c522fdfc26bf11cc923f88",
+      "size": 28447,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/a13b308e56ca132255c522fdfc26bf11cc923f88"
+    },
+    {
+      "path": "koshi_waza.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bf75e58462cc8e52e3f59728c116fc95139b42a",
+      "size": 5524,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/8bf75e58462cc8e52e3f59728c116fc95139b42a"
+    },
+    {
+      "path": "koshi_waza.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27c3dee21bfb6f18f9a5b82a6cf8b5232830ca0a",
+      "size": 17913,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/27c3dee21bfb6f18f9a5b82a6cf8b5232830ca0a"
+    },
+    {
+      "path": "kosoto_gake(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95ec604af9206ada40ad0cec6b4d425acdb59116",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/95ec604af9206ada40ad0cec6b4d425acdb59116"
+    },
+    {
+      "path": "kosoto_gake.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b31cc623147e606ce881f354e57f1364860a69e2",
+      "size": 3245,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/b31cc623147e606ce881f354e57f1364860a69e2"
+    },
+    {
+      "path": "kosoto_gake.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdaa4da97fb3e9818a6f4dc492977153248ded13",
+      "size": 13667,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/cdaa4da97fb3e9818a6f4dc492977153248ded13"
+    },
+    {
+      "path": "kosoto_gari(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb5006bf2562ad7f564e8e5717946227623746c6",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/eb5006bf2562ad7f564e8e5717946227623746c6"
+    },
+    {
+      "path": "kosoto_gari.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ac9bd5d002151015c4e296fc098ecf9ade6d5cd",
+      "size": 6161,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/0ac9bd5d002151015c4e296fc098ecf9ade6d5cd"
+    },
+    {
+      "path": "kosoto_gari.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f468cfc84d11e942b8a3afd3f52f0d14afce4382",
+      "size": 27474,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f468cfc84d11e942b8a3afd3f52f0d14afce4382"
+    },
+    {
+      "path": "kouchi_gari(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95cee334ccdfd81b228e000713387e0fba1223da",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/95cee334ccdfd81b228e000713387e0fba1223da"
+    },
+    {
+      "path": "kouchi_gari.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83e0f6eab789f1e9455125f67bd5a2b56ad04851",
+      "size": 6947,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/83e0f6eab789f1e9455125f67bd5a2b56ad04851"
+    },
+    {
+      "path": "kouchi_gari.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9035a9ef0fc2244023f8d803b30223ed3ee1514b",
+      "size": 30865,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9035a9ef0fc2244023f8d803b30223ed3ee1514b"
+    },
+    {
+      "path": "ma_sutemi_waza.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2465cfe9baf4ec8748603551390a9d36387a172b",
+      "size": 4746,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/2465cfe9baf4ec8748603551390a9d36387a172b"
+    },
+    {
+      "path": "ma_sutemi_waza.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e282c974844a416d8bb465039b06c86c10520be",
+      "size": 14609,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/7e282c974844a416d8bb465039b06c86c10520be"
+    },
+    {
+      "path": "ne_waza.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f80db07e3285a1773fa4759babe423eea3cb7a3",
+      "size": 1974,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/8f80db07e3285a1773fa4759babe423eea3cb7a3"
+    },
+    {
+      "path": "ne_waza.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9dd326ab446d06fd7980b273107018649dfe0615",
+      "size": 9292,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9dd326ab446d06fd7980b273107018649dfe0615"
+    },
+    {
+      "path": "o_goshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77f9e3cc57a6b95903405123260a2ac2b0cad23b",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/77f9e3cc57a6b95903405123260a2ac2b0cad23b"
+    },
+    {
+      "path": "o_goshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "357e60e6fefdb2a6d8b0806a296ce22e7e2830de",
+      "size": 6440,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/357e60e6fefdb2a6d8b0806a296ce22e7e2830de"
+    },
+    {
+      "path": "o_goshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b19dc2d7e1fa29e1bafd12e8b7a4d41f7fdec793",
+      "size": 28798,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/b19dc2d7e1fa29e1bafd12e8b7a4d41f7fdec793"
+    },
+    {
+      "path": "o_guruma(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16b736bcb58124ccc4cfce5ec141f30d8d852ddb",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/16b736bcb58124ccc4cfce5ec141f30d8d852ddb"
+    },
+    {
+      "path": "o_guruma.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c45544aaaed13625d7545b630cd36459f524a24",
+      "size": 6360,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/0c45544aaaed13625d7545b630cd36459f524a24"
+    },
+    {
+      "path": "o_guruma.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9930244c6dba291360c40b6461ee61d631b61056",
+      "size": 28425,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9930244c6dba291360c40b6461ee61d631b61056"
+    },
+    {
+      "path": "o_soto_gari(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09f86453b9a2b17315be2ca1e609a6eb536bb9ee",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/09f86453b9a2b17315be2ca1e609a6eb536bb9ee"
+    },
+    {
+      "path": "o_soto_gari.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c6dc380653b5b48c85e39da3e15bc1f0e325b91",
+      "size": 4337,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/2c6dc380653b5b48c85e39da3e15bc1f0e325b91"
+    },
+    {
+      "path": "o_soto_gari.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2db65c99238e33af4b6c5c8d04fa53ef8eb4e99",
+      "size": 18427,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/e2db65c99238e33af4b6c5c8d04fa53ef8eb4e99"
+    },
+    {
+      "path": "o_soto_guruma(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7499359edec4a2b63e4367e5cedad4f511cfe52",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f7499359edec4a2b63e4367e5cedad4f511cfe52"
+    },
+    {
+      "path": "o_soto_guruma.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24f8f23745eaf9f1a55c5c8725daee4f5cafd466",
+      "size": 4354,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/24f8f23745eaf9f1a55c5c8725daee4f5cafd466"
+    },
+    {
+      "path": "o_soto_guruma.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03319874f1edb0eab78294b31ca71de1888b1845",
+      "size": 18953,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/03319874f1edb0eab78294b31ca71de1888b1845"
+    },
+    {
+      "path": "o_uchi_gari(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7158f6943555e0ebc198960b7a9a4da467204841",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/7158f6943555e0ebc198960b7a9a4da467204841"
+    },
+    {
+      "path": "o_uchi_gari.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e1c36956d55716b6a7c08c98769e085b78229b2",
+      "size": 6649,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/3e1c36956d55716b6a7c08c98769e085b78229b2"
+    },
+    {
+      "path": "o_uchi_gari.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95a81dbed92cdf739db6e259646741ef082e78c1",
+      "size": 29425,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/95a81dbed92cdf739db6e259646741ef082e78c1"
+    },
+    {
+      "path": "okuriashi_harai(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "022277a9a141776d2029e9727b74ae742a66bad3",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/022277a9a141776d2029e9727b74ae742a66bad3"
+    },
+    {
+      "path": "okuriashi_harai.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0730688171ec7937fb373099469d564ba415515",
+      "size": 6718,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f0730688171ec7937fb373099469d564ba415515"
+    },
+    {
+      "path": "okuriashi_harai.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b12545a753ab176c38d6dbb9f9ee6bde58a38b7",
+      "size": 29829,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/2b12545a753ab176c38d6dbb9f9ee6bde58a38b7"
+    },
+    {
+      "path": "sasae_tsurikomi_ashi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5f8141a8fb85a756461ee0d18b682a83c56f46a",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f5f8141a8fb85a756461ee0d18b682a83c56f46a"
+    },
+    {
+      "path": "sasae_tsurikomi_ashi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26ea458565f207a5402207e75938719a4620fc43",
+      "size": 3357,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/26ea458565f207a5402207e75938719a4620fc43"
+    },
+    {
+      "path": "sasae_tsurikomi_ashi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "542a5c3ba91f007a2482d6426ec90e19accbacf8",
+      "size": 14250,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/542a5c3ba91f007a2482d6426ec90e19accbacf8"
+    },
+    {
+      "path": "seoi_nage(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9207364940bbbae4b0ab9bd373b7b90dfe4f5076",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9207364940bbbae4b0ab9bd373b7b90dfe4f5076"
+    },
+    {
+      "path": "seoi_nage.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f226645f34574639b129d885445f49190168ef49",
+      "size": 3355,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f226645f34574639b129d885445f49190168ef49"
+    },
+    {
+      "path": "seoi_nage.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3781542dd8ca9cba57badcd08f73748c8805d701",
+      "size": 14127,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/3781542dd8ca9cba57badcd08f73748c8805d701"
+    },
+    {
+      "path": "soto_makikomi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b7f3c4d81ea0e522b76fecb950b2642d64dc053",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/1b7f3c4d81ea0e522b76fecb950b2642d64dc053"
+    },
+    {
+      "path": "soto_makikomi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0639d3196d2a8323d56ba5eb57349cdabe1ec247",
+      "size": 6640,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/0639d3196d2a8323d56ba5eb57349cdabe1ec247"
+    },
+    {
+      "path": "soto_makikomi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea4255d7037506e96e5109f3b2a1163a1778023d",
+      "size": 29409,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ea4255d7037506e96e5109f3b2a1163a1778023d"
+    },
+    {
+      "path": "sukui_nage(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80d957b67678e5b0ae69664b6df1a4d428986c0e",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/80d957b67678e5b0ae69664b6df1a4d428986c0e"
+    },
+    {
+      "path": "sukui_nage.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c8e66f7739e5b5f084e3156c9bce73093bd2850",
+      "size": 6644,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/0c8e66f7739e5b5f084e3156c9bce73093bd2850"
+    },
+    {
+      "path": "sukui_nage.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4102072eefe32f89b0795058067ebec11729dfd4",
+      "size": 29391,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/4102072eefe32f89b0795058067ebec11729dfd4"
+    },
+    {
+      "path": "sumi_gaeshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "874f7f5d75a96b43f785e7a19db6b48b2185b061",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/874f7f5d75a96b43f785e7a19db6b48b2185b061"
+    },
+    {
+      "path": "sumi_gaeshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10c77bb4280ac76dbce36abbd362dbe8b01e4fe2",
+      "size": 6491,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/10c77bb4280ac76dbce36abbd362dbe8b01e4fe2"
+    },
+    {
+      "path": "sumi_gaeshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4fb1354b1b0b4916a5fd1ec848383919d5998c5",
+      "size": 28998,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/c4fb1354b1b0b4916a5fd1ec848383919d5998c5"
+    },
+    {
+      "path": "sumi_otoshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6cfe9b01a0e904bfeb4ccd53c03b00fbcaddc8a6",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/6cfe9b01a0e904bfeb4ccd53c03b00fbcaddc8a6"
+    },
+    {
+      "path": "sumi_otoshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a542a9e216181d530f1dadc8a4f1453a4d8d477e",
+      "size": 6640,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/a542a9e216181d530f1dadc8a4f1453a4d8d477e"
+    },
+    {
+      "path": "sumi_otoshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec3873d02bee342f058fd48ad632dfc430c6232d",
+      "size": 29367,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ec3873d02bee342f058fd48ad632dfc430c6232d"
+    },
+    {
+      "path": "sutemi_waza.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "914dce8dd959676974564be0bdf34692514e46c9",
+      "size": 5555,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/914dce8dd959676974564be0bdf34692514e46c9"
+    },
+    {
+      "path": "sutemi_waza.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ff56653cb48ef79a54b677a5ce4b4d7f836eb89",
+      "size": 18487,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/0ff56653cb48ef79a54b677a5ce4b4d7f836eb89"
+    },
+    {
+      "path": "tachi_waza.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be4980c1fac5a66982331bc799c18cb763572e6b",
+      "size": 7725,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/be4980c1fac5a66982331bc799c18cb763572e6b"
+    },
+    {
+      "path": "tachi_waza.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cc86adaba3ce7d0cb7eb6e75cdb1ee3eceb74ff",
+      "size": 28358,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/3cc86adaba3ce7d0cb7eb6e75cdb1ee3eceb74ff"
+    },
+    {
+      "path": "tai_otoshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "903512bb42dc3dc8b138af921d2a6f916d9d21e5",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/903512bb42dc3dc8b138af921d2a6f916d9d21e5"
+    },
+    {
+      "path": "tai_otoshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7827627d303538f51616f51e0c65b9eec91826d9",
+      "size": 4254,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/7827627d303538f51616f51e0c65b9eec91826d9"
+    },
+    {
+      "path": "tai_otoshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e201f288a11089f0ffae7b3d10a18ea8159decbc",
+      "size": 18408,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/e201f288a11089f0ffae7b3d10a18ea8159decbc"
+    },
+    {
+      "path": "tani_otoshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0e8233156627f24511b4be995c2a3ce6a635a10",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/a0e8233156627f24511b4be995c2a3ce6a635a10"
+    },
+    {
+      "path": "tani_otoshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1482afcce4a94ba6e61766a9bef999710b553bcd",
+      "size": 6733,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/1482afcce4a94ba6e61766a9bef999710b553bcd"
+    },
+    {
+      "path": "tani_otoshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5281dc60234c50b466a4bd5149851874b531d749",
+      "size": 29886,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/5281dc60234c50b466a4bd5149851874b531d749"
+    },
+    {
+      "path": "te_waza.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c60f54e55008a5430f61978d7f1b3f1db6f1ce6f",
+      "size": 5046,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/c60f54e55008a5430f61978d7f1b3f1db6f1ce6f"
+    },
+    {
+      "path": "te_waza.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7533c259b50c5a1bfd5cf182e0b347e5d7769ae",
+      "size": 16014,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/e7533c259b50c5a1bfd5cf182e0b347e5d7769ae"
+    },
+    {
+      "path": "tomoe_nage(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7634e21b39335f7723280debfe6c4fe283f7e89",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/c7634e21b39335f7723280debfe6c4fe283f7e89"
+    },
+    {
+      "path": "tomoe_nage.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f92599a29e68e5191ed9b0def2f8202e35d4270",
+      "size": 3153,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/0f92599a29e68e5191ed9b0def2f8202e35d4270"
+    },
+    {
+      "path": "tomoe_nage.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2dd12264ea835d46ed56f6b20febfe5fe3e48cd1",
+      "size": 13235,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/2dd12264ea835d46ed56f6b20febfe5fe3e48cd1"
+    },
+    {
+      "path": "tsuri_goshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9bcf4f7e14bf595fc11fb1a5d107e27dab75dd0",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/d9bcf4f7e14bf595fc11fb1a5d107e27dab75dd0"
+    },
+    {
+      "path": "tsuri_goshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acf0cafb07a12e174a9c22a1883bb27bb66c9768",
+      "size": 6363,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/acf0cafb07a12e174a9c22a1883bb27bb66c9768"
+    },
+    {
+      "path": "tsuri_goshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a38fcffce12efdfda56d6c930664233270ab0a7",
+      "size": 28437,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/4a38fcffce12efdfda56d6c930664233270ab0a7"
+    },
+    {
+      "path": "tsurikomi_goshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68521885329f655c7eea67556100cb819366df55",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/68521885329f655c7eea67556100cb819366df55"
+    },
+    {
+      "path": "tsurikomi_goshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f12e459225b7e4b0546f95d90e59160cf4628674",
+      "size": 6367,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f12e459225b7e4b0546f95d90e59160cf4628674"
+    },
+    {
+      "path": "tsurikomi_goshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e52760e93272e24d764eb1988f18ed83b58494b",
+      "size": 28461,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/6e52760e93272e24d764eb1988f18ed83b58494b"
+    },
+    {
+      "path": "uchi_mata(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0d7e02e6cc72ce56fc33a515a61ca4506aa3e92",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/a0d7e02e6cc72ce56fc33a515a61ca4506aa3e92"
+    },
+    {
+      "path": "uchi_mata.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a575b8ad77d68528acb63a6f6bf7f86f8253a04",
+      "size": 6842,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9a575b8ad77d68528acb63a6f6bf7f86f8253a04"
+    },
+    {
+      "path": "uchi_mata.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09b80f017f69f62998387b99dd94fddec6973e9a",
+      "size": 30384,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/09b80f017f69f62998387b99dd94fddec6973e9a"
+    },
+    {
+      "path": "uki_goshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "590a8bb11e785770f6cf04b8783d42cdf495786e",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/590a8bb11e785770f6cf04b8783d42cdf495786e"
+    },
+    {
+      "path": "uki_goshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d4d32b47e2f422bf9dc7c76acab405c6f74108a",
+      "size": 6506,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/2d4d32b47e2f422bf9dc7c76acab405c6f74108a"
+    },
+    {
+      "path": "uki_goshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63e1d73875abb96b4c1dae2cbab797c0693c341c",
+      "size": 28987,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/63e1d73875abb96b4c1dae2cbab797c0693c341c"
+    },
+    {
+      "path": "uki_otoshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44dd7d514be41e26e51dff7dcd0d6374c785dda9",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/44dd7d514be41e26e51dff7dcd0d6374c785dda9"
+    },
+    {
+      "path": "uki_otoshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84161a441c18ce699d7e426d282ac5a8be561a43",
+      "size": 6062,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/84161a441c18ce699d7e426d282ac5a8be561a43"
+    },
+    {
+      "path": "uki_otoshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "205bd4f4d9fd09cf6c4c908cf27ad96b08e3215f",
+      "size": 27000,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/205bd4f4d9fd09cf6c4c908cf27ad96b08e3215f"
+    },
+    {
+      "path": "uki_waza(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f40cee89f871e11dc7fe0fabc54f5db72e7974d6",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/f40cee89f871e11dc7fe0fabc54f5db72e7974d6"
+    },
+    {
+      "path": "uki_waza.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db5ca71d92e0c5019c85af292c3c1e10fe57f0bc",
+      "size": 6066,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/db5ca71d92e0c5019c85af292c3c1e10fe57f0bc"
+    },
+    {
+      "path": "uki_waza.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "adbd01bcd5b648370ee906a85bb026b3f82d7a5c",
+      "size": 26969,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/adbd01bcd5b648370ee906a85bb026b3f82d7a5c"
+    },
+    {
+      "path": "ura_nage(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43f3883dc6f3ec4051c5ad9bb3380582d41487b0",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/43f3883dc6f3ec4051c5ad9bb3380582d41487b0"
+    },
+    {
+      "path": "ura_nage.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8905cb33b479c23890784ef0b2836f6a2bea3b19",
+      "size": 3153,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/8905cb33b479c23890784ef0b2836f6a2bea3b19"
+    },
+    {
+      "path": "ura_nage.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39da0eeb1b7e96c330ac83fcb98d032a64233404",
+      "size": 13205,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/39da0eeb1b7e96c330ac83fcb98d032a64233404"
+    },
+    {
+      "path": "ushiro_goshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a2740fd1a53713c087499ff50a76ba76d5b15e7",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/6a2740fd1a53713c087499ff50a76ba76d5b15e7"
+    },
+    {
+      "path": "ushiro_goshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd751f2d22aadb7aef117e7e15fb303753a77560",
+      "size": 3934,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/dd751f2d22aadb7aef117e7e15fb303753a77560"
+    },
+    {
+      "path": "ushiro_goshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ebd6c78231f755dac2e5988a0c00392597ede9a",
+      "size": 16680,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/7ebd6c78231f755dac2e5988a0c00392597ede9a"
+    },
+    {
+      "path": "utsuri_goshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc93f3de43d114df95654010b4942698bf2cc254",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/cc93f3de43d114df95654010b4942698bf2cc254"
+    },
+    {
+      "path": "utsuri_goshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5cb4304a69156caa49ccc1fb1108e044c0bf8e6a",
+      "size": 6745,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/5cb4304a69156caa49ccc1fb1108e044c0bf8e6a"
+    },
+    {
+      "path": "utsuri_goshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "997f6d3713bbb971006ae664639dd3e9f8d1c216",
+      "size": 29879,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/997f6d3713bbb971006ae664639dd3e9f8d1c216"
+    },
+    {
+      "path": "yoko_gake(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d69884ac3c5c1074d498741b0cc79cc9c062ffc0",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/d69884ac3c5c1074d498741b0cc79cc9c062ffc0"
+    },
+    {
+      "path": "yoko_gake.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c7850a5cb52454baf27eabe54e97e55dac40da2",
+      "size": 6818,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/3c7850a5cb52454baf27eabe54e97e55dac40da2"
+    },
+    {
+      "path": "yoko_gake.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77d2b93d5fc58036bebcf091f71755fa909b04d6",
+      "size": 30257,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/77d2b93d5fc58036bebcf091f71755fa909b04d6"
+    },
+    {
+      "path": "yoko_guruma(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d690efdc75102076cc60e663bf7d2c1babe5736",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/9d690efdc75102076cc60e663bf7d2c1babe5736"
+    },
+    {
+      "path": "yoko_guruma.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1d2a01da91dc0fd40c5e13e23465ee88b4783a4",
+      "size": 6741,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/b1d2a01da91dc0fd40c5e13e23465ee88b4783a4"
+    },
+    {
+      "path": "yoko_guruma.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3103ebc69b25c9e5cae5c64d263015929aaf300e",
+      "size": 29864,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/3103ebc69b25c9e5cae5c64d263015929aaf300e"
+    },
+    {
+      "path": "yoko_otoshi(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05e917aaacba2d16f6e3c1a9ffa6858842f3c72d",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/05e917aaacba2d16f6e3c1a9ffa6858842f3c72d"
+    },
+    {
+      "path": "yoko_otoshi.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6788ab15a1995ddc0228e626277e5801561c133a",
+      "size": 6632,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/6788ab15a1995ddc0228e626277e5801561c133a"
+    },
+    {
+      "path": "yoko_otoshi.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "155813cd6b4178d362c7e2d8e39e03babc7b2ae1",
+      "size": 29437,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/155813cd6b4178d362c7e2d8e39e03babc7b2ae1"
+    },
+    {
+      "path": "yoko_sutemi_waza.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "109aba03fb5d3d44536f1d6d37aff8e3fd59cbff",
+      "size": 5250,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/109aba03fb5d3d44536f1d6d37aff8e3fd59cbff"
+    },
+    {
+      "path": "yoko_sutemi_waza.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7893ee2ac238cd39f07d00fcf99943ade8b5e3d1",
+      "size": 17084,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/7893ee2ac238cd39f07d00fcf99943ade8b5e3d1"
+    },
+    {
+      "path": "yoko_wakare(var).js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a79b9c5327a28cd1193601e73b5022606557a10",
+      "size": 271,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/7a79b9c5327a28cd1193601e73b5022606557a10"
+    },
+    {
+      "path": "yoko_wakare.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0366e9d0d9d75328dcebb14531d2eea3ca17e1cf",
+      "size": 6940,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/0366e9d0d9d75328dcebb14531d2eea3ca17e1cf"
+    },
+    {
+      "path": "yoko_wakare.htm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee1abc7e44a4f1c42a999014ea82222c5f59072a",
+      "size": 30781,
+      "url": "https://api.github.com/repos/lesthomassolutions/judo-gokyo-mind-maps/git/blobs/ee1abc7e44a4f1c42a999014ea82222c5f59072a"
+    }
+  ],
+  "truncated": false
+}
