@@ -1,0 +1,1131 @@
+{
+  "status": "Review preparation only; no new permission or demonstration-side claims",
+  "techniques": [
+    {
+      "id": "o_soto_guruma",
+      "images": [
+        {
+          "path": "Files/Image/o_soto_guruma.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/o_soto_guruma_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "2zAr2dcRKhY",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "sumi_otoshi",
+      "images": [
+        {
+          "path": "Files/Image/sumi_otoshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/sumi_otoshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "5Zc_GGBmK98",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "uki_waza",
+      "images": [
+        {
+          "path": "Files/Image/uki_waza.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/uki_waza_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "R7rXDB6S-LI",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "ura_nage",
+      "images": [
+        {
+          "path": "Files/Image/ura_nage.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/ura_nage_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "YI1obnWrTdI",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "ushiro_goshi",
+      "images": [
+        {
+          "path": "Files/Image/ushiro_goshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/ushiro_goshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": {
+            "sourceClassification": "ashi_waza",
+            "proposedClassification": "koshi_waza"
+          }
+        }
+      ],
+      "video": {
+        "id": "b_2mR7mGG10",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "yoko_gake",
+      "images": [
+        {
+          "path": "Files/Image/yoko_gake.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/yoko_gake_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "snzm2LZsj0g",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "yoko_guruma",
+      "images": [
+        {
+          "path": "Files/Image/yoko_guruma.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/yoko_guruma_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "3cTnl6rB82k",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "yoko_wakare",
+      "images": [
+        {
+          "path": "Files/Image/yoko_wakare.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/yoko_wakare_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "uDIDika0f1k",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "deashi_harai",
+      "images": [
+        {
+          "path": "Files/Image/deashi_harai.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/deashi_harai_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "fcSMGRq0HMY",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "hiza_guruma",
+      "images": [
+        {
+          "path": "Files/Image/hiza_guruma.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/hiza_guruma_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "MbrtbT4ivoY",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "o_goshi",
+      "images": [
+        {
+          "path": "Files/Image/o_goshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/o_goshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "PFbILGwd5L4",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "o_soto_gari",
+      "images": [
+        {
+          "path": "Files/Image/o_soto_gari.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/o_soto_gari_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": {
+            "sourceClassification": "koshi_waza",
+            "proposedClassification": "ashi_waza"
+          }
+        }
+      ],
+      "video": {
+        "id": "Cik-jXhmsoE",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "o_uchi_gari",
+      "images": [
+        {
+          "path": "Files/Image/o_uchi_gari.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/o_uchi_gari_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "MuLDvLFQTHs",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "sasae_tsurikomi_ashi",
+      "images": [
+        {
+          "path": "Files/Image/sasae_tsurikomi_ashi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/sasae_tsurikomi_ashi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "QaSuu4Q7Xms",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "seoi_nage",
+      "images": [
+        {
+          "path": "Files/Image/seoi_nage.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/seoi_nage_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "gbcRlZgDSwo",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "uki_goshi",
+      "images": [
+        {
+          "path": "Files/Image/uki_goshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/uki_goshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "SNTuDRgoOtg",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "harai_goshi",
+      "images": [
+        {
+          "path": "Files/Image/harai_goshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/harai_goshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "hKkDMj8Vgxc",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "koshi_guruma",
+      "images": [
+        {
+          "path": "Files/Image/koshi_guruma.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/Koshi_Guruma_technique.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "pJsQrgMhgk4",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "kosoto_gari",
+      "images": [
+        {
+          "path": "Files/Image/kosoto_gari.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/kosoto_gari_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "AdffYA9D3co",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "kouchi_gari",
+      "images": [
+        {
+          "path": "Files/Image/kouchi_gari.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/kouchi_gari_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "cwlmv52ccVQ",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "okuriashi_harai",
+      "images": [
+        {
+          "path": "Files/Image/okuriashi_harai.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/okuriashi_harai_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "m3LNa46XPgI",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "tai_otoshi",
+      "images": [
+        {
+          "path": "Files/Image/tai_otoshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/tai_otoshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "fcEYbCP5jpA",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "tsurikomi_goshi",
+      "images": [
+        {
+          "path": "Files/Image/tsurikomi_goshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/tsurikomi_goshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "1eir0M1N40Q",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "uchi_mata",
+      "images": [
+        {
+          "path": "Files/Image/uchi_mata.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/uchi_mata_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "7qeKv_dpLlw",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "ashi_guruma",
+      "images": [
+        {
+          "path": "Files/Image/ashi_guruma.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/ashi_guruma_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "pnTq5wFPEFM",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "hane_goshi",
+      "images": [
+        {
+          "path": "Files/Image/hane_goshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/hane_goshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "sUvXz4BGD0k",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "harai_tsurikomi_ashi",
+      "images": [
+        {
+          "path": "Files/Image/Harai_Tsurikomi_Ashi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/harai_tsurikomi_ashi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "y0NlrTWemQY",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "kata_guruma",
+      "images": [
+        {
+          "path": "Files/Image/kata_guruma.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/kata_guruma_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "hBSJoGYmEko",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "kosoto_gake",
+      "images": [
+        {
+          "path": "Files/Image/kosoto_gake.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/kosoto_gake_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "2PPomHBUv-M",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "tomoe_nage",
+      "images": [
+        {
+          "path": "Files/Image/tomoe_nage.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/tomoe_nage_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "3jMnXGcoqjU",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "tsuri_goshi",
+      "images": [
+        {
+          "path": "Files/Image/tsuri_goshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/tsuri_goshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "2meKovMhZb8",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "yoko_otoshi",
+      "images": [
+        {
+          "path": "Files/Image/yoko_otoshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/yoko_otoshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "H4VADt6VfeI",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "hane_makikomi",
+      "images": [
+        {
+          "path": "Files/Image/hane_makikomi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/hane_makikomi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "C1K30vTqbwI",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "o_guruma",
+      "images": [
+        {
+          "path": "Files/Image/o_guruma.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/o_guruma_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "eWQRl13yWU8",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "soto_makikomi",
+      "images": [
+        {
+          "path": "Files/Image/soto_makikomi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/soto_makikomi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "qXTdAEpwubw",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "sukui_nage",
+      "images": [
+        {
+          "path": "Files/Image/sukui_nage.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/sukui_nage_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "QWdv1E9vg3o",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "sumi_gaeshi",
+      "images": [
+        {
+          "path": "Files/Image/sumi_gaeshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/sumi_gaeshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "kod5QHdmE7E",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "tani_otoshi",
+      "images": [
+        {
+          "path": "Files/Image/tani_otoshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/tani_otoshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "2nC1O0pKQEQ",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "uki_otoshi",
+      "images": [
+        {
+          "path": "Files/Image/uki_otoshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/uki_otoshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "kiLCfJk2mEA",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    },
+    {
+      "id": "utsuri_goshi",
+      "images": [
+        {
+          "path": "Files/Image/utsuri_goshi.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        },
+        {
+          "path": "Files/Image/utsuri_goshi_i.gif",
+          "owner": null,
+          "permissionEvidence": [],
+          "status": "provenance-unresolved",
+          "sideReview": "unreviewed",
+          "captionCorrection": null
+        }
+      ],
+      "video": {
+        "id": "EBTuQZmaaOc",
+        "metadataCheck": "available-on-2026-11-08",
+        "playbackCheck": "not-tested",
+        "demonstrationSide": "unreviewed",
+        "technicalReview": "unreviewed"
+      }
+    }
+  ]
+}

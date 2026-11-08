@@ -1,0 +1,530 @@
+{
+  "status": "Reference-checked proposal; original inventory unchanged; not application implementation",
+  "sourceCommit": "f57e44c45a753d0a7680c45021010e72425533a1",
+  "techniques": [
+    {
+      "id": "o_soto_guruma",
+      "group": "Dai_Gokyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "koshi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "sumi_otoshi",
+      "group": "Dai_Gokyo",
+      "classification": "te_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "te_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "te_waza"
+    },
+    {
+      "id": "uki_waza",
+      "group": "Dai_Gokyo",
+      "classification": "yoko_sutemi_waza",
+      "parent": "sutemi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "sutemi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "originalIllustrationClassification": "yoko_sutemi_waza"
+    },
+    {
+      "id": "ura_nage",
+      "group": "Dai_Gokyo",
+      "classification": "ma_sutemi_waza",
+      "parent": "sutemi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "sutemi_waza",
+        "ma_sutemi_waza"
+      ],
+      "originalIllustrationClassification": "ma_sutemi_waza"
+    },
+    {
+      "id": "ushiro_goshi",
+      "group": "Dai_Gokyo",
+      "classification": "koshi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "yoko_gake",
+      "group": "Dai_Gokyo",
+      "classification": "yoko_sutemi_waza",
+      "parent": "sutemi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "sutemi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "originalIllustrationClassification": "yoko_sutemi_waza"
+    },
+    {
+      "id": "yoko_guruma",
+      "group": "Dai_Gokyo",
+      "classification": "yoko_sutemi_waza",
+      "parent": "sutemi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "sutemi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "originalIllustrationClassification": "yoko_sutemi_waza"
+    },
+    {
+      "id": "yoko_wakare",
+      "group": "Dai_Gokyo",
+      "classification": "yoko_sutemi_waza",
+      "parent": "sutemi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "sutemi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "originalIllustrationClassification": "yoko_sutemi_waza"
+    },
+    {
+      "id": "deashi_harai",
+      "group": "Dai_Ikkyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "hiza_guruma",
+      "group": "Dai_Ikkyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "o_goshi",
+      "group": "Dai_Ikkyo",
+      "classification": "koshi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "originalIllustrationClassification": "koshi_waza"
+    },
+    {
+      "id": "o_soto_gari",
+      "group": "Dai_Ikkyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "koshi_waza"
+    },
+    {
+      "id": "o_uchi_gari",
+      "group": "Dai_Ikkyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "sasae_tsurikomi_ashi",
+      "group": "Dai_Ikkyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "seoi_nage",
+      "group": "Dai_Ikkyo",
+      "classification": "te_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "te_waza"
+      ],
+      "originalIllustrationClassification": "te_waza"
+    },
+    {
+      "id": "uki_goshi",
+      "group": "Dai_Ikkyo",
+      "classification": "koshi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "originalIllustrationClassification": "koshi_waza"
+    },
+    {
+      "id": "harai_goshi",
+      "group": "Dai_Nikyo",
+      "classification": "koshi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "originalIllustrationClassification": "koshi_waza"
+    },
+    {
+      "id": "koshi_guruma",
+      "group": "Dai_Nikyo",
+      "classification": "koshi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "originalIllustrationClassification": "koshi_waza"
+    },
+    {
+      "id": "kosoto_gari",
+      "group": "Dai_Nikyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "kouchi_gari",
+      "group": "Dai_Nikyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "okuriashi_harai",
+      "group": "Dai_Nikyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "tai_otoshi",
+      "group": "Dai_Nikyo",
+      "classification": "te_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "te_waza"
+      ],
+      "originalIllustrationClassification": "te_waza"
+    },
+    {
+      "id": "tsurikomi_goshi",
+      "group": "Dai_Nikyo",
+      "classification": "koshi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "originalIllustrationClassification": "koshi_waza"
+    },
+    {
+      "id": "uchi_mata",
+      "group": "Dai_Nikyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "ashi_guruma",
+      "group": "Dai_Sankyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "hane_goshi",
+      "group": "Dai_Sankyo",
+      "classification": "koshi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "originalIllustrationClassification": "koshi_waza"
+    },
+    {
+      "id": "harai_tsurikomi_ashi",
+      "group": "Dai_Sankyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "kata_guruma",
+      "group": "Dai_Sankyo",
+      "classification": "te_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "te_waza"
+      ],
+      "originalIllustrationClassification": "te_waza"
+    },
+    {
+      "id": "kosoto_gake",
+      "group": "Dai_Sankyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "tomoe_nage",
+      "group": "Dai_Sankyo",
+      "classification": "ma_sutemi_waza",
+      "parent": "sutemi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "sutemi_waza",
+        "ma_sutemi_waza"
+      ],
+      "originalIllustrationClassification": "ma_sutemi_waza"
+    },
+    {
+      "id": "tsuri_goshi",
+      "group": "Dai_Sankyo",
+      "classification": "koshi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "originalIllustrationClassification": "koshi_waza"
+    },
+    {
+      "id": "yoko_otoshi",
+      "group": "Dai_Sankyo",
+      "classification": "yoko_sutemi_waza",
+      "parent": "sutemi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "yoko_sutemi_waza"
+    },
+    {
+      "id": "hane_makikomi",
+      "group": "Dai_Yonkyo",
+      "classification": "yoko_sutemi_waza",
+      "parent": "sutemi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "sutemi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "originalIllustrationClassification": "yoko_sutemi_waza"
+    },
+    {
+      "id": "o_guruma",
+      "group": "Dai_Yonkyo",
+      "classification": "ashi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "ashi_waza"
+      ],
+      "originalIllustrationClassification": "ashi_waza"
+    },
+    {
+      "id": "soto_makikomi",
+      "group": "Dai_Yonkyo",
+      "classification": "yoko_sutemi_waza",
+      "parent": "sutemi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "sutemi_waza",
+        "ashi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "originalIllustrationClassification": "yoko_sutemi_waza"
+    },
+    {
+      "id": "sukui_nage",
+      "group": "Dai_Yonkyo",
+      "classification": "te_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "te_waza"
+      ],
+      "originalIllustrationClassification": "te_waza"
+    },
+    {
+      "id": "sumi_gaeshi",
+      "group": "Dai_Yonkyo",
+      "classification": "ma_sutemi_waza",
+      "parent": "sutemi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "sutemi_waza",
+        "ma_sutemi_waza"
+      ],
+      "originalIllustrationClassification": "ma_sutemi_waza"
+    },
+    {
+      "id": "tani_otoshi",
+      "group": "Dai_Yonkyo",
+      "classification": "yoko_sutemi_waza",
+      "parent": "sutemi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "sutemi_waza",
+        "yoko_sutemi_waza"
+      ],
+      "originalIllustrationClassification": "yoko_sutemi_waza"
+    },
+    {
+      "id": "uki_otoshi",
+      "group": "Dai_Yonkyo",
+      "classification": "te_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "te_waza"
+      ],
+      "originalIllustrationClassification": "te_waza"
+    },
+    {
+      "id": "utsuri_goshi",
+      "group": "Dai_Yonkyo",
+      "classification": "koshi_waza",
+      "parent": "tachi_waza",
+      "evidenceStatus": "reference-checked",
+      "reference": "https://kdkjudo.org/en/techniques/names-of-judo-techniques/",
+      "originalCategories": [
+        "tachi_waza",
+        "koshi_waza"
+      ],
+      "originalIllustrationClassification": "koshi_waza"
+    }
+  ]
+}

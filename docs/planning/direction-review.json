@@ -1,0 +1,686 @@
+{
+  "status": "Review preparation only; geometric candidates are NOT validated judo content",
+  "frame": "Original screen: N up, E right, S down, W left",
+  "geometricReflection": {
+    "N": "N",
+    "NE": "NW",
+    "E": "W",
+    "SE": "SW",
+    "S": "S",
+    "SW": "SE",
+    "W": "E",
+    "NW": "NE"
+  },
+  "techniques": [
+    {
+      "id": "o_soto_guruma",
+      "sourceArrows": [
+        "N"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/o_soto_guruma.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "N"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "sumi_otoshi",
+      "sourceArrows": [
+        "NW"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/sumi_otoshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "NE"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "uki_waza",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/uki_waza.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "ura_nage",
+      "sourceArrows": [
+        "N"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/ura_nage.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "N"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "ushiro_goshi",
+      "sourceArrows": [
+        "N"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/ushiro_goshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "N"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "yoko_gake",
+      "sourceArrows": [
+        "W",
+        "E"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/yoko_gake.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "E",
+        "W"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "yoko_guruma",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/yoko_guruma.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "yoko_wakare",
+      "sourceArrows": [
+        "SW"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/yoko_wakare.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "SE"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "deashi_harai",
+      "sourceArrows": [
+        "S",
+        "SW"
+      ],
+      "sourceHighlightedSector": "S–SW",
+      "sourceImage": "Files/Image/deashi_harai.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S",
+        "SE"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "hiza_guruma",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": "SW–S and S–SE (arrow only S)",
+      "sourceImage": "Files/Image/hiza_guruma.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "o_goshi",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/o_goshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "o_soto_gari",
+      "sourceArrows": [
+        "NW"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/o_soto_gari.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "NE"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "o_uchi_gari",
+      "sourceArrows": [
+        "NE"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/o_uchi_gari.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "NW"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "sasae_tsurikomi_ashi",
+      "sourceArrows": [
+        "S",
+        "SE"
+      ],
+      "sourceHighlightedSector": "S–SE",
+      "sourceImage": "Files/Image/sasae_tsurikomi_ashi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S",
+        "SW"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "seoi_nage",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/seoi_nage.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "uki_goshi",
+      "sourceArrows": [
+        "SW"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/uki_goshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "SE"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "harai_goshi",
+      "sourceArrows": [
+        "S",
+        "SW"
+      ],
+      "sourceHighlightedSector": "S–SW",
+      "sourceImage": "Files/Image/harai_goshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S",
+        "SE"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "koshi_guruma",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/koshi_guruma.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "kosoto_gari",
+      "sourceArrows": [
+        "N",
+        "NE"
+      ],
+      "sourceHighlightedSector": "N–NE",
+      "sourceImage": "Files/Image/kosoto_gari.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "N",
+        "NW"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "kouchi_gari",
+      "sourceArrows": [
+        "N"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/kouchi_gari.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "N"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "okuriashi_harai",
+      "sourceArrows": [
+        "W",
+        "E"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/okuriashi_harai.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "E",
+        "W"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "tai_otoshi",
+      "sourceArrows": [
+        "S",
+        "SW"
+      ],
+      "sourceHighlightedSector": "S–SW",
+      "sourceImage": "Files/Image/tai_otoshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S",
+        "SE"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "tsurikomi_goshi",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/tsurikomi_goshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "uchi_mata",
+      "sourceArrows": [
+        "S",
+        "SW"
+      ],
+      "sourceHighlightedSector": "S–SW",
+      "sourceImage": "Files/Image/uchi_mata.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S",
+        "SE"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "ashi_guruma",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/ashi_guruma.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "hane_goshi",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/hane_goshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "harai_tsurikomi_ashi",
+      "sourceArrows": [
+        "W",
+        "SW",
+        "E",
+        "SE"
+      ],
+      "sourceHighlightedSector": "W–SW and E–SE",
+      "sourceImage": "Files/Image/Harai_Tsurikomi_Ashi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "E",
+        "SE",
+        "W",
+        "SW"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "kata_guruma",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/kata_guruma.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "kosoto_gake",
+      "sourceArrows": [
+        "N",
+        "NE"
+      ],
+      "sourceHighlightedSector": "N–NE",
+      "sourceImage": "Files/Image/kosoto_gake.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "N",
+        "NW"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "tomoe_nage",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/tomoe_nage.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "tsuri_goshi",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/tsuri_goshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "yoko_otoshi",
+      "sourceArrows": [
+        "W",
+        "SW"
+      ],
+      "sourceHighlightedSector": "W–SW",
+      "sourceImage": "Files/Image/yoko_otoshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "E",
+        "SE"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "hane_makikomi",
+      "sourceArrows": [
+        "S",
+        "SW"
+      ],
+      "sourceHighlightedSector": "S–SW",
+      "sourceImage": "Files/Image/hane_makikomi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S",
+        "SE"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "o_guruma",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/o_guruma.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "soto_makikomi",
+      "sourceArrows": [
+        "S",
+        "SW"
+      ],
+      "sourceHighlightedSector": "S–SW",
+      "sourceImage": "Files/Image/soto_makikomi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S",
+        "SE"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "sukui_nage",
+      "sourceArrows": [
+        "N"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/sukui_nage.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "N"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "sumi_gaeshi",
+      "sourceArrows": [
+        "SW"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/sumi_gaeshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "SE"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "tani_otoshi",
+      "sourceArrows": [
+        "N"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/tani_otoshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "N"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "uki_otoshi",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/uki_otoshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    },
+    {
+      "id": "utsuri_goshi",
+      "sourceArrows": [
+        "S"
+      ],
+      "sourceHighlightedSector": null,
+      "sourceImage": "Files/Image/utsuri_goshi.gif",
+      "rightReview": "unreviewed",
+      "leftGeometricCandidate": [
+        "S"
+      ],
+      "leftReview": "unreviewed",
+      "publishLeftCandidate": false,
+      "reviewer": null,
+      "evidence": []
+    }
+  ]
+}
