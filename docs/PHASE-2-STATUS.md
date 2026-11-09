@@ -26,4 +26,4 @@ The SVG reflection axis is taken from Uke's center, rather than assuming every s
 
 Full print output, broader screen-reader acceptance and browser-restart persistence have not been separately exercised. Persistence logic and reload behavior have been checked. The standalone embeds all images; external videos/resources need internet. Local-file YouTube embedding can encounter Error 153. No source video IDs have changed.
 
-All work is saved in private V2. The original repository/site remain untouched; nothing deployed.
+V2 is now public following the owner’s visibility change and publication authorization. The website was published on 9 November 2026; see GITHUB-PAGES.md for deployment evidence. The original repository/site remain untouched.

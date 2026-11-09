@@ -1,22 +1,28 @@
-# GitHub Pages publishing — 9 November 2026
+# GitHub Pages — published 9 November 2026
 
-The owner authorized GitHub Pages publication of V2. The latest application/text changes are already committed. The original repository and website must remain untouched.
+Live website: https://lesthomassolutions.github.io/judo-gokyo-mind-maps-v2/
 
-## Prepared
+The owner authorized publication, changed V2 from private to public, and the public visibility was confirmed before deployment. The original repository and original hosted site remain untouched.
 
-.github/workflows/pages.yml is a manually triggered workflow. It checks the 17 preservation/perspective tests and publishes only web/, excluding planning documents, review records, tools and local QA artifacts. The application uses relative assets and is suitable for a repository subpath. Actions versions were checked against the official actions repositories when preparing this workflow.
+## Deployment evidence
 
-The workflow has not been dispatched because Pages is unavailable for the current private repository on the account's plan. No site has been published.
+- Successful workflow: https://github.com/lesthomassolutions/judo-gokyo-mind-maps-v2/actions/runs/42628205473
+- Deployed commit: a1e9637d6f4eb10d8dfca3a3d63e5c4759c572ac (contains the latest introduction and help edits).
+- All 17 automated checks passed before publication.
+- Source: GitHub Actions; workflow .github/workflows/pages.yml. Only web/ is uploaded as the website artifact. Planning documents, local QA and build tools are excluded from the website artifact; the repository itself is public.
 
-## Observed blocker
+## Live browser verification
 
-The V2 Settings → Pages screen says: “Upgrade or make this repository public to enable Pages.” The repository is private and has_pages is false. No plan, billing or visibility change has been made.
+The HTTPS introduction loads with the requested two-part introduction and dated perspective note. The latest How to use paragraphs are present. Navigation to the overview and Tai-otoshi works, SVG assets load, Left-handed selection persists through reload, repeated Tai-otoshi remains available, and the list heading reads List of 15 directional attack options. Returning to Right-handed restores the original presentation.
 
-Choose one route before deployment:
-- Keep private V2 tracking and publish only the website in a separate public repository.
-- Keep V2 private and have the owner upgrade to a GitHub plan supporting Pages from private repositories.
-- Explicitly authorize making V2 public, including its history, issues and planning material.
+Embedded Tai-otoshi and Ko-uchi-gari videos were observed playing on the live site. The earlier local-file Error 153 was not reproduced for these hosted videos. Closing the dialog removes the iframe; no browser console errors were observed. This spot check does not claim all forty videos were exhaustively played.
 
-After the chosen route is available, select GitHub Actions as the Pages source, run the prepared workflow, inspect the completed deployment and verify the live site. Keep repository visibility separate from the visibility of the published website.
+Full print and broader assistive-technology acceptance remain separate outstanding checks.
 
-Planned URL if publishing directly from V2: https://lesthomassolutions.github.io/judo-gokyo-mind-maps-v2/ — not live/verified yet.
+## Publishing future committed updates
+
+Open Actions → Publish V2 to GitHub Pages → Run workflow, choose main, and run it. The workflow is manual; committing alone does not deploy a new version. Wait for success and verify the live site. No billing plan change or custom domain was configured.
+
+## Resolved initial restriction
+
+GitHub initially blocked Pages while V2 was private on the account’s plan. The owner made V2 public; Pages was then configured to use GitHub Actions. No changes were made to the original project’s Pages settings.

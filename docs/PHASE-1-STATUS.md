@@ -1,3 +1,5 @@
+> Publication update — 9 November 2026: V2 is now live on GitHub Pages following owner authorization. See [deployment details](GITHUB-PAGES.md). Earlier undeployed/private statements below are historical.
+
 # Phase 1 status — 8 November 2026
 
 The first refreshed right-handed review build is implemented. Owner acceptance and the remaining release checks are pending. Nothing has been deployed; the original repository and website remain untouched.
