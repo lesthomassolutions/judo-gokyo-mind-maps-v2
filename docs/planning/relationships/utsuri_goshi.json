@@ -1,6 +1,7 @@
 {
-  "status": "unreviewed",
-  "designatedReviewer": "user",
+  "status": "accepted-existing-source",
+  "designatedReviewer": "project owner",
+  "acceptanceBasis": "Owner states original maps verified by their sensei; preservation instruction, 2026-11-08.",
   "sourceCommit": "f57e44c45a753d0a7680c45021010e72425533a1",
   "source": "utsuri_goshi",
   "pairCount": 37,
@@ -17,37 +18,40 @@
           "sourceCSS": "position:absolute;left:308px;top:41px;width:auto;height:auto;background-color:#00b0f0",
           "variantId": "utsuri_goshi--tani_otoshi--WEcdd79b10ae",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--ura_nage",
@@ -60,37 +64,40 @@
           "sourceCSS": "position:absolute;left:419px;top:41px;width:auto;height:auto;background-color:#974806",
           "variantId": "utsuri_goshi--ura_nage--WE92928b0bc8",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--ushiro_goshi",
@@ -103,37 +110,40 @@
           "sourceCSS": "position:absolute;left:514px;top:41px;width:auto;height:auto;background-color:#974806",
           "variantId": "utsuri_goshi--ushiro_goshi--WE7f19d3754d",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--o_soto_guruma",
@@ -146,37 +156,40 @@
           "sourceCSS": "position:absolute;left:330px;top:67px;width:auto;height:auto;color:#fff;background-color:#974806",
           "variantId": "utsuri_goshi--o_soto_guruma--WE4f01a97e9d",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--sukui_nage",
@@ -189,37 +202,40 @@
           "sourceCSS": "position:absolute;left:477px;top:67px;width:auto;height:auto;background-color:#00b0f0",
           "variantId": "utsuri_goshi--sukui_nage--WE3d361daf20",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--kouchi_gari",
@@ -232,37 +248,40 @@
           "sourceCSS": "position:absolute;left:400px;top:92px;width:auto;height:auto;background-color:#f79646",
           "variantId": "utsuri_goshi--kouchi_gari--WEd912c1256c",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--sumi_otoshi",
@@ -275,37 +294,40 @@
           "sourceCSS": "position:absolute;left:170px;top:145px;width:auto;height:auto;background-color:#974806",
           "variantId": "utsuri_goshi--sumi_otoshi--WE8d06265f8c",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--kosoto_gake",
@@ -318,37 +340,40 @@
           "sourceCSS": "position:absolute;left:500px;top:154px;width:auto;height:auto;background-color:#00b050",
           "variantId": "utsuri_goshi--kosoto_gake--WE146505d3be",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--o_soto_gari",
@@ -361,37 +386,40 @@
           "sourceCSS": "position:absolute;left:200px;top:169px;width:auto;height:auto;background-color:#ff0",
           "variantId": "utsuri_goshi--o_soto_gari--WE74c54a7ae3",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--o_uchi_gari",
@@ -404,37 +432,40 @@
           "sourceCSS": "position:absolute;left:633px;top:169px;width:auto;height:auto;background-color:#ff0",
           "variantId": "utsuri_goshi--o_uchi_gari--WE32d80cf6f9",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--kosoto_gari",
@@ -447,37 +478,40 @@
           "sourceCSS": "position:absolute;left:490px;top:180px;width:auto;height:auto;background-color:#f79646",
           "variantId": "utsuri_goshi--kosoto_gari--WEe2a4936bfb",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--okuriashi_harai",
@@ -490,19 +524,21 @@
           "sourceCSS": "position:absolute;left:55px;top:355px;width:auto;height:auto;background-color:#f79646",
           "variantId": "utsuri_goshi--okuriashi_harai--WEbcd212a8ef",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         },
         {
@@ -511,37 +547,40 @@
           "sourceCSS": "position:absolute;left:720px;top:355px;width:auto;height:auto;background-color:#f79646",
           "variantId": "utsuri_goshi--okuriashi_harai--WEe20743f0f4",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--yoko_gake",
@@ -554,19 +593,21 @@
           "sourceCSS": "position:absolute;left:96px;top:379px;width:auto;height:auto;background-color:#974806",
           "variantId": "utsuri_goshi--yoko_gake--WEedb1b6c0e0",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         },
         {
@@ -575,37 +616,40 @@
           "sourceCSS": "position:absolute;left:720px;top:379px;width:auto;height:auto;background-color:#974806",
           "variantId": "utsuri_goshi--yoko_gake--WE579c044ae0",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--harai_tsurikomi_ashi",
@@ -618,37 +662,40 @@
           "sourceCSS": "position:absolute;left:102px;top:432px;width:auto;height:auto;background-color:#00b050",
           "variantId": "utsuri_goshi--harai_tsurikomi_ashi--WE50f087d88f",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--yoko_otoshi",
@@ -661,37 +708,40 @@
           "sourceCSS": "position:absolute;left:190px;top:456px;width:auto;height:auto;background-color:#00b050",
           "variantId": "utsuri_goshi--yoko_otoshi--WE2f2998bf49",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--deashi_harai",
@@ -704,37 +754,40 @@
           "sourceCSS": "position:absolute;left:320px;top:562px;width:auto;height:auto;background-color:#ff0",
           "variantId": "utsuri_goshi--deashi_harai--WE918ebc122a",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--sumi_gaeshi",
@@ -747,37 +800,40 @@
           "sourceCSS": "position:absolute;left:175px;top:565px;width:auto;height:auto;background-color:#00b0f0",
           "variantId": "utsuri_goshi--sumi_gaeshi--WEf3fd5976fa",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--sasae_tsurikomi_ashi",
@@ -790,37 +846,40 @@
           "sourceCSS": "position:absolute;left:470px;top:572px;width:auto;height:auto;background-color:#ff0",
           "variantId": "utsuri_goshi--sasae_tsurikomi_ashi--WE8e46209653",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--hane_makikomi",
@@ -833,37 +892,40 @@
           "sourceCSS": "position:absolute;left:300px;top:587px;width:auto;height:auto;background-color:#00b0f0",
           "variantId": "utsuri_goshi--hane_makikomi--WEa5069bc488",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--uki_goshi",
@@ -876,37 +938,40 @@
           "sourceCSS": "position:absolute;left:150px;top:591px;width:auto;height:auto;background-color:#ff0",
           "variantId": "utsuri_goshi--uki_goshi--WEa872311fed",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--harai_goshi",
@@ -919,37 +984,40 @@
           "sourceCSS": "position:absolute;left:270px;top:612px;width:auto;height:auto;background-color:#f79646",
           "variantId": "utsuri_goshi--harai_goshi--WE2928d111d0",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--yoko_wakare",
@@ -962,37 +1030,40 @@
           "sourceCSS": "position:absolute;left:86px;top:617px;width:auto;height:auto;background-color:#974806",
           "variantId": "utsuri_goshi--yoko_wakare--WE377812e73c",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--soto_makikomi",
@@ -1005,37 +1076,40 @@
           "sourceCSS": "position:absolute;left:240px;top:637px;width:auto;height:auto;background-color:#00b0f0",
           "variantId": "utsuri_goshi--soto_makikomi--WEa6ddc07e34",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--tai_otoshi",
@@ -1048,37 +1122,40 @@
           "sourceCSS": "position:absolute;left:220px;top:662px;width:auto;height:auto;background-color:#f79646",
           "variantId": "utsuri_goshi--tai_otoshi--WEed9088a951",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--ashi_guruma",
@@ -1091,37 +1168,40 @@
           "sourceCSS": "position:absolute;left:363px;top:677px;width:auto;height:20px;background-color:#00b050",
           "variantId": "utsuri_goshi--ashi_guruma--WEb833c1c3df",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--hane_goshi",
@@ -1134,37 +1214,40 @@
           "sourceCSS": "position:absolute;left:487px;top:677px;width:auto;height:20px;background-color:#00b050",
           "variantId": "utsuri_goshi--hane_goshi--WE8973cbc684",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--hiza_guruma",
@@ -1177,37 +1260,40 @@
           "sourceCSS": "position:absolute;left:598px;top:677px;width:auto;height:20px;background-color:#ff0",
           "variantId": "utsuri_goshi--hiza_guruma--WE81fb50f28f",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--kata_guruma",
@@ -1220,37 +1306,40 @@
           "sourceCSS": "position:absolute;left:339px;top:703px;width:auto;height:20px;background-color:#00b050",
           "variantId": "utsuri_goshi--kata_guruma--WE5f50dc3494",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--koshi_guruma",
@@ -1263,37 +1352,40 @@
           "sourceCSS": "position:absolute;left:469px;top:703px;width:auto;height:20px;background-color:#f79646",
           "variantId": "utsuri_goshi--koshi_guruma--WE3a9272b853",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--o_goshi",
@@ -1306,37 +1398,40 @@
           "sourceCSS": "position:absolute;left:605px;top:703px;width:auto;height:20px;background-color:#ff0",
           "variantId": "utsuri_goshi--o_goshi--WE815217c7b0",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--o_guruma",
@@ -1349,37 +1444,40 @@
           "sourceCSS": "position:absolute;left:686px;top:703px;width:auto;height:20px;background-color:#00b0f0",
           "variantId": "utsuri_goshi--o_guruma--WE50acbacd96",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--seoi_nage",
@@ -1392,37 +1490,40 @@
           "sourceCSS": "position:absolute;left:788px;top:703px;width:auto;height:20px;background-color:#ff0",
           "variantId": "utsuri_goshi--seoi_nage--WE004b07c192",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--uchi_mata",
@@ -1435,37 +1536,40 @@
           "sourceCSS": "position:absolute;left:177px;top:714px;width:auto;height:auto;background-color:#f79646",
           "variantId": "utsuri_goshi--uchi_mata--WEe1492ba604",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--tsurikomi_goshi",
@@ -1478,37 +1582,40 @@
           "sourceCSS": "position:absolute;left:314px;top:728px;width:auto;height:20px;background-color:#f79646",
           "variantId": "utsuri_goshi--tsurikomi_goshi--WEf1e67a9f0d",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--tomoe_nage",
@@ -1521,37 +1628,40 @@
           "sourceCSS": "position:absolute;left:466px;top:728px;width:auto;height:20px;background-color:#00b050",
           "variantId": "utsuri_goshi--tomoe_nage--WE1f317ef6be",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--tsuri_goshi",
@@ -1564,37 +1674,40 @@
           "sourceCSS": "position:absolute;left:592px;top:728px;width:auto;height:20px;background-color:#00b050",
           "variantId": "utsuri_goshi--tsuri_goshi--WEf9f9f38868",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "utsuri_goshi--uki_otoshi",
@@ -1607,37 +1720,40 @@
           "sourceCSS": "position:absolute;left:703px;top:728px;width:auto;height:20px;background-color:#00b0f0",
           "variantId": "utsuri_goshi--uki_otoshi--WE949fb6e0b6",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     }
   ]
 }

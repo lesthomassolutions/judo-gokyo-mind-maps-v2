@@ -1,290 +1,290 @@
 {
-  "status": "All relationships unreviewed; source links are evidence, not approved combinations",
+  "status": "Original right-sided relationships and loops accepted by project owner; left-handed adaptation deferred.",
   "sourceCommit": "f57e44c45a753d0a7680c45021010e72425533a1",
-  "designatedReviewer": "user (volunteered 2026-11-08)",
-  "placementCount": 1211,
+  "designatedReviewer": "project owner",
   "pairCount": 1151,
-  "reviewUnit": "Individual placement/variant; pair status is a summary only, never permission to approve all variants.",
+  "placementCount": 1211,
+  "reviewUnit": "Original placement; preserve existing right-sided content",
   "sources": [
     {
       "source": "ashi_guruma",
       "path": "relationships/ashi_guruma.json",
       "pairCount": 34,
       "placementCount": 36,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "deashi_harai",
       "path": "relationships/deashi_harai.json",
       "pairCount": 37,
       "placementCount": 39,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "hane_goshi",
       "path": "relationships/hane_goshi.json",
       "pairCount": 34,
       "placementCount": 36,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "hane_makikomi",
       "path": "relationships/hane_makikomi.json",
       "pairCount": 37,
       "placementCount": 39,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "harai_goshi",
       "path": "relationships/harai_goshi.json",
       "pairCount": 34,
       "placementCount": 36,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "harai_tsurikomi_ashi",
       "path": "relationships/harai_tsurikomi_ashi.json",
       "pairCount": 9,
       "placementCount": 9,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "hiza_guruma",
       "path": "relationships/hiza_guruma.json",
       "pairCount": 34,
       "placementCount": 36,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "kata_guruma",
       "path": "relationships/kata_guruma.json",
       "pairCount": 34,
       "placementCount": 36,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "koshi_guruma",
       "path": "relationships/koshi_guruma.json",
       "pairCount": 34,
       "placementCount": 36,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "kosoto_gake",
       "path": "relationships/kosoto_gake.json",
       "pairCount": 5,
       "placementCount": 5,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "kosoto_gari",
       "path": "relationships/kosoto_gari.json",
       "pairCount": 32,
       "placementCount": 34,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "kouchi_gari",
       "path": "relationships/kouchi_gari.json",
       "pairCount": 39,
       "placementCount": 41,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "o_goshi",
       "path": "relationships/o_goshi.json",
       "pairCount": 34,
       "placementCount": 36,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "o_guruma",
       "path": "relationships/o_guruma.json",
       "pairCount": 34,
       "placementCount": 36,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "o_soto_gari",
       "path": "relationships/o_soto_gari.json",
       "pairCount": 15,
       "placementCount": 15,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "o_soto_guruma",
       "path": "relationships/o_soto_guruma.json",
       "pairCount": 16,
       "placementCount": 16,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "o_uchi_gari",
       "path": "relationships/o_uchi_gari.json",
       "pairCount": 36,
       "placementCount": 38,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "okuriashi_harai",
       "path": "relationships/okuriashi_harai.json",
       "pairCount": 37,
       "placementCount": 38,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "sasae_tsurikomi_ashi",
       "path": "relationships/sasae_tsurikomi_ashi.json",
       "pairCount": 6,
       "placementCount": 6,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "seoi_nage",
       "path": "relationships/seoi_nage.json",
       "pairCount": 6,
       "placementCount": 6,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "soto_makikomi",
       "path": "relationships/soto_makikomi.json",
       "pairCount": 36,
       "placementCount": 38,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "sukui_nage",
       "path": "relationships/sukui_nage.json",
       "pairCount": 36,
       "placementCount": 38,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "sumi_gaeshi",
       "path": "relationships/sumi_gaeshi.json",
       "pairCount": 36,
       "placementCount": 38,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "sumi_otoshi",
       "path": "relationships/sumi_otoshi.json",
       "pairCount": 36,
       "placementCount": 38,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "tai_otoshi",
       "path": "relationships/tai_otoshi.json",
       "pairCount": 15,
       "placementCount": 15,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "tani_otoshi",
       "path": "relationships/tani_otoshi.json",
       "pairCount": 37,
       "placementCount": 39,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "tomoe_nage",
       "path": "relationships/tomoe_nage.json",
       "pairCount": 4,
       "placementCount": 4,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "tsuri_goshi",
       "path": "relationships/tsuri_goshi.json",
       "pairCount": 34,
       "placementCount": 36,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "tsurikomi_goshi",
       "path": "relationships/tsurikomi_goshi.json",
       "pairCount": 34,
       "placementCount": 36,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "uchi_mata",
       "path": "relationships/uchi_mata.json",
       "pairCount": 38,
       "placementCount": 40,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "uki_goshi",
       "path": "relationships/uki_goshi.json",
       "pairCount": 36,
       "placementCount": 38,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "uki_otoshi",
       "path": "relationships/uki_otoshi.json",
       "pairCount": 31,
       "placementCount": 33,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "uki_waza",
       "path": "relationships/uki_waza.json",
       "pairCount": 31,
       "placementCount": 33,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "ura_nage",
       "path": "relationships/ura_nage.json",
       "pairCount": 4,
       "placementCount": 4,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "ushiro_goshi",
       "path": "relationships/ushiro_goshi.json",
       "pairCount": 9,
       "placementCount": 11,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "utsuri_goshi",
       "path": "relationships/utsuri_goshi.json",
       "pairCount": 37,
       "placementCount": 39,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "yoko_gake",
       "path": "relationships/yoko_gake.json",
       "pairCount": 38,
       "placementCount": 39,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "yoko_guruma",
       "path": "relationships/yoko_guruma.json",
       "pairCount": 37,
       "placementCount": 39,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "yoko_otoshi",
       "path": "relationships/yoko_otoshi.json",
       "pairCount": 36,
       "placementCount": 38,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     },
     {
       "source": "yoko_wakare",
       "path": "relationships/yoko_wakare.json",
       "pairCount": 39,
       "placementCount": 41,
-      "status": "unreviewed"
+      "status": "accepted-existing-source"
     }
   ]
 }

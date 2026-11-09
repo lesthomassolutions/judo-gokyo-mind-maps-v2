@@ -1,6 +1,7 @@
 {
-  "status": "unreviewed",
-  "designatedReviewer": "user",
+  "status": "accepted-existing-source",
+  "designatedReviewer": "project owner",
+  "acceptanceBasis": "Owner states original maps verified by their sensei; preservation instruction, 2026-11-08.",
   "sourceCommit": "f57e44c45a753d0a7680c45021010e72425533a1",
   "source": "seoi_nage",
   "pairCount": 6,
@@ -17,37 +18,40 @@
           "sourceCSS": "position:absolute;left:409px;top:66px;width:auto;height:auto;background-color:#00b0f0",
           "variantId": "seoi_nage--sukui_nage--WEe75b30edf1",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "seoi_nage--kouchi_gari",
@@ -60,37 +64,40 @@
           "sourceCSS": "position:absolute;left:405px;top:91px;width:auto;height:auto;background-color:#f79646",
           "variantId": "seoi_nage--kouchi_gari--WE0c5b2d5c6d",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "seoi_nage--kosoto_gake",
@@ -103,37 +110,40 @@
           "sourceCSS": "position:absolute;left:500px;top:154px;width:auto;height:auto;background-color:#00b050",
           "variantId": "seoi_nage--kosoto_gake--WEe4c6d372c1",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "seoi_nage--o_uchi_gari",
@@ -146,37 +156,40 @@
           "sourceCSS": "position:absolute;left:633px;top:166px;width:auto;height:auto;background-color:#ff0",
           "variantId": "seoi_nage--o_uchi_gari--WE0f24d0cf2c",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "seoi_nage--o_soto_gari",
@@ -189,37 +202,40 @@
           "sourceCSS": "position:absolute;left:200px;top:167px;width:auto;height:auto;background-color:#ff0",
           "variantId": "seoi_nage--o_soto_gari--WE87443cbe6b",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     },
     {
       "id": "seoi_nage--kata_guruma",
@@ -232,37 +248,40 @@
           "sourceCSS": "position:absolute;left:400px;top:680px;width:auto;height:20px;background-color:#00b050",
           "variantId": "seoi_nage--kata_guruma--WE835e312365",
           "right": {
-            "status": "unreviewed",
-            "reviewer": null,
-            "reviewDate": null,
-            "evidence": [],
-            "context": null
+            "status": "accepted-existing-source",
+            "reviewer": "project owner",
+            "reviewDate": "2026-11-08",
+            "evidence": [
+              "Owner R1-R5 and reported sensei verification"
+            ],
+            "context": "Preserve original teaching option; no new execution details invented."
           },
           "left": {
-            "status": "unreviewed",
+            "status": "deferred-phase-2",
             "reviewer": null,
             "reviewDate": null,
             "evidence": [],
             "context": null,
-            "mirrorDecision": "undecided"
+            "mirrorDecision": "deferred"
           }
         }
       ],
+      "kind": "follow_up_attack_after_unsuccessful_attempt",
       "right": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "accepted-existing-source",
         "summaryOnly": true
       },
       "left": {
-        "status": "unreviewed",
-        "evidence": [],
-        "reviewer": null,
+        "status": "deferred-phase-2",
         "summaryOnly": true
       },
       "prerequisites": null,
       "exceptions": null,
-      "kind": "unclassified"
+      "intentReview": {
+        "status": "confirmed-by-owner",
+        "date": "2026-11-08",
+        "basis": "R4 and owner confirmation of prior sensei verification"
+      }
     }
   ]
 }

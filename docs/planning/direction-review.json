@@ -1,5 +1,5 @@
 {
-  "status": "Review preparation only; geometric candidates are NOT validated judo content",
+  "status": "Original right-sided diagrams accepted for preservation; left-handed candidates deferred to Phase 2.",
   "frame": "Original screen: N up, E right, S down, W left",
   "geometricReflection": {
     "N": "N",
@@ -19,11 +19,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/o_soto_guruma.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "N"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -35,11 +35,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/sumi_otoshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "NE"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -51,11 +51,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/uki_waza.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -67,11 +67,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/ura_nage.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "N"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -83,11 +83,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/ushiro_goshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "N"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -100,12 +100,12 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/yoko_gake.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "E",
         "W"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -117,11 +117,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/yoko_guruma.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -133,11 +133,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/yoko_wakare.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "SE"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -150,12 +150,12 @@
       ],
       "sourceHighlightedSector": "S–SW",
       "sourceImage": "Files/Image/deashi_harai.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S",
         "SE"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -167,14 +167,15 @@
       ],
       "sourceHighlightedSector": "SW–S and S–SE (arrow only S)",
       "sourceImage": "Files/Image/hiza_guruma.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
-      "evidence": []
+      "evidence": [],
+      "sectorMeaning": "Areas in which proper application can be successful, with Tori and Uke facing each other (owner R3)."
     },
     {
       "id": "o_goshi",
@@ -183,11 +184,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/o_goshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -199,11 +200,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/o_soto_gari.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "NE"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -215,11 +216,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/o_uchi_gari.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "NW"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -232,12 +233,12 @@
       ],
       "sourceHighlightedSector": "S–SE",
       "sourceImage": "Files/Image/sasae_tsurikomi_ashi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S",
         "SW"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -249,11 +250,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/seoi_nage.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -265,11 +266,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/uki_goshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "SE"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -282,12 +283,12 @@
       ],
       "sourceHighlightedSector": "S–SW",
       "sourceImage": "Files/Image/harai_goshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S",
         "SE"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -299,11 +300,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/koshi_guruma.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -316,12 +317,12 @@
       ],
       "sourceHighlightedSector": "N–NE",
       "sourceImage": "Files/Image/kosoto_gari.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "N",
         "NW"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -333,11 +334,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/kouchi_gari.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "N"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -350,12 +351,12 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/okuriashi_harai.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "E",
         "W"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -368,12 +369,12 @@
       ],
       "sourceHighlightedSector": "S–SW",
       "sourceImage": "Files/Image/tai_otoshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S",
         "SE"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -385,11 +386,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/tsurikomi_goshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -402,12 +403,12 @@
       ],
       "sourceHighlightedSector": "S–SW",
       "sourceImage": "Files/Image/uchi_mata.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S",
         "SE"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -419,11 +420,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/ashi_guruma.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -435,11 +436,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/hane_goshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -454,14 +455,14 @@
       ],
       "sourceHighlightedSector": "W–SW and E–SE",
       "sourceImage": "Files/Image/Harai_Tsurikomi_Ashi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "E",
         "SE",
         "W",
         "SW"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -473,11 +474,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/kata_guruma.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -490,12 +491,12 @@
       ],
       "sourceHighlightedSector": "N–NE",
       "sourceImage": "Files/Image/kosoto_gake.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "N",
         "NW"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -507,11 +508,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/tomoe_nage.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -523,11 +524,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/tsuri_goshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -540,12 +541,12 @@
       ],
       "sourceHighlightedSector": "W–SW",
       "sourceImage": "Files/Image/yoko_otoshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "E",
         "SE"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -558,12 +559,12 @@
       ],
       "sourceHighlightedSector": "S–SW",
       "sourceImage": "Files/Image/hane_makikomi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S",
         "SE"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -575,11 +576,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/o_guruma.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -592,12 +593,12 @@
       ],
       "sourceHighlightedSector": "S–SW",
       "sourceImage": "Files/Image/soto_makikomi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S",
         "SE"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -609,11 +610,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/sukui_nage.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "N"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -625,11 +626,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/sumi_gaeshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "SE"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -641,11 +642,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/tani_otoshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "N"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -657,11 +658,11 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/uki_otoshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
@@ -673,14 +674,15 @@
       ],
       "sourceHighlightedSector": null,
       "sourceImage": "Files/Image/utsuri_goshi.gif",
-      "rightReview": "unreviewed",
+      "rightReview": "accepted-existing-source",
       "leftGeometricCandidate": [
         "S"
       ],
-      "leftReview": "unreviewed",
+      "leftReview": "deferred-phase-2",
       "publishLeftCandidate": false,
       "reviewer": null,
       "evidence": []
     }
-  ]
+  ],
+  "successMeaning": "The throw/technique in that direction was successful; not automatically a kuzushi vector."
 }

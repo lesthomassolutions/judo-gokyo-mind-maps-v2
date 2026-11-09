@@ -1,5 +1,5 @@
 {
-  "status": "Reference-checked proposal; original inventory unchanged; not application implementation",
+  "status": "Historical reference comparison only; inactive for Phase 1. Preserve original teaching content.",
   "sourceCommit": "f57e44c45a753d0a7680c45021010e72425533a1",
   "techniques": [
     {
@@ -526,5 +526,6 @@
       ],
       "originalIllustrationClassification": "koshi_waza"
     }
-  ]
+  ],
+  "applyInPhase1": false
 }

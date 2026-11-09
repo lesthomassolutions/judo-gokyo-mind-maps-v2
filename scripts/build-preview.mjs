@@ -1,0 +1,6 @@
+import {readFile,readdir,writeFile} from 'node:fs/promises';import path from 'node:path';import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'),web=path.join(root,'web');
+const assets={};for(const name of await readdir(path.join(web,'Files/Image')))assets['Files/Image/'+name]='data:image/gif;base64,'+(await readFile(path.join(web,'Files/Image',name))).toString('base64');
+const html=await readFile(path.join(web,'index.html'),'utf8'),css=await readFile(path.join(web,'app.css'),'utf8'),js=await readFile(path.join(web,'app.js'),'utf8'),data=await readFile(path.join(web,'data.json'),'utf8'),icon=(await readFile(path.join(web,'favicon.oe.ico'))).toString('base64');
+const output=html.replace('<link rel="icon" href="favicon.oe.ico">','<link rel="icon" href="data:image/x-icon;base64,'+icon+'">').replace('<link rel="stylesheet" href="app.css">','<style>'+css+'</style>').replace('<script type="module" src="app.js"></script>','<script>window.__offlineData='+data.replaceAll('<','\\u003c')+';window.__offlineAssets='+JSON.stringify(assets)+';</script><script type="module">'+js.replaceAll('</script','<\\/script')+'</script>');
+await writeFile(path.join(root,'Judo-Mind-Maps-Preview.html'),output);console.log('Standalone review copy generated; '+Object.keys(assets).length+' original GIFs.');
