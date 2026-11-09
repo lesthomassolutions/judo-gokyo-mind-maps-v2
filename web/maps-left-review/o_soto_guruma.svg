@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">O Soto Guruma (Large Outer Wheel) — left-handed directional map</title>
+<desc id="desc">Left-handed map reflected across the vertical centerline under the owner-confirmed clock-face rule. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="499.5,376.5 499.5,192 631.21,244.79" fill="#f3c8f3" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,376.5 631.21,244.79 685,376.5" fill="#fefec8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,376.5 685,376.5 628.71,505.71" fill="#c8e2c8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,376.5 628.71,505.71 499.5,560" fill="#feddc8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,376.5 499.5,560 369.29,506.71" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,376.5 369.29,506.71 315,376.5" fill="#fec8c8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,376.5 315,376.5 368.79,245.79" fill="#c8ddfe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,376.5 368.79,245.79 499.5,192" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="0" points="494.95,376.5 494.95,133.75 487.15,133.75 499.5,111 511.85,133.75 504.05,133.75 504.05,376.5" fill="#000000" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="1" points="496.28,373.28 667.7,201.87 662.18,196.35 687,189 679.65,213.82 674.13,208.3 502.72,379.72" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="2" points="499.5,371.95 742.25,371.95 742.25,364.15 765,376.5 742.25,388.85 742.25,381.05 499.5,381.05" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="3" points="502.72,373.28 673.63,544.2 679.15,538.68 686.5,563.5 661.68,556.15 667.2,550.63 496.28,379.72" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="4" points="504.05,376.5 504.05,616.25 511.85,616.25 499.5,639 487.15,616.25 494.95,616.25 494.95,376.5" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="5" points="502.72,379.72 332.8,549.63 338.32,555.15 313.5,562.5 320.85,537.68 326.37,543.2 496.28,373.28" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="6" points="499.5,381.05 258.75,381.05 258.75,388.85 236,376.5 258.75,364.15 258.75,371.95 499.5,371.95" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="7" points="496.28,379.72 325.87,209.3 320.35,214.82 313,190 337.82,197.35 332.3,202.87 502.72,373.28" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<ellipse cx="499.5" cy="376.5" rx="65" ry="63" fill="#ffe699" stroke="#333" stroke-width="0.8" transform="translate(999 0) scale(-1 1)"/>
+<text x="499.5" y="353.86" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">O</text>
+<text x="499.5" y="386" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Soto</text>
+<text x="499.5" y="418.15" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Guruma</text>
+<rect x="431" y="65" width="134" height="41" rx="6.15" fill="#00fe00" stroke="#339933" stroke-width="3.28"/>
+<text x="498" y="92.88" text-anchor="middle" font-family="Arial,sans-serif" font-size="24.6" font-weight="700" fill="#006600">Success</text>
+</svg>

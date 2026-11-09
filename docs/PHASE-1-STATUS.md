@@ -28,3 +28,9 @@ All 41 distinct directional diagrams (overview plus 40 techniques) now render as
 Verification: all source page records compare identically with the prior V2 baseline after excluding the added vector-asset path. Thus all link geometry, targets, labels, success hotspots, duplicates, illustration/video references and display proportions remain unchanged. Twelve automated checks pass, including all forty black-arrow direction sets and special success-sector colors. All 41 source/SVG pairs were inspected in the browser. Tai-otoshi was checked at 150% map zoom, and at a 390 × 844 phone viewport with Fit map. Corrected rendered Resources text/links were inspected. Browser console showed no errors during these checks.
 
 These are clean geometric reconstructions, not lossless pixel copies; font metrics and edge smoothing differ deliberately. Print output and broader accessibility acceptance remain pending. The owner reports finding no issues with video links; exhaustive playback was not newly performed in this update. Nothing deployed; original repository/site unchanged.
+
+## Phase 2 commenced — 9 November 2026
+
+The owner authorized Phase 2 and selected preparation of left-handed diagrams for their review. See PHASE-2-STATUS.md for the current build. Introduction spacing and smooth Uke footprints are corrected in this build. Phase 1's original content baseline remains preserved.
+
+Latest Phase 2 clarification: the owner confirmed there are no map mirroring exceptions. The active Left-handed selector now mirrors all directional map placements under that confirmed rule. See PHASE-2-STATUS.md; the earlier candidate-only stage was superseded before this update was committed.

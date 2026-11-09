@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Yoko Otoshi (Side Drop) — left-handed directional map</title>
+<desc id="desc">Left-handed map reflected across the vertical centerline under the owner-confirmed clock-face rule. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="500.5,377.5 500.5,191 633.71,244.29" fill="#f4c8f4" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 633.71,244.29 688,377.5" fill="#fefec8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 688,377.5 632.21,509.21" fill="#c8e2c8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 632.21,509.21 500.5,565" fill="#feddc8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 500.5,565 368.29,509.71" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 368.29,509.71 316,377.5" fill="#fe0000" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 316,377.5 369.29,246.29" fill="#c8ddfe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 369.29,246.29 500.5,191" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="0" points="495.95,377.5 495.95,135.75 488.15,135.75 500.5,113 512.85,135.75 505.05,135.75 505.05,377.5" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="1" points="497.28,374.28 669.7,201.87 664.18,196.35 689,189 681.65,213.82 676.13,208.3 503.72,380.72" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="2" points="500.5,372.95 745.25,372.95 745.25,365.15 768,377.5 745.25,389.85 745.25,382.05 500.5,382.05" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="3" points="503.72,374.28 676.63,547.2 682.15,541.68 689.5,566.5 664.68,559.15 670.2,553.63 497.28,380.72" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="4" points="505.05,377.5 505.05,620.25 512.85,620.25 500.5,643 488.15,620.25 495.95,620.25 495.95,377.5" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="5" points="503.72,380.72 333.3,551.13 338.82,556.65 314,564 321.35,539.18 326.87,544.7 497.28,374.28" fill="#000000" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="6" points="500.5,382.05 259.75,382.05 259.75,389.85 237,377.5 259.75,365.15 259.75,372.95 500.5,372.95" fill="#000000" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="7" points="497.28,380.72 327.37,210.8 321.85,216.32 314.5,191.5 339.32,198.85 333.8,204.37 503.72,374.28" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<ellipse cx="500.5" cy="377.5" rx="65" ry="63" fill="#ffe699" stroke="#333" stroke-width="0.8" transform="translate(1001 0) scale(-1 1)"/>
+<text x="500.5" y="370.93" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Yoko</text>
+<text x="500.5" y="403.07" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Otoshi</text>
+<rect x="663" y="436" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="730.5" y="464.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>

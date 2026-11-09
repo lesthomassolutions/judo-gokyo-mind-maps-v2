@@ -9,3 +9,7 @@ Python, Pillow, NumPy and OpenCV are only needed to regenerate SVGs; they are no
 The source GIFs remain unchanged. Geometric reconstruction removes raster edge noise; fonts and antialiasing differ. Comparison is of meaning and placement, not identical pixels. Browser comparison covered all 41 diagram pairs; arrow-set and special-sector regressions are automated. Full print acceptance remains pending.
 
 Resources now retain the original grouping: Resources → Kodokan Judo, Jigoro Kano → Yungwirth Judo Academy / Judo Info / Judo CAJA / Mercuryu Judo, followed by the other original credits. OpenElement, Paint.NET and the complete Various others including subsection are removed from rendered content, while historical source/inventory remain intact.
+
+Phase 2 update: smooth outlined feet now replace the traced polygon indicators in the overview, as requested by the owner. scripts/build-left-review.mjs creates separate geometric review candidates with shapes reflected and text retained upright. These remain explicitly unapproved for left-handed combinations. See PHASE-2-STATUS.md.
+
+Current Phase 2: the owner has confirmed that no exceptions are needed for the maps' centerline mirror rule. Active left-handed links, success areas and repeats now follow that rule. The legacy maps-left-review folder name is an internal asset path, not a pending-approval status. Media-side review and remaining print/accessibility checks are described in PHASE-2-STATUS.md.

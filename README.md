@@ -1,3 +1,5 @@
+> Current update — 9 November 2026: Phase 2 is now authorized and active. The owner confirmed there are no exceptions: mirror across the vertical centerline, retaining 12 and 6 o’clock and exchanging the other clock positions. See [Phase 2 status](docs/PHASE-2-STATUS.md). Earlier deferral statements below describe the prior phase.
+
 # Judo Gokyo Mind Maps V2
 
 Private modernization of the original right-sided educational mind maps.

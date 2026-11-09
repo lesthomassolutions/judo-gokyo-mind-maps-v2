@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Kouchi Gari (Small Inner Reap) — left-handed directional map</title>
+<desc id="desc">Left-handed map reflected across the vertical centerline under the owner-confirmed clock-face rule. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="500,376 500,191 631.21,244.79" fill="#f3c8f3" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1000 0) scale(-1 1)"/>
+<polygon points="500,376 631.21,244.79 685,376" fill="#fefec7" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1000 0) scale(-1 1)"/>
+<polygon points="500,376 685,376 629.71,505.71" fill="#c8e2c8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1000 0) scale(-1 1)"/>
+<polygon points="500,376 629.71,505.71 500,561" fill="#feddc7" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1000 0) scale(-1 1)"/>
+<polygon points="500,376 500,561 368.29,507.71" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1000 0) scale(-1 1)"/>
+<polygon points="500,376 368.29,507.71 315,376" fill="#fec8c8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1000 0) scale(-1 1)"/>
+<polygon points="500,376 315,376 368.29,244.29" fill="#c7ddfe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1000 0) scale(-1 1)"/>
+<polygon points="500,376 368.29,244.29 500,191" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1000 0) scale(-1 1)"/>
+<polygon data-direction="0" points="495.49,376 495.49,133.57 487.75,133.57 500,111 512.25,133.57 504.51,133.57 504.51,376" fill="#000000" transform="translate(1000 0) scale(-1 1)"/>
+<polygon data-direction="1" points="496.81,372.81 667.84,201.77 662.37,196.3 687,189 679.7,213.63 674.23,208.16 503.19,379.19" fill="#c8c8c8" transform="translate(1000 0) scale(-1 1)"/>
+<polygon data-direction="2" points="500,371.49 742.42,371.49 742.42,363.75 765,376 742.42,388.25 742.42,380.51 500,380.51" fill="#c8c8c8" transform="translate(1000 0) scale(-1 1)"/>
+<polygon data-direction="3" points="503.19,372.81 674.23,543.84 679.7,538.37 687,563 662.37,555.7 667.84,550.23 496.81,379.19" fill="#c8c8c8" transform="translate(1000 0) scale(-1 1)"/>
+<polygon data-direction="4" points="504.51,376 504.51,616.42 512.25,616.42 500,639 487.75,616.42 495.49,616.42 495.49,376" fill="#c8c8c8" transform="translate(1000 0) scale(-1 1)"/>
+<polygon data-direction="5" points="503.19,379.19 332.66,549.73 338.13,555.2 313.5,562.5 320.8,537.87 326.27,543.34 496.81,372.81" fill="#c8c8c8" transform="translate(1000 0) scale(-1 1)"/>
+<polygon data-direction="6" points="500,380.51 258.57,380.52 258.57,388.26 236,376 258.57,363.75 258.57,371.49 500,371.49" fill="#c8c8c8" transform="translate(1000 0) scale(-1 1)"/>
+<polygon data-direction="7" points="496.81,379.19 326.27,208.66 320.8,214.13 313.5,189.5 338.13,196.8 332.66,202.27 503.19,372.81" fill="#c8c8c8" transform="translate(1000 0) scale(-1 1)"/>
+<ellipse cx="500" cy="376" rx="64.5" ry="62.5" fill="#fee598" stroke="#333" stroke-width="0.8" transform="translate(1000 0) scale(-1 1)"/>
+<text x="500" y="369.94" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.77" font-weight="700">Ko Uchi</text>
+<text x="500" y="399.58" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.77" font-weight="700">Gari</text>
+<rect x="432" y="65" width="134" height="41" rx="6.15" fill="#00fe00" stroke="#339933" stroke-width="3.28"/>
+<text x="499" y="92.88" text-anchor="middle" font-family="Arial,sans-serif" font-size="24.6" font-weight="700" fill="#006600">Success</text>
+</svg>

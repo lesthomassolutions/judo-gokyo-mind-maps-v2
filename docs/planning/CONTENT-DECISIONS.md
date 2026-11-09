@@ -1,3 +1,5 @@
+> Current update — 9 November 2026: Phase 2 is now authorized and active. The owner confirmed there are no exceptions: mirror across the vertical centerline, retaining 12 and 6 o’clock and exchanging the other clock positions. See [Phase 2 status](../PHASE-2-STATUS.md). Earlier deferral statements below describe the prior phase.
+
 # Confirmed teaching model and Phase 1 scope
 
 Recorded 8 November 2026 from the project owner's answers and subsequent scope instructions. The owner states that they are a shodan and the existing Judo Mind Maps have been verified by their sensei. This is the owner's confirmation; it is not represented as a new independent certification by the software agent.
@@ -30,3 +32,7 @@ Left-handed execution/perspective, enhancements and possible content changes com
 ## Agent responsibility
 
 Research sources to understand judo and implement the project faithfully. Distinguish researched information from the owner's pedagogical decisions. Do not claim practical expertise, infer unseen sensei reviews, or use external research to silently replace the accepted original teaching content.
+
+## Confirmed Phase 2 mirror rule — 9 November 2026
+
+The owner confirmed no exceptions: reflect the techniques through the vertical centerline, retaining 12 and 6 o’clock while exchanging 11/1, 10/2, 9/3 and the remaining paired clock positions. This supersedes earlier review-pending/deferred left statuses. Enable mirrored technique placements, success regions/hotspots, duplicates and loops under this explicit owner decision. Keep names and all text readable. Source media remains unchanged and its side must be identified separately.

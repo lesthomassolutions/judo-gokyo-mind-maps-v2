@@ -1,3 +1,5 @@
+> Current update — 9 November 2026: Phase 2 is now authorized and active. The owner confirmed there are no exceptions: mirror across the vertical centerline, retaining 12 and 6 o’clock and exchanging the other clock positions. See [Phase 2 status](../PHASE-2-STATUS.md). Earlier deferral statements below describe the prior phase.
+
 # Source direction semantics
 
 The confirmed [content decisions](CONTENT-DECISIONS.md) supersede the earlier interpretation questions.

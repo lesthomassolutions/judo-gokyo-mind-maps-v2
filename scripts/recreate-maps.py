@@ -75,13 +75,10 @@ for src in dict.fromkeys(p['diagram'] for p in data['pages'].values() if p.get('
     parts.append(f'<ellipse cx="{n(cx)}" cy="{n(cy)}" rx="{n(rx)}" ry="{n(ry)}" fill="{disc}" stroke="#333" stroke-width="0.8"/>')
     if src == 'Files/Image/gnw.gif':
         parts.append(f'<text x="{n(cx)}" y="{n(cy-17)}" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="700">Uke</text>')
-        # Trace the two original grey foot indicators, not a replacement stance.
-        foot=(rgb[:,:,0]==132)&(rgb[:,:,1]==132)&(rgb[:,:,2]==132)&(yy>cy-6)&(yy<cy+ry)&(abs(vx)<rx*.65)&opaque
-        cs,_=cv2.findContours(foot.astype('uint8'),cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)
-        for c in cs:
-            if cv2.contourArea(c)>100:
-                p=cv2.approxPolyDP(c,0.7,True).reshape(-1,2)
-                parts.append(f'<polygon points="{points(p)}" fill="#848484"/>')
+        # Smooth heel/arch/toe curves, retaining source foot positions and orientation.
+        foot_path = 'M11 1 C3 1 2 9 3 17 C4 25 3 29 1.5 34 C0 38 0 43 2 45 C3 47 5 47 6 45 C4 49 7 51 9 49 C8 53 12 55 15 52 C14 57 20 58 22 53 C25 58 31 55 31 50 C31 45 27 41 25 36 C22 31 20 27 20 22 C20 17 23 10 22 6 C21 2 16 0 11 1 Z'
+        for tx,sx in [(cx-34,0.72),(cx+34,-0.72)]:
+            parts.append(f'<path class="uke-foot" d="{foot_path}" transform="translate({n(tx)} {n(cy-5)}) scale({sx} .9)" fill="#848484" stroke="#626262" stroke-width="1.3" stroke-linejoin="round"/>')
     else:
         # Preserve source label spelling/line breaks through explicit names.
         lines=page['id'].replace('kosoto','ko soto').replace('kouchi','ko uchi').replace('okuriashi','okuri ashi').replace('deashi','deashi').split('_')
@@ -106,7 +103,9 @@ for src in dict.fromkeys(p['diagram'] for p in data['pages'].values() if p.get('
     name=Path(src).stem+'.svg';(OUT/name).write_text('\n'.join(parts),encoding='utf8')
     manifest.append({'source':src,'svg':'maps/'+name,'viewBox':[w,h],'center':[cx,cy,rx,ry],'sectorColors':list(map(hexcolor,sector_colors)),'arrowsClockwiseFromNorth':arrows})
     for p in data['pages'].values():
-        if p.get('diagram')==src:p['vectorDiagram']='maps/'+name
+        if p.get('diagram')==src:
+            p['vectorDiagram']='maps/'+name
+            p['mirrorAxisX']=cx*p['diagramWidth']/w
 (OUT/'manifest.json').write_text(json.dumps(manifest,indent=2)+'\n',encoding='utf8')
 (WEB/'data.json').write_text(json.dumps(data,separators=(',',':')),encoding='utf8')
 print(f'Reconstructed {len(manifest)} genuine vector diagrams.')

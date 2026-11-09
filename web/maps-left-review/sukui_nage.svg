@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Sukui Nage (Scoop Throw) — left-handed directional map</title>
+<desc id="desc">Left-handed map reflected across the vertical centerline under the owner-confirmed clock-face rule. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="500.5,375.5 500.5,192 631.21,244.79" fill="#f3c8f3" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,375.5 631.21,244.79 685,375.5" fill="#fefec8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,375.5 685,375.5 630.21,505.21" fill="#c8e2c8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,375.5 630.21,505.21 500.5,560" fill="#feddc8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,375.5 500.5,560 369.29,506.71" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,375.5 369.29,506.71 315,375.5" fill="#fec8c8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,375.5 315,375.5 369.79,244.79" fill="#c8ddfe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,375.5 369.79,244.79 500.5,192" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="0" points="495.95,375.5 495.95,133.75 488.15,133.75 500.5,111 512.85,133.75 505.05,133.75 505.05,375.5" fill="#000000" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="1" points="497.28,372.28 667.7,201.87 662.18,196.35 687,189 679.65,213.82 674.13,208.3 503.72,378.72" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="2" points="500.5,370.95 742.25,370.95 742.25,363.15 765,375.5 742.25,387.85 742.25,380.05 500.5,380.05" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="3" points="503.72,372.28 674.63,543.2 680.15,537.68 687.5,562.5 662.68,555.15 668.2,549.63 497.28,378.72" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="4" points="505.05,375.5 505.05,616.25 512.85,616.25 500.5,639 488.15,616.25 495.95,616.25 495.95,375.5" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="5" points="503.72,378.72 332.8,549.63 338.32,555.15 313.5,562.5 320.85,537.68 326.37,543.2 497.28,372.28" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="6" points="500.5,380.05 258.75,380.05 258.75,387.85 236,375.5 258.75,363.15 258.75,370.95 500.5,370.95" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="7" points="497.28,378.72 326.87,208.3 321.35,213.82 314,189 338.82,196.35 333.3,201.87 503.72,372.28" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<ellipse cx="500.5" cy="375.5" rx="65" ry="63" fill="#fee598" stroke="#333" stroke-width="0.8" transform="translate(1001 0) scale(-1 1)"/>
+<text x="500.5" y="368.93" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Sukui</text>
+<text x="500.5" y="401.07" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Nage</text>
+<rect x="433" y="65" width="134" height="41" rx="6.15" fill="#00fe00" stroke="#339933" stroke-width="3.28"/>
+<text x="500" y="92.88" text-anchor="middle" font-family="Arial,sans-serif" font-size="24.6" font-weight="700" fill="#006600">Success</text>
+</svg>

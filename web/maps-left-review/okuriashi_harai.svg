@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Okuriashi Harai (Following Foot Sweep) — left-handed directional map</title>
+<desc id="desc">Left-handed map reflected across the vertical centerline under the owner-confirmed clock-face rule. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="501,377.5 501,196 630.46,248.04" fill="#f3c8f3" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1002 0) scale(-1 1)"/>
+<polygon points="501,377.5 630.46,248.04 682,377.5" fill="#fefec8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1002 0) scale(-1 1)"/>
+<polygon points="501,377.5 682,377.5 628.46,504.96" fill="#c7e2c7" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1002 0) scale(-1 1)"/>
+<polygon points="501,377.5 628.46,504.96 501,560" fill="#feddc7" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1002 0) scale(-1 1)"/>
+<polygon points="501,377.5 501,560 371.54,506.96" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1002 0) scale(-1 1)"/>
+<polygon points="501,377.5 371.54,506.96 320,377.5" fill="#fec7c7" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1002 0) scale(-1 1)"/>
+<polygon points="501,377.5 320,377.5 372.04,248.54" fill="#c8ddfe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1002 0) scale(-1 1)"/>
+<polygon points="501,377.5 372.04,248.54 501,196" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1002 0) scale(-1 1)"/>
+<polygon data-direction="0" points="496.69,377.5 496.69,140.53 489.31,140.53 501,119 512.68,140.53 505.31,140.53 505.31,377.5" fill="#c8c8c8" transform="translate(1002 0) scale(-1 1)"/>
+<polygon data-direction="1" points="497.96,374.46 665.99,206.43 660.77,201.21 684.25,194.25 677.29,217.73 672.07,212.51 504.04,380.54" fill="#c8c8c8" transform="translate(1002 0) scale(-1 1)"/>
+<polygon data-direction="2" points="501,373.19 741.48,373.19 741.48,365.81 763,377.5 741.48,389.19 741.48,381.81 501,381.81" fill="#000000" transform="translate(1002 0) scale(-1 1)"/>
+<polygon data-direction="3" points="504.04,374.46 672.57,542.99 677.79,537.77 684.75,561.25 661.27,554.29 666.49,549.07 497.96,380.54" fill="#c8c8c8" transform="translate(1002 0) scale(-1 1)"/>
+<polygon data-direction="4" points="505.31,377.5 505.31,614.48 512.68,614.48 501,636 489.31,614.48 496.69,614.48 496.69,377.5" fill="#c8c8c8" transform="translate(1002 0) scale(-1 1)"/>
+<polygon data-direction="5" points="504.04,380.54 335.51,549.07 340.73,554.29 317.25,561.25 324.21,537.77 329.43,542.99 497.96,374.46" fill="#c8c8c8" transform="translate(1002 0) scale(-1 1)"/>
+<polygon data-direction="6" points="501,381.81 265.52,381.81 265.52,389.19 244,377.5 265.52,365.82 265.52,373.2 501,373.19" fill="#000000" transform="translate(1002 0) scale(-1 1)"/>
+<polygon data-direction="7" points="497.96,380.54 330.43,213.01 325.21,218.23 318.25,194.75 341.73,201.71 336.51,206.93 504.04,374.46" fill="#c8c8c8" transform="translate(1002 0) scale(-1 1)"/>
+<ellipse cx="501" cy="377.5" rx="61.5" ry="62" fill="#fee598" stroke="#333" stroke-width="0.8" transform="translate(1002 0) scale(-1 1)"/>
+<text x="501" y="373.46" text-anchor="middle" font-family="Arial,sans-serif" font-size="17.2" font-weight="700">Okuri Ashi</text>
+<text x="501" y="393.24" text-anchor="middle" font-family="Arial,sans-serif" font-size="17.2" font-weight="700">Harai</text>
+<rect x="100" y="357" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="167.5" y="385.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+<rect x="761" y="357" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="828.5" y="385.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>

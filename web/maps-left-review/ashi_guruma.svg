@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Ashi Guruma (Leg Wheel) — left-handed directional map</title>
+<desc id="desc">Left-handed map reflected across the vertical centerline under the owner-confirmed clock-face rule. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="502.5,372.5 502.5,192 631.71,243.29" fill="#f4c8f4" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1005 0) scale(-1 1)"/>
+<polygon points="502.5,372.5 631.71,243.29 682,372.5" fill="#fefec8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1005 0) scale(-1 1)"/>
+<polygon points="502.5,372.5 682,372.5 629.21,499.21" fill="#c8e2c8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1005 0) scale(-1 1)"/>
+<polygon points="502.5,372.5 629.21,499.21 502.5,553" fill="#feddc8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1005 0) scale(-1 1)"/>
+<polygon points="502.5,372.5 502.5,553 374.29,500.71" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1005 0) scale(-1 1)"/>
+<polygon points="502.5,372.5 374.29,500.71 324,372.5" fill="#fec8c8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1005 0) scale(-1 1)"/>
+<polygon points="502.5,372.5 324,372.5 374.29,244.29" fill="#c8ddfe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1005 0) scale(-1 1)"/>
+<polygon points="502.5,372.5 374.29,244.29 502.5,192" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1005 0) scale(-1 1)"/>
+<polygon data-direction="0" points="497.95,372.5 497.95,138.75 490.15,138.75 502.5,116 514.85,138.75 507.05,138.75 507.05,372.5" fill="#c8c8c8" transform="translate(1005 0) scale(-1 1)"/>
+<polygon data-direction="1" points="499.28,369.28 665.7,202.87 660.18,197.35 685,190 677.65,214.82 672.13,209.3 505.72,375.72" fill="#c8c8c8" transform="translate(1005 0) scale(-1 1)"/>
+<polygon data-direction="2" points="502.5,367.95 738.25,367.95 738.25,360.15 761,372.5 738.25,384.85 738.25,377.05 502.5,377.05" fill="#c8c8c8" transform="translate(1005 0) scale(-1 1)"/>
+<polygon data-direction="3" points="505.72,369.28 672.13,535.7 677.65,530.18 685,555 660.18,547.65 665.7,542.13 499.28,375.72" fill="#c8c8c8" transform="translate(1005 0) scale(-1 1)"/>
+<polygon data-direction="4" points="507.05,372.5 507.05,607.25 514.85,607.25 502.5,630 490.15,607.25 497.95,607.25 497.95,372.5" fill="#000000" transform="translate(1005 0) scale(-1 1)"/>
+<polygon data-direction="5" points="505.72,375.72 340.3,541.13 345.82,546.65 321,554 328.35,529.18 333.87,534.7 499.28,369.28" fill="#c8c8c8" transform="translate(1005 0) scale(-1 1)"/>
+<polygon data-direction="6" points="502.5,377.05 268.75,377.05 268.75,384.85 246,372.5 268.75,360.15 268.75,367.95 502.5,367.95" fill="#c8c8c8" transform="translate(1005 0) scale(-1 1)"/>
+<polygon data-direction="7" points="499.28,375.72 333.87,210.3 328.35,215.82 321,191 345.82,198.35 340.3,203.87 505.72,369.28" fill="#c8c8c8" transform="translate(1005 0) scale(-1 1)"/>
+<ellipse cx="502.5" cy="372.5" rx="65" ry="63" fill="#ffe699" stroke="#333" stroke-width="0.8" transform="translate(1005 0) scale(-1 1)"/>
+<text x="502.5" y="365.93" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Ashi</text>
+<text x="502.5" y="398.07" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Guruma</text>
+<rect x="434" y="634" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="501.5" y="662.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>

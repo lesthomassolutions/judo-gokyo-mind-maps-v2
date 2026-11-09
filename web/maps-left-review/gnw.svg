@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Gokyo No Waza — left-handed directional map</title>
+<desc id="desc">Left-handed map reflected across the vertical centerline under the owner-confirmed clock-face rule. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="499.5,374.5 499.5,193 629.21,244.79" fill="#f3c8f3" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,374.5 629.21,244.79 681,374.5" fill="#fefec8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,374.5 681,374.5 627.71,502.71" fill="#c8e2c8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,374.5 627.71,502.71 499.5,558" fill="#feddc7" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,374.5 499.5,558 369.29,504.71" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,374.5 369.29,504.71 318,374.5" fill="#fec7c7" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,374.5 318,374.5 370.29,245.29" fill="#c8ddfe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon points="499.5,374.5 370.29,245.29 499.5,193" fill="#e8ddd3" stroke="#c8c8c8" stroke-width="1.5" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="0" points="495.16,374.5 495.16,137.7 487.72,137.7 499.5,116 511.28,137.7 503.84,137.7 503.84,374.5" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="1" points="496.43,371.43 664.59,203.28 659.33,198.01 683,191 675.99,214.67 670.72,209.41 502.57,377.57" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="2" points="499.5,370.16 737.3,370.16 737.3,362.72 759,374.5 737.3,386.28 737.3,378.84 499.5,378.84" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="3" points="502.57,371.43 671.72,540.59 676.99,535.33 684,559 660.33,551.99 665.59,546.72 496.43,377.57" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="4" points="503.84,374.5 503.84,612.3 511.28,612.3 499.5,634 487.72,612.3 495.16,612.3 495.16,374.5" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="5" points="502.57,377.57 333.41,546.72 338.67,551.99 315,559 322.01,535.33 327.28,540.59 496.43,371.43" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="6" points="499.5,378.84 261.7,378.84 261.7,386.28 240,374.5 261.7,362.72 261.7,370.16 499.5,370.16" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<polygon data-direction="7" points="496.43,377.57 328.78,209.91 323.51,215.17 316.5,191.5 340.17,198.51 334.91,203.78 502.57,371.43" fill="#c8c8c8" transform="translate(999 0) scale(-1 1)"/>
+<ellipse cx="499.5" cy="374.5" rx="62" ry="62" fill="#fee599" stroke="#333" stroke-width="0.8" transform="translate(999 0) scale(-1 1)"/>
+<text x="499.5" y="357.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="700">Uke</text>
+<path class="uke-foot" d="M11 1 C3 1 2 9 3 17 C4 25 3 29 1.5 34 C0 38 0 43 2 45 C3 47 5 47 6 45 C4 49 7 51 9 49 C8 53 12 55 15 52 C14 57 20 58 22 53 C25 58 31 55 31 50 C31 45 27 41 25 36 C22 31 20 27 20 22 C20 17 23 10 22 6 C21 2 16 0 11 1 Z" fill="#848484" stroke="#626262" stroke-width="1.3" stroke-linejoin="round" transform="translate(999 0) scale(-1 1) translate(465.5 369.5) scale(0.72 .9)"/>
+<path class="uke-foot" d="M11 1 C3 1 2 9 3 17 C4 25 3 29 1.5 34 C0 38 0 43 2 45 C3 47 5 47 6 45 C4 49 7 51 9 49 C8 53 12 55 15 52 C14 57 20 58 22 53 C25 58 31 55 31 50 C31 45 27 41 25 36 C22 31 20 27 20 22 C20 17 23 10 22 6 C21 2 16 0 11 1 Z" fill="#848484" stroke="#626262" stroke-width="1.3" stroke-linejoin="round" transform="translate(999 0) scale(-1 1) translate(533.5 369.5) scale(-0.72 .9)"/>
+</svg>

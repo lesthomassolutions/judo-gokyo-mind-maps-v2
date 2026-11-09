@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Uki Goshi (Floating Hip) — left-handed directional map</title>
+<desc id="desc">Left-handed map reflected across the vertical centerline under the owner-confirmed clock-face rule. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="500.5,377.5 500.5,189 634.71,243.29" fill="#f3c8f3" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 634.71,243.29 687,377.5" fill="#fefec8" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 687,377.5 630.71,507.71" fill="#c7e2c7" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 630.71,507.71 500.5,563" fill="#feddc7" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 500.5,563 369.29,508.71" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 369.29,508.71 315,377.5" fill="#fec7c7" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 315,377.5 366.79,243.79" fill="#c8ddfe" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon points="500.5,377.5 366.79,243.79 500.5,189" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="0" points="495.95,377.5 495.95,132.75 488.15,132.75 500.5,110 512.85,132.75 505.05,132.75 505.05,377.5" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="1" points="497.28,374.28 670.7,200.87 665.18,195.35 690,188 682.65,212.82 677.13,207.3 503.72,380.72" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="2" points="500.5,372.95 744.25,372.95 744.25,365.15 767,377.5 744.25,389.85 744.25,382.05 500.5,382.05" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="3" points="503.72,374.28 675.63,546.2 681.15,540.68 688.5,565.5 663.68,558.15 669.2,552.63 497.28,380.72" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="4" points="505.05,377.5 505.05,618.25 512.85,618.25 500.5,641 488.15,618.25 495.95,618.25 495.95,377.5" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="5" points="503.72,380.72 331.3,553.13 336.82,558.65 312,566 319.35,541.18 324.87,546.7 497.28,374.28" fill="#000000" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="6" points="500.5,382.05 257.75,382.05 257.75,389.85 235,377.5 257.75,365.15 257.75,372.95 500.5,372.95" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<polygon data-direction="7" points="497.28,380.72 324.87,208.3 319.35,213.82 312,189 336.82,196.35 331.3,201.87 503.72,374.28" fill="#c8c8c8" transform="translate(1001 0) scale(-1 1)"/>
+<ellipse cx="500.5" cy="377.5" rx="65" ry="63" fill="#ffe699" stroke="#333" stroke-width="0.8" transform="translate(1001 0) scale(-1 1)"/>
+<text x="500.5" y="370.93" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Uki</text>
+<text x="500.5" y="403.07" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Goshi</text>
+<rect x="665" y="571" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="732.5" y="599.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>
