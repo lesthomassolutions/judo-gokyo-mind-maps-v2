@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 918 909" role="img" aria-labelledby="title desc">
+<title id="title">Harai Tsurikomi Ashi (Lifting Pulling Foot Sweep) — original directional map</title>
+<desc id="desc">Vector reconstruction preserving the original sectors, arrows and success areas. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="460.5,453.5 460.5,166 663.71,250.29" fill="#f3c7f3" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="460.5,453.5 663.71,250.29 747,453.5" fill="#fefec7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="460.5,453.5 747,453.5 662.21,655.21" fill="#008000" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="460.5,453.5 662.21,655.21 460.5,746" fill="#feddc7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="460.5,453.5 460.5,746 253.79,660.21" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="460.5,453.5 253.79,660.21 169,453.5" fill="#fe0000" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="460.5,453.5 169,453.5 254.79,247.79" fill="#c7ddfe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="460.5,453.5 254.79,247.79 460.5,166" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon data-direction="0" points="453.64,453.5 453.64,79.3 441.88,79.3 460.5,45 479.12,79.3 467.36,79.3 467.36,453.5" fill="#c8c8c8"/>
+<polygon data-direction="1" points="455.65,448.65 720.9,183.4 712.58,175.09 750,164 738.91,201.42 730.6,193.1 465.35,458.35" fill="#c8c8c8"/>
+<polygon data-direction="2" points="460.5,446.64 840.7,446.64 840.7,434.88 875,453.5 840.7,472.12 840.7,460.36 460.5,460.36" fill="#000000"/>
+<polygon data-direction="3" points="465.35,448.65 733.1,716.4 741.41,708.08 752.5,745.5 715.08,734.41 723.4,726.1 455.65,458.35" fill="#000000"/>
+<polygon data-direction="4" points="467.36,453.5 467.36,830.7 479.12,830.7 460.5,865 441.88,830.7 453.64,830.7 453.64,453.5" fill="#c8c8c8"/>
+<polygon data-direction="5" points="465.35,458.35 198.1,725.6 206.42,733.91 169,745 180.09,707.58 188.4,715.9 455.65,448.65" fill="#000000"/>
+<polygon data-direction="6" points="460.5,460.36 80.3,460.36 80.3,472.12 46,453.5 80.3,434.88 80.3,446.64 460.5,446.64" fill="#000000"/>
+<polygon data-direction="7" points="455.65,458.35 187.9,190.6 179.59,198.92 168.5,161.5 205.92,172.59 197.6,180.9 465.35,448.65" fill="#c8c8c8"/>
+<ellipse cx="460.5" cy="453.5" rx="98" ry="98" fill="#fee598" stroke="#333" stroke-width="0.8"/>
+<text x="460.5" y="428.83" text-anchor="middle" font-family="Arial,sans-serif" font-size="30.45" font-weight="700">Harai</text>
+<text x="460.5" y="463.85" text-anchor="middle" font-family="Arial,sans-serif" font-size="30.45" font-weight="700">Tsurikomi</text>
+<text x="460.5" y="498.87" text-anchor="middle" font-family="Arial,sans-serif" font-size="30.45" font-weight="700">Ashi</text>
+<rect x="718" y="556" width="194" height="64" rx="9.6" fill="#00b050" stroke="#339933" stroke-width="5.12"/>
+<text x="815" y="599.52" text-anchor="middle" font-family="Arial,sans-serif" font-size="38.4" font-weight="700" fill="#006600">Success</text>
+<rect x="4" y="556" width="194" height="64" rx="9.6" fill="#00b050" stroke="#339933" stroke-width="5.12"/>
+<text x="101" y="599.52" text-anchor="middle" font-family="Arial,sans-serif" font-size="38.4" font-weight="700" fill="#006600">Success</text>
+</svg>

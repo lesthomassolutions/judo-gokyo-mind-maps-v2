@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Sumi Otoshi (Corner Drop) — original directional map</title>
+<desc id="desc">Vector reconstruction preserving the original sectors, arrows and success areas. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="500.5,376.5 500.5,194 631.21,245.79" fill="#f3c7f3" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,376.5 631.21,245.79 686,376.5" fill="#fefec7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,376.5 686,376.5 633.21,509.21" fill="#c8e2c8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,376.5 633.21,509.21 500.5,567" fill="#feddc7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,376.5 500.5,567 367.29,509.71" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,376.5 367.29,509.71 315,376.5" fill="#fec8c8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,376.5 315,376.5 369.79,245.79" fill="#c7ddfe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,376.5 369.79,245.79 500.5,194" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon data-direction="0" points="495.95,376.5 495.95,137.75 488.15,137.75 500.5,115 512.85,137.75 505.05,137.75 505.05,376.5" fill="#c8c8c8"/>
+<polygon data-direction="1" points="497.28,373.28 667.7,202.87 662.18,197.35 687,190 679.65,214.82 674.13,209.3 503.72,379.72" fill="#c8c8c8"/>
+<polygon data-direction="2" points="500.5,371.95 744.25,371.95 744.25,364.15 767,376.5 744.25,388.85 744.25,381.05 500.5,381.05" fill="#c8c8c8"/>
+<polygon data-direction="3" points="503.72,373.28 677.63,547.2 683.15,541.68 690.5,566.5 665.68,559.15 671.2,553.63 497.28,379.72" fill="#c8c8c8"/>
+<polygon data-direction="4" points="505.05,376.5 505.05,622.25 512.85,622.25 500.5,645 488.15,622.25 495.95,622.25 495.95,376.5" fill="#c8c8c8"/>
+<polygon data-direction="5" points="503.72,379.72 330.3,553.13 335.82,558.65 311,566 318.35,541.18 323.87,546.7 497.28,373.28" fill="#c8c8c8"/>
+<polygon data-direction="6" points="500.5,381.05 257.75,381.05 257.75,388.85 235,376.5 257.75,364.15 257.75,371.95 500.5,371.95" fill="#c8c8c8"/>
+<polygon data-direction="7" points="497.28,379.72 327.37,209.8 321.85,215.32 314.5,190.5 339.32,197.85 333.8,203.37 503.72,373.28" fill="#000000"/>
+<ellipse cx="500.5" cy="376.5" rx="65" ry="63" fill="#fee598" stroke="#333" stroke-width="0.8"/>
+<text x="500.5" y="369.93" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Sumi</text>
+<text x="500.5" y="402.07" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Otoshi</text>
+<rect x="237" y="146" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="304.5" y="174.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>

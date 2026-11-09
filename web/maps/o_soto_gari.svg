@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">O Soto Gari (Major Outer Reap) — original directional map</title>
+<desc id="desc">Vector reconstruction preserving the original sectors, arrows and success areas. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="502.5,372 502.5,194 630.46,244.04" fill="#f3c7f3" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="502.5,372 630.46,244.04 685,372" fill="#fefec7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="502.5,372 685,372 631.96,501.46" fill="#c7e2c7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="502.5,372 631.96,501.46 502.5,559" fill="#feddc7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="502.5,372 502.5,559 372.54,501.96" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="502.5,372 372.54,501.96 321,372" fill="#fec7c7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="502.5,372 321,372 375.54,245.04" fill="#c7ddfe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="502.5,372 375.54,245.04 502.5,194" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon data-direction="0" points="498.16,372 498.16,138.7 490.72,138.7 502.5,117 514.28,138.7 506.84,138.7 506.84,372" fill="#c8c8c8"/>
+<polygon data-direction="1" points="499.43,368.93 666.34,202.03 661.08,196.76 684.75,189.75 677.74,213.42 672.47,208.16 505.57,375.07" fill="#c8c8c8"/>
+<polygon data-direction="2" points="502.5,367.66 741.3,367.66 741.3,360.22 763,372 741.3,383.78 741.3,376.34 502.5,376.34" fill="#c8c8c8"/>
+<polygon data-direction="3" points="505.57,368.93 676.47,539.84 681.74,534.58 688.75,558.25 665.08,551.24 670.34,545.97 499.43,375.07" fill="#c8c8c8"/>
+<polygon data-direction="4" points="506.84,372 506.84,613.3 514.28,613.3 502.5,635 490.72,613.3 498.16,613.3 498.16,372" fill="#c8c8c8"/>
+<polygon data-direction="5" points="505.57,375.07 336.16,544.47 341.42,549.74 317.75,556.75 324.76,533.08 330.03,538.34 499.43,368.93" fill="#c8c8c8"/>
+<polygon data-direction="6" points="502.5,376.34 265.7,376.34 265.7,383.78 244,372 265.7,360.22 265.7,367.66 502.5,367.66" fill="#c8c8c8"/>
+<polygon data-direction="7" points="499.43,375.07 333.53,209.16 328.26,214.42 321.25,190.75 344.92,197.76 339.66,203.03 505.57,368.93" fill="#000000"/>
+<ellipse cx="502.5" cy="372" rx="62" ry="62.5" fill="#f4dc92" stroke="#333" stroke-width="0.8"/>
+<text x="502.5" y="350.41" text-anchor="middle" font-family="Arial,sans-serif" font-size="26.66" font-weight="700">O</text>
+<text x="502.5" y="381.06" text-anchor="middle" font-family="Arial,sans-serif" font-size="26.66" font-weight="700">Soto</text>
+<text x="502.5" y="411.72" text-anchor="middle" font-family="Arial,sans-serif" font-size="26.66" font-weight="700">Gari</text>
+<rect x="247" y="146" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="314.5" y="174.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>

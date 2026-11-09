@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Kosoto Gake (Small Outside Hook) — original directional map</title>
+<desc id="desc">Vector reconstruction preserving the original sectors, arrows and success areas. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="500.5,377.5 500.5,192 633.71,244.29" fill="#cb00cb" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,377.5 633.71,244.29 689,377.5" fill="#fefec8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,377.5 689,377.5 632.71,509.71" fill="#c8e2c8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,377.5 632.71,509.71 500.5,565" fill="#feddc8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,377.5 500.5,565 368.79,509.21" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,377.5 368.79,509.21 317,377.5" fill="#fec8c8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,377.5 317,377.5 369.79,246.79" fill="#c8ddfe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="500.5,377.5 369.79,246.79 500.5,192" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon data-direction="0" points="495.95,377.5 495.95,136.75 488.15,136.75 500.5,114 512.85,136.75 505.05,136.75 505.05,377.5" fill="#000000"/>
+<polygon data-direction="1" points="497.28,374.28 669.7,201.87 664.18,196.35 689,189 681.65,213.82 676.13,208.3 503.72,380.72" fill="#000000"/>
+<polygon data-direction="2" points="500.5,372.95 746.25,372.95 746.25,365.15 769,377.5 746.25,389.85 746.25,382.05 500.5,382.05" fill="#c8c8c8"/>
+<polygon data-direction="3" points="503.72,374.28 677.13,547.7 682.65,542.18 690,567 665.18,559.65 670.7,554.13 497.28,380.72" fill="#c8c8c8"/>
+<polygon data-direction="4" points="505.05,377.5 505.05,621.25 512.85,621.25 500.5,644 488.15,621.25 495.95,621.25 495.95,377.5" fill="#c8c8c8"/>
+<polygon data-direction="5" points="503.72,380.72 332.8,551.63 338.32,557.15 313.5,564.5 320.85,539.68 326.37,545.2 497.28,374.28" fill="#c8c8c8"/>
+<polygon data-direction="6" points="500.5,382.05 260.75,382.05 260.75,389.85 238,377.5 260.75,365.15 260.75,372.95 500.5,372.95" fill="#c8c8c8"/>
+<polygon data-direction="7" points="497.28,380.72 327.37,210.8 321.85,216.32 314.5,191.5 339.32,198.85 333.8,204.37 503.72,374.28" fill="#c8c8c8"/>
+<ellipse cx="500.5" cy="377.5" rx="65" ry="63" fill="#ffe699" stroke="#333" stroke-width="0.8"/>
+<text x="500.5" y="371.4" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.97" font-weight="700">Ko Soto</text>
+<text x="500.5" y="401.26" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.97" font-weight="700">Gake</text>
+<rect x="531" y="156" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="598.5" y="184.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>

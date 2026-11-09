@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">O Uchi Gari (Major Inner Reap) — original directional map</title>
+<desc id="desc">Vector reconstruction preserving the original sectors, arrows and success areas. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="501,377 501,190 634.71,243.29" fill="#f3c7f3" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377 634.71,243.29 687,377" fill="#fefec7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377 687,377 630.71,506.71" fill="#c7e2c7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377 630.71,506.71 501,563" fill="#feddc7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377 501,563 368.79,509.21" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377 368.79,509.21 315,377" fill="#fec7c7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377 315,377 367.79,243.79" fill="#c7ddfe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377 367.79,243.79 501,190" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon data-direction="0" points="496.56,377 496.56,132.22 488.94,132.22 501,110 513.07,132.22 505.44,132.22 505.44,377" fill="#c8c8c8"/>
+<polygon data-direction="1" points="497.86,373.86 671.14,200.57 665.75,195.18 690,188 682.82,212.25 677.43,206.86 504.14,380.14" fill="#000000"/>
+<polygon data-direction="2" points="501,372.56 744.77,372.56 744.77,364.94 767,377 744.77,389.06 744.77,381.44 501,381.44" fill="#c8c8c8"/>
+<polygon data-direction="3" points="504.14,373.86 675.93,545.64 681.32,540.25 688.5,564.5 664.25,557.32 669.64,551.93 497.86,380.14" fill="#c8c8c8"/>
+<polygon data-direction="4" points="505.44,377 505.44,618.77 513.07,618.77 501,641 488.94,618.77 496.56,618.77 496.56,377" fill="#c8c8c8"/>
+<polygon data-direction="5" points="504.14,380.14 332.36,551.93 337.75,557.32 313.5,564.5 320.68,540.25 326.07,545.64 497.86,373.86" fill="#c8c8c8"/>
+<polygon data-direction="6" points="501,381.44 258.23,381.45 258.23,389.07 236,377 258.23,364.94 258.23,372.56 501,372.56" fill="#c8c8c8"/>
+<polygon data-direction="7" points="497.86,380.14 325.07,207.36 319.68,212.75 312.5,188.5 336.75,195.68 331.36,201.07 504.14,373.86" fill="#c8c8c8"/>
+<ellipse cx="501" cy="377" rx="63.5" ry="63.5" fill="#fee598" stroke="#333" stroke-width="0.8"/>
+<text x="501" y="354.88" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.3" font-weight="700">O</text>
+<text x="501" y="386.28" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.3" font-weight="700">Uchi</text>
+<text x="501" y="417.68" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.3" font-weight="700">Gari</text>
+<rect x="640" y="143" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="707.5" y="171.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Ura Nage (Rear Throw) — original directional map</title>
+<desc id="desc">Vector reconstruction preserving the original sectors, arrows and success areas. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="499.5,375.5 499.5,192 630.71,244.29" fill="#f3c8f3" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499.5,375.5 630.71,244.29 685,375.5" fill="#fefec8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499.5,375.5 685,375.5 629.71,505.71" fill="#c8e2c8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499.5,375.5 629.71,505.71 499.5,561" fill="#feddc7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499.5,375.5 499.5,561 367.79,507.21" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499.5,375.5 367.79,507.21 315,375.5" fill="#fec7c7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499.5,375.5 315,375.5 369.29,245.29" fill="#c8ddfe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499.5,375.5 369.29,245.29 499.5,192" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon data-direction="0" points="494.95,375.5 494.95,133.75 487.15,133.75 499.5,111 511.85,133.75 504.05,133.75 504.05,375.5" fill="#000000"/>
+<polygon data-direction="1" points="496.28,372.28 667.2,201.37 661.68,195.85 686.5,188.5 679.15,213.32 673.63,207.8 502.72,378.72" fill="#c8c8c8"/>
+<polygon data-direction="2" points="499.5,370.95 742.25,370.95 742.25,363.15 765,375.5 742.25,387.85 742.25,380.05 499.5,380.05" fill="#c8c8c8"/>
+<polygon data-direction="3" points="502.72,372.28 674.13,543.7 679.65,538.18 687,563 662.18,555.65 667.7,550.13 496.28,378.72" fill="#c8c8c8"/>
+<polygon data-direction="4" points="504.05,375.5 504.05,616.25 511.85,616.25 499.5,639 487.15,616.25 494.95,616.25 494.95,375.5" fill="#c8c8c8"/>
+<polygon data-direction="5" points="502.72,378.72 332.3,549.13 337.82,554.65 313,562 320.35,537.18 325.87,542.7 496.28,372.28" fill="#c8c8c8"/>
+<polygon data-direction="6" points="499.5,380.05 258.75,380.05 258.75,387.85 236,375.5 258.75,363.15 258.75,370.95 499.5,370.95" fill="#c8c8c8"/>
+<polygon data-direction="7" points="496.28,378.72 326.37,208.8 320.85,214.32 313.5,189.5 338.32,196.85 332.8,202.37 502.72,372.28" fill="#c8c8c8"/>
+<ellipse cx="499.5" cy="375.5" rx="65" ry="63" fill="#ffe699" stroke="#333" stroke-width="0.8"/>
+<text x="499.5" y="368.93" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Ura</text>
+<text x="499.5" y="401.07" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Nage</text>
+<rect x="434" y="65" width="134" height="41" rx="6.15" fill="#00fe00" stroke="#339933" stroke-width="3.28"/>
+<text x="501" y="92.88" text-anchor="middle" font-family="Arial,sans-serif" font-size="24.6" font-weight="700" fill="#006600">Success</text>
+</svg>

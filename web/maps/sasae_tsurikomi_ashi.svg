@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Sasae Tsurikomi Ashi (Lifting Pulling Ankle Block) — original directional map</title>
+<desc id="desc">Vector reconstruction preserving the original sectors, arrows and success areas. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="501,374 501,194 628.21,246.79" fill="#f2c7f2" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,374 628.21,246.79 679,374" fill="#fdfdc7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,374 679,374 627.21,500.21" fill="#c6e1c6" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,374 627.21,500.21 501,557" fill="#fd6500" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,374 501,557 370.79,504.21" fill="#e7d1fd" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,374 370.79,504.21 319,374" fill="#fdc6c6" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,374 319,374 371.79,244.79" fill="#c7dcfd" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,374 371.79,244.79 501,194" fill="#e7dcd1" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon data-direction="0" points="496.62,374 496.62,140.88 489.12,140.88 501,119 512.88,140.88 505.38,140.88 505.38,374" fill="#c8c8c8"/>
+<polygon data-direction="1" points="497.91,370.91 662.94,205.87 657.64,200.57 681.5,193.5 674.43,217.36 669.13,212.06 504.09,377.09" fill="#c8c8c8"/>
+<polygon data-direction="2" points="501,369.62 735.12,369.62 735.12,362.12 757,374 735.12,385.88 735.12,378.38 501,378.38" fill="#c8c8c8"/>
+<polygon data-direction="3" points="504.09,370.91 670.63,537.44 675.93,532.14 683,556 659.14,548.93 664.44,543.63 497.91,377.09" fill="#000000"/>
+<polygon data-direction="4" points="505.38,374 505.38,611.12 512.88,611.12 501,633 489.12,611.12 496.62,611.12 496.62,374" fill="#000000"/>
+<polygon data-direction="5" points="504.09,377.09 336.06,545.13 341.36,550.43 317.5,557.5 324.57,533.64 329.87,538.94 497.91,370.91" fill="#c8c8c8"/>
+<polygon data-direction="6" points="501,378.38 263.88,378.38 263.88,385.88 242,374 263.88,362.13 263.88,369.63 501,369.62" fill="#c8c8c8"/>
+<polygon data-direction="7" points="497.91,377.09 331.37,210.56 326.07,215.86 319,192 342.86,199.07 337.56,204.37 504.09,370.91" fill="#c8c8c8"/>
+<ellipse cx="501" cy="374" rx="62.5" ry="61.5" fill="#fde497" stroke="#333" stroke-width="0.8"/>
+<text x="501" y="358.27" text-anchor="middle" font-family="Arial,sans-serif" font-size="19.42" font-weight="700">Sasae</text>
+<text x="501" y="380.6" text-anchor="middle" font-family="Arial,sans-serif" font-size="19.42" font-weight="700">Tsurikomi</text>
+<text x="501" y="402.94" text-anchor="middle" font-family="Arial,sans-serif" font-size="19.42" font-weight="700">Ashi</text>
+<rect x="520" y="557" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="587.5" y="585.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>

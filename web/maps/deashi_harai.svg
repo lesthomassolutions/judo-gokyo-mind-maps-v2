@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Deashi Harai (Forward Foot Sweep) — original directional map</title>
+<desc id="desc">Vector reconstruction preserving the original sectors, arrows and success areas. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="499,375 499,195 627.21,246.79" fill="#f3c8f3" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499,375 627.21,246.79 678,375" fill="#fefec8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499,375 678,375 624.71,500.71" fill="#c7e2c7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499,375 624.71,500.71 499,555" fill="#feddc7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499,375 499,555 370.79,503.21" fill="#9833fe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499,375 370.79,503.21 319,375" fill="#fec7c7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499,375 319,375 370.29,246.29" fill="#c8ddfe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="499,375 370.29,246.29 499,195" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon data-direction="0" points="494.69,375 494.69,140.53 487.31,140.53 499,119 510.69,140.53 503.31,140.53 503.31,375" fill="#c8c8c8"/>
+<polygon data-direction="1" points="495.96,371.96 661.74,206.18 656.52,200.96 680,194 673.04,217.48 667.82,212.26 502.04,378.04" fill="#c8c8c8"/>
+<polygon data-direction="2" points="499,370.69 733.48,370.69 733.48,363.31 755,375 733.48,386.69 733.48,379.31 499,379.31" fill="#c8c8c8"/>
+<polygon data-direction="3" points="502.04,371.96 667.82,537.74 673.04,532.52 680,556 656.52,549.04 661.74,543.82 495.96,378.04" fill="#c8c8c8"/>
+<polygon data-direction="4" points="503.31,375 503.31,608.48 510.69,608.48 499,630 487.31,608.48 494.69,608.48 494.69,375" fill="#000000"/>
+<polygon data-direction="5" points="502.04,378.04 335.76,544.32 340.98,549.54 317.5,556.5 324.46,533.02 329.68,538.24 495.96,371.96" fill="#000000"/>
+<polygon data-direction="6" points="499,379.31 264.52,379.31 264.52,386.69 243,375 264.52,363.32 264.52,370.7 499,370.69" fill="#c8c8c8"/>
+<polygon data-direction="7" points="495.96,378.04 329.68,211.76 324.46,216.98 317.5,193.5 340.98,200.46 335.76,205.68 502.04,371.96" fill="#c8c8c8"/>
+<ellipse cx="499" cy="375" rx="61.5" ry="61.5" fill="#fee598" stroke="#333" stroke-width="0.8"/>
+<text x="499" y="368.79" text-anchor="middle" font-family="Arial,sans-serif" font-size="26.45" font-weight="700">Deashi</text>
+<text x="499" y="399.2" text-anchor="middle" font-family="Arial,sans-serif" font-size="26.45" font-weight="700">Harai</text>
+<rect x="344" y="551" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="411.5" y="579.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>

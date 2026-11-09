@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Yoko Gake (Side Drop) — original directional map</title>
+<desc id="desc">Vector reconstruction preserving the original sectors, arrows and success areas. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="501.5,377.5 501.5,196 630.21,248.79" fill="#f4c8f4" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501.5,377.5 630.21,248.79 682,377.5" fill="#fefec8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501.5,377.5 682,377.5 628.71,504.71" fill="#c8e2c8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501.5,377.5 628.71,504.71 501.5,559" fill="#feddc8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501.5,377.5 501.5,559 372.79,506.21" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501.5,377.5 372.79,506.21 320,377.5" fill="#fec8c8" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501.5,377.5 320,377.5 372.29,248.29" fill="#c8ddfe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501.5,377.5 372.29,248.29 501.5,196" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon data-direction="0" points="496.95,377.5 496.95,141.75 489.15,141.75 501.5,119 513.85,141.75 506.05,141.75 506.05,377.5" fill="#c8c8c8"/>
+<polygon data-direction="1" points="498.28,374.28 665.2,207.37 659.68,201.85 684.5,194.5 677.15,219.32 671.63,213.8 504.72,380.72" fill="#c8c8c8"/>
+<polygon data-direction="2" points="501.5,372.95 740.25,372.95 740.25,365.15 763,377.5 740.25,389.85 740.25,382.05 501.5,382.05" fill="#000000"/>
+<polygon data-direction="3" points="504.72,374.28 672.13,541.7 677.65,536.18 685,561 660.18,553.65 665.7,548.13 498.28,380.72" fill="#c8c8c8"/>
+<polygon data-direction="4" points="506.05,377.5 506.05,613.25 513.85,613.25 501.5,636 489.15,613.25 496.95,613.25 496.95,377.5" fill="#c8c8c8"/>
+<polygon data-direction="5" points="504.72,380.72 336.8,548.63 342.32,554.15 317.5,561.5 324.85,536.68 330.37,542.2 498.28,374.28" fill="#c8c8c8"/>
+<polygon data-direction="6" points="501.5,382.05 266.75,382.05 266.75,389.85 244,377.5 266.75,365.15 266.75,372.95 501.5,372.95" fill="#000000"/>
+<polygon data-direction="7" points="498.28,380.72 331.37,213.8 325.85,219.32 318.5,194.5 343.32,201.85 337.8,207.37 504.72,374.28" fill="#c8c8c8"/>
+<ellipse cx="501.5" cy="377.5" rx="65" ry="63" fill="#ffe699" stroke="#333" stroke-width="0.8"/>
+<text x="501.5" y="370.93" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Yoko</text>
+<text x="501.5" y="403.07" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.95" font-weight="700">Gake</text>
+<rect x="767" y="357" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="834.5" y="385.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+<rect x="106" y="357" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="173.5" y="385.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>

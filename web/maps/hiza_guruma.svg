@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Hiza Guruma (Knee Wheel) — original directional map</title>
+<desc id="desc">Vector reconstruction preserving the original sectors, arrows and success areas. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="498.5,375 498.5,192 628.46,245.04" fill="#f3c7f3" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="498.5,375 628.46,245.04 679,375" fill="#fefec7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="498.5,375 679,375 624.46,500.96" fill="#c7e2c7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="498.5,375 624.46,500.96 498.5,555" fill="#fe6600" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="498.5,375 498.5,555 370.04,503.46" fill="#9933fe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="498.5,375 370.04,503.46 317,375" fill="#fec7c7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="498.5,375 317,375 368.54,245.04" fill="#c7ddfe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="498.5,375 368.54,245.04 498.5,192" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon data-direction="0" points="494.16,375 494.16,136.7 486.72,136.7 498.5,115 510.28,136.7 502.84,136.7 502.84,375" fill="#c8c8c8"/>
+<polygon data-direction="1" points="495.43,371.93 663.84,203.53 658.58,198.26 682.25,191.25 675.24,214.92 669.97,209.66 501.57,378.07" fill="#c8c8c8"/>
+<polygon data-direction="2" points="498.5,370.66 736.3,370.66 736.3,363.22 758,375 736.3,386.78 736.3,379.34 498.5,379.34" fill="#c8c8c8"/>
+<polygon data-direction="3" points="501.57,371.93 668.97,539.34 674.24,534.08 681.25,557.75 657.58,550.74 662.84,545.47 495.43,378.07" fill="#c8c8c8"/>
+<polygon data-direction="4" points="502.84,375 502.84,612.3 510.28,612.3 498.5,634 486.72,612.3 494.16,612.3 494.16,375" fill="#000000"/>
+<polygon data-direction="5" points="501.57,378.07 334.16,545.47 339.42,550.74 315.75,557.75 322.76,534.08 328.03,539.34 495.43,371.93" fill="#c8c8c8"/>
+<polygon data-direction="6" points="498.5,379.34 261.7,379.34 261.7,386.78 240,375 261.7,363.22 261.7,370.66 498.5,370.66" fill="#c8c8c8"/>
+<polygon data-direction="7" points="495.43,378.07 327.03,209.66 321.76,214.92 314.75,191.25 338.42,198.26 333.16,203.53 501.57,371.93" fill="#c8c8c8"/>
+<ellipse cx="498.5" cy="375" rx="62" ry="61.5" fill="#fee598" stroke="#333" stroke-width="0.8"/>
+<text x="498.5" y="368.73" text-anchor="middle" font-family="Arial,sans-serif" font-size="26.66" font-weight="700">Hiza</text>
+<text x="498.5" y="399.39" text-anchor="middle" font-family="Arial,sans-serif" font-size="26.66" font-weight="700">Guruma</text>
+<rect x="432" y="642" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="499.5" y="670.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>

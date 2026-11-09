@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Sumi Gaeshi (Corner Reversal) — original directional map</title>
+<desc id="desc">Vector reconstruction preserving the original sectors, arrows and success areas. Uke faces Tori. Attack links are provided by the surrounding map.</desc>
+<polygon points="501,377.5 501,189 634.96,243.54" fill="#f3c7f3" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377.5 634.96,243.54 687,377.5" fill="#fefec7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377.5 687,377.5 630.96,507.46" fill="#c7e2c7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377.5 630.96,507.46 501,563" fill="#feddc7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377.5 501,563 369.54,508.96" fill="#e8d2fe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377.5 369.54,508.96 315,377.5" fill="#fec7c7" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377.5 315,377.5 367.04,243.54" fill="#c7ddfe" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon points="501,377.5 367.04,243.54 501,189" fill="#e8ddd2" stroke="#c8c8c8" stroke-width="1.5"/>
+<polygon data-direction="0" points="496.49,377.5 496.49,132.57 488.75,132.57 501,110 513.25,132.57 505.51,132.57 505.51,377.5" fill="#c8c8c8"/>
+<polygon data-direction="1" points="497.81,374.31 671.09,201.02 665.62,195.55 690.25,188.25 682.95,212.88 677.48,207.41 504.19,380.69" fill="#c8c8c8"/>
+<polygon data-direction="2" points="501,372.99 745.42,372.99 745.42,365.25 768,377.5 745.42,389.75 745.42,382.01 501,382.01" fill="#c8c8c8"/>
+<polygon data-direction="3" points="504.19,374.31 675.98,546.09 681.45,540.62 688.75,565.25 664.12,557.95 669.59,552.48 497.81,380.69" fill="#c8c8c8"/>
+<polygon data-direction="4" points="505.51,377.5 505.51,619.42 513.25,619.42 501,642 488.75,619.42 496.49,619.42 496.49,377.5" fill="#c8c8c8"/>
+<polygon data-direction="5" points="504.19,380.69 331.41,553.48 336.88,558.95 312.25,566.25 319.55,541.62 325.02,547.09 497.81,374.31" fill="#000000"/>
+<polygon data-direction="6" points="501,382.01 257.57,382.02 257.57,389.76 235,377.5 257.57,365.25 257.57,372.99 501,372.99" fill="#c8c8c8"/>
+<polygon data-direction="7" points="497.81,380.69 324.52,207.41 319.05,212.88 311.75,188.25 336.38,195.55 330.91,201.02 504.19,374.31" fill="#c8c8c8"/>
+<ellipse cx="501" cy="377.5" rx="64.5" ry="63" fill="#fee598" stroke="#333" stroke-width="0.8"/>
+<text x="501" y="370.98" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.73" font-weight="700">Sumi</text>
+<text x="501" y="402.88" text-anchor="middle" font-family="Arial,sans-serif" font-size="27.73" font-weight="700">Gaeshi</text>
+<rect x="235" y="570" width="135" height="42" rx="6.3" fill="#00fe00" stroke="#339933" stroke-width="3.36"/>
+<text x="302.5" y="598.56" text-anchor="middle" font-family="Arial,sans-serif" font-size="25.2" font-weight="700" fill="#006600">Success</text>
+</svg>

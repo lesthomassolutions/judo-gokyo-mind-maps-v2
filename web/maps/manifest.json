@@ -1,0 +1,1396 @@
+[
+  {
+    "source": "Files/Image/gnw.gif",
+    "svg": "maps/gnw.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      499.5,
+      374.5,
+      62.0,
+      62.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec7c7",
+      "#c8ddfe",
+      "#e8ddd3"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/deashi_harai.gif",
+    "svg": "maps/deashi_harai.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      499.0,
+      375.0,
+      61.5,
+      61.5
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c7e2c7",
+      "#feddc7",
+      "#9833fe",
+      "#fec7c7",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "black",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/ashi_guruma.gif",
+    "svg": "maps/ashi_guruma.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/hane_goshi.gif",
+    "svg": "maps/hane_goshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/hane_makikomi.gif",
+    "svg": "maps/hane_makikomi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      499.5,
+      376.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c7e2c7",
+      "#feddc7",
+      "#9833fe",
+      "#fec7c7",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "black",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/harai_goshi.gif",
+    "svg": "maps/harai_goshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      499.5,
+      376.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c7e2c7",
+      "#feddc7",
+      "#9833fe",
+      "#fec7c7",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "black",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/Harai_Tsurikomi_Ashi.gif",
+    "svg": "maps/Harai_Tsurikomi_Ashi.svg",
+    "viewBox": [
+      918,
+      909
+    ],
+    "center": [
+      460.5,
+      453.5,
+      98.0,
+      98.0
+    ],
+    "sectorColors": [
+      "#f3c7f3",
+      "#fefec7",
+      "#008000",
+      "#feddc7",
+      "#e8d2fe",
+      "#fe0000",
+      "#c7ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "black",
+      "black",
+      "gray",
+      "black",
+      "black",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/hiza_guruma.gif",
+    "svg": "maps/hiza_guruma.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      498.5,
+      375.0,
+      62.0,
+      61.5
+    ],
+    "sectorColors": [
+      "#f3c7f3",
+      "#fefec7",
+      "#c7e2c7",
+      "#fe6600",
+      "#9933fe",
+      "#fec7c7",
+      "#c7ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/kata_guruma.gif",
+    "svg": "maps/kata_guruma.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/kosoto_gake.gif",
+    "svg": "maps/kosoto_gake.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      500.5,
+      377.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#cb00cb",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "black",
+      "black",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/koshi_guruma.gif",
+    "svg": "maps/koshi_guruma.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/kouchi_gari.gif",
+    "svg": "maps/kouchi_gari.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      500.0,
+      376.0,
+      64.5,
+      62.5
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec7",
+      "#c8e2c8",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c7ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "black",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/kosoto_gari.gif",
+    "svg": "maps/kosoto_gari.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      500.5,
+      377.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#cb00cb",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "black",
+      "black",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/o_goshi.gif",
+    "svg": "maps/o_goshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      501.0,
+      371.5,
+      61.5,
+      61.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c7e2c7",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec7c7",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/o_guruma.gif",
+    "svg": "maps/o_guruma.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/o_uchi_gari.gif",
+    "svg": "maps/o_uchi_gari.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      501.0,
+      377.0,
+      63.5,
+      63.5
+    ],
+    "sectorColors": [
+      "#f3c7f3",
+      "#fefec7",
+      "#c7e2c7",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec7c7",
+      "#c7ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/o_soto_guruma.gif",
+    "svg": "maps/o_soto_guruma.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      499.5,
+      376.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "black",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/o_soto_gari.gif",
+    "svg": "maps/o_soto_gari.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.0,
+      62.0,
+      62.5
+    ],
+    "sectorColors": [
+      "#f3c7f3",
+      "#fefec7",
+      "#c7e2c7",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec7c7",
+      "#c7ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black"
+    ]
+  },
+  {
+    "source": "Files/Image/okuriashi_harai.gif",
+    "svg": "maps/okuriashi_harai.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      501.0,
+      377.5,
+      61.5,
+      62.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c7e2c7",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec7c7",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/seoi_nage.gif",
+    "svg": "maps/seoi_nage.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/sasae_tsurikomi_ashi.gif",
+    "svg": "maps/sasae_tsurikomi_ashi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      501.0,
+      374.0,
+      62.5,
+      61.5
+    ],
+    "sectorColors": [
+      "#f2c7f2",
+      "#fdfdc7",
+      "#c6e1c6",
+      "#fd6500",
+      "#e7d1fd",
+      "#fdc6c6",
+      "#c7dcfd",
+      "#e7dcd1"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/soto_makikomi.gif",
+    "svg": "maps/soto_makikomi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      499.5,
+      376.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c7e2c7",
+      "#feddc7",
+      "#9833fe",
+      "#fec7c7",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "black",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/sukui_nage.gif",
+    "svg": "maps/sukui_nage.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      500.5,
+      375.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "black",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/sumi_otoshi.gif",
+    "svg": "maps/sumi_otoshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      500.5,
+      376.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c7f3",
+      "#fefec7",
+      "#c8e2c8",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c7ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black"
+    ]
+  },
+  {
+    "source": "Files/Image/sumi_gaeshi.gif",
+    "svg": "maps/sumi_gaeshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      501.0,
+      377.5,
+      64.5,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c7f3",
+      "#fefec7",
+      "#c7e2c7",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec7c7",
+      "#c7ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/tai_otoshi.gif",
+    "svg": "maps/tai_otoshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      499.5,
+      376.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c7e2c7",
+      "#feddc7",
+      "#9833fe",
+      "#fec7c7",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "black",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/tani_otoshi.gif",
+    "svg": "maps/tani_otoshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      500.0,
+      375.5,
+      64.5,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec7",
+      "#c8e2c8",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec7c7",
+      "#c7ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "black",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/tsuri_goshi.gif",
+    "svg": "maps/tsuri_goshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/tomoe_nage.gif",
+    "svg": "maps/tomoe_nage.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/uki_goshi.gif",
+    "svg": "maps/uki_goshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      500.5,
+      377.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c7e2c7",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec7c7",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/uchi_mata.gif",
+    "svg": "maps/uchi_mata.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      499.5,
+      376.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c7e2c7",
+      "#feddc7",
+      "#9833fe",
+      "#fec7c7",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "black",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/tsurikomi_goshi.gif",
+    "svg": "maps/tsurikomi_goshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/uki_otoshi.gif",
+    "svg": "maps/uki_otoshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/uki_waza.gif",
+    "svg": "maps/uki_waza.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/ura_nage.gif",
+    "svg": "maps/ura_nage.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      499.5,
+      375.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec7c7",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "black",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/utsuri_goshi.gif",
+    "svg": "maps/utsuri_goshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/ushiro_goshi.gif",
+    "svg": "maps/ushiro_goshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      500.0,
+      376.0,
+      64.5,
+      62.5
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec7",
+      "#c8e2c8",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c7ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "black",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/yoko_otoshi.gif",
+    "svg": "maps/yoko_otoshi.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      500.5,
+      377.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fe0000",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "black",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/yoko_gake.gif",
+    "svg": "maps/yoko_gake.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      501.5,
+      377.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/yoko_guruma.gif",
+    "svg": "maps/yoko_guruma.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      502.5,
+      372.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f4c8f4",
+      "#fefec8",
+      "#c8e2c8",
+      "#feddc8",
+      "#e8d2fe",
+      "#fec8c8",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray",
+      "gray"
+    ]
+  },
+  {
+    "source": "Files/Image/yoko_wakare.gif",
+    "svg": "maps/yoko_wakare.svg",
+    "viewBox": [
+      1000,
+      750
+    ],
+    "center": [
+      500.5,
+      377.5,
+      65.0,
+      63.0
+    ],
+    "sectorColors": [
+      "#f3c8f3",
+      "#fefec8",
+      "#c7e2c7",
+      "#feddc7",
+      "#e8d2fe",
+      "#fec7c7",
+      "#c8ddfe",
+      "#e8ddd2"
+    ],
+    "arrowsClockwiseFromNorth": [
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "gray",
+      "black",
+      "gray",
+      "gray"
+    ]
+  }
+]

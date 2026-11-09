@@ -26,3 +26,5 @@ Desktop and 390 × 844 phone screenshots were saved in the local review package.
 
 The original repository and website have not been changed.
 
+
+Update: the rendered directional diagrams now use 41 SVG assets, embedded in the standalone build. Original GIFs remain the historical baseline; illustration panels remain original GIFs. Resources cleanup and vector checks are documented in SVG-MAPS.md and PHASE-1-STATUS.md. Twelve automated checks now pass.

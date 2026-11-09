@@ -16,3 +16,5 @@ Run npm run build:preview to generate Judo-Mind-Maps-Preview.html, then open tha
 
 See [build instructions and verification limits](docs/PHASE-1-BUILD.md). The source is in web/, with npm start and npm test available when Node is installed.
 
+
+Current update: all directional diagrams use clean SVG artwork; see [SVG reconstruction](docs/SVG-MAPS.md). Technique illustration panels retain the original GIFs. Resources grouping has been restored and obsolete tool links removed.

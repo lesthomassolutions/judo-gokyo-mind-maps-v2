@@ -19,3 +19,12 @@ Before Phase 1 acceptance: owner review of presentation, all 40 external videos 
 ## Deferred
 
 Left-handed stance/perspective, mirroring and combination exceptions remain tracked for Phase 2, along with other enhancements or content changes. Earlier classification-change proposals are superseded for Phase 1. The original inventory remains a historical record.
+## SVG and Resources update
+
+Implemented the owner's requested Resources correction: OpenElement, Paint.NET and the entire “Various others including” subsection are absent from rendered credits. The four resource links appear directly below “Kodokan Judo, Jigoro Kano”, in the original order. Author/content credits, image attribution notice and usage terms remain.
+
+All 41 distinct directional diagrams (overview plus 40 techniques) now render as genuine SVG polygons, ellipses and text, including vector foot indicators on the overview. Original GIFs remain unchanged for comparison; technique illustration panels remain raster originals. SVGs are embedded in the regenerated standalone review copy.
+
+Verification: all source page records compare identically with the prior V2 baseline after excluding the added vector-asset path. Thus all link geometry, targets, labels, success hotspots, duplicates, illustration/video references and display proportions remain unchanged. Twelve automated checks pass, including all forty black-arrow direction sets and special success-sector colors. All 41 source/SVG pairs were inspected in the browser. Tai-otoshi was checked at 150% map zoom, and at a 390 × 844 phone viewport with Fit map. Corrected rendered Resources text/links were inspected. Browser console showed no errors during these checks.
+
+These are clean geometric reconstructions, not lossless pixel copies; font metrics and edge smoothing differ deliberately. Print output and broader accessibility acceptance remain pending. The owner reports finding no issues with video links; exhaustive playback was not newly performed in this update. Nothing deployed; original repository/site unchanged.
